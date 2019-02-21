@@ -1,0 +1,9 @@
+DriverType=MME Audio Output
+DriverName=Microsoft Sound Mapper
+Samplerate=44100
+AsioInputFlags=-1
+AsioOutputFlags=-1
+MmeNumBlocks=8
+MmeBlockSize=512
+CpuLoadLimit=0
+NumAudioProcessorThreads=4

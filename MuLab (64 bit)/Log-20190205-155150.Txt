@@ -1,0 +1,39 @@
+15:51:49:753 OpSys=Windows
+15:51:49:753 MuLab 7.7.4 64 bit
+15:51:49:753 Delta UTC = -13
+15:51:49:753 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+15:51:49:753 BStf[92] Desktop=/C:/Users/isaac/Desktop
+15:51:49:798 BStf[124] Graphics={Application}/App/Graphics
+15:51:49:807 Num screens = 2
+15:51:49:807 Screen 1 = 0,0,1920,1040
+15:51:49:807 Screen 2 = -1920,0,1920,1080
+15:51:49:813 File[94] fn=MidiControllerNames.Txt, ec=2
+15:51:49:813 File[94] fn=UKD.Txt, ec=2
+15:51:49:968 Gonna startup audio engine
+15:51:49:978 Gonna startup ASIO engine
+15:51:49:979 ASIO4ALL v2
+15:51:50:324 ASIOGetChannels OK. inputs: 2, outputs: 16
+15:51:50:324 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+15:51:50:325 ASIOGetSampleRate = 44100.000000
+15:51:50:325 ASIOOutputReady() - Not supported
+15:51:50:325 input chan 0 data type = 18
+15:51:50:325 input chan 1 data type = 18
+15:51:50:325 output chan 0 data type = 18
+15:51:50:325 output chan 1 data type = 18
+15:51:50:325 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+15:51:50:325 ASIOGetLatencies OK: InLat=764, OutLat=544
+15:51:50:325 ASIOStart OK
+15:51:50:697 Started the audio engine
+15:51:50:697 MIE[32] 0 Midi Input Ports:
+15:51:50:697 MOE[31] 1 Midi Output Ports:
+15:51:50:697 MOE[41] 0=Microsoft GS Wavetable Synth
+15:51:50:707 Started the MIDI engine
+15:51:50:741 App[669]
+15:51:52:236 LeftClick  in window "Open Project" : 85,126 -> 000001ABF4579CC0 = PSBT = RCNT = [20,117,88,31] = "Recent"
+15:51:53:324 LeftClick  in window "" : 60,176 -> 00000026CD4CC890 = TREL = PULs = [0,0,135,208]
+15:51:53:324 Popup list choice = Voice.MuProject
+16:49:01:852 LeftClick  in window "MuLab : Voice" : 87,14 -> 000001ABF75F2B18 = LABL = [4,4,268,19]
+16:49:02:759 LeftClick  in window "MuLab : Voice" : 160,7 -> 000001ABF75F2B18 = LABL = [4,4,268,19]
+16:49:05:407 LeftClick  in window "MuLab : Voice" : 135,12 -> 000001ABF75F2B18 = LABL = [4,4,268,19]
+00:11:50:797 LeftClick  in window "MuLab : Voice" : 98,206 -> 000001ABF491B2B0 = TREL = [21,191,242,607]
+00:11:50:888 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav

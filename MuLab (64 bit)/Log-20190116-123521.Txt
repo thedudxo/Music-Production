@@ -1,0 +1,748 @@
+12:35:20:986 OpSys=Windows
+12:35:20:986 MuLab 7.7.4 64 bit
+12:35:20:987 Delta UTC = -13
+12:35:20:987 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+12:35:20:987 BStf[92] Desktop=/C:/Users/isaac/Desktop
+12:35:21:041 BStf[124] Graphics={Application}/App/Graphics
+12:35:21:050 Num screens = 2
+12:35:21:050 Screen 1 = 0,0,1920,1040
+12:35:21:050 Screen 2 = -1920,0,1920,1080
+12:35:21:057 File[94] fn=MidiControllerNames.Txt, ec=2
+12:35:21:059 File[94] fn=UKD.Txt, ec=2
+12:35:21:241 Gonna startup audio engine
+12:35:21:253 Gonna startup MME engine
+12:35:21:356 Started MME audio engine:
+12:35:21:356   num headers=8
+12:35:21:356   header size=2048
+12:35:21:356   samplerate=44100
+12:35:21:396 Started the audio engine
+12:35:21:396 MIE[32] 0 Midi Input Ports:
+12:35:21:396 MOE[31] 1 Midi Output Ports:
+12:35:21:396 MOE[41] 0=Microsoft GS Wavetable Synth
+12:35:21:396 File[94] fn=MidiSetup.Txt, ec=2
+12:35:21:396 MOE[87] Couldn't read MidiSetup.Txt
+12:35:21:396 Started the MIDI engine
+12:35:21:429 App[669]
+12:35:23:058 LeftClick  in window "Open Project" : 76,60 -> 0000019A28D08020 = PSBT = [20,39,118,31] = "Engine Passive c2"
+12:35:28:147 LeftClick  in window "MuLab : Engine Passive c2" : 1379,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:29:202 LeftClick  in window "MuLab : Engine Passive c2" : 1255,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:31:004 LeftClick  in window "MuLab : Engine Passive c2" : 1255,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:36:987 LeftClick  in window "MuLab : Engine Passive c2" : 1377,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:41:925 LeftClick  in window "MuLab : Engine Passive c2" : 1254,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:44:084 LeftClick  in window "MuLab : Engine Passive c2" : 1136,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:48:771 LeftClick  in window "MuLab : Engine Passive c2" : 1373,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:50:658 LeftClick  in window "MuLab : Engine Passive c2" : 1494,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:55:379 LeftClick  in window "MuLab : Engine Passive c2" : 1135,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:35:58:643 LeftClick  in window "MuLab : Engine Passive c2" : 1256,60 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:00:739 LeftClick  in window "MuLab : Engine Passive c2" : 1374,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:05:139 LeftClick  in window "MuLab : Engine Passive c2" : 1500,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:06:059 LeftClick  in window "MuLab : Engine Passive c2" : 1495,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:17:178 LeftClick  in window "MuLab : Engine Passive c2" : 289,889 -> 0000019A2E9BCA18 = MpuC = [248,884,112,18]
+12:36:17:379 Chk DblClk = 1
+12:36:19:086 LeftClick  in window "MuLab : Engine Passive c2" : 1378,60 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:20:590 LeftClick  in window "MuLab : Engine Passive c2" : 1498,60 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:28:804 LeftClick  in window "SynthHost Front Panel" : 122,142 -> 0000019A2E3249C0 = MpuC = [41,133,112,18]
+12:36:28:995 Chk DblClk = 1
+12:36:42:139 LeftClick  in window "SynthHost Front Panel" : 95,141 -> 0000019A2E3249C0 = MpuC = [41,133,112,18]
+12:36:42:229 Drag 0000019A2E3249C0 = MpuC = [41,133,112,18]
+12:36:43:392 Drop on 0000019A2E9C4700 = MpuC = [248,906,112,18]
+12:36:44:364 LeftClick  in window "MuLab : Engine Passive c2" : 239,896 -> 0000019A2E9BC1D0 = MPBt = prcs = [233,887,12,12]
+12:36:46:154 LeftClick  in window "MuLab : Engine Passive c2" : 1376,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:47:229 LeftClick  in window "MuLab : Engine Passive c2" : 1490,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:56:139 LeftClick  in window "MuLab : Engine Passive c2" : 1491,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:36:59:491 LeftClick  in window "MuLab : Engine Passive c2" : 1491,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:00:445 LeftClick  in window "MuLab : Engine Passive c2" : 1491,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:02:444 LeftClick  in window "Rustbucket Engine Passive Front Panel" : 518,344 -> 0000019A2D037D40 = MpuC = [480,338,112,18]
+12:37:02:647 Chk DblClk = 1
+12:37:06:578 LeftClick  in window "PingPongBeat Front Panel" : 419,96 -> 0000019A2FF400B0 = SLDR = [396,78,32,32]
+12:37:06:979 UR action: Changed PingPongBeat -> Damping
+12:37:08:309 LeftClick  in window "MuLab : Engine Passive c2" : 1499,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:22:114 LeftClick  in window "MuLab : Engine Passive c2" : 1495,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:24:788 LeftClick  in window "MuLab : Engine Passive c2" : 1495,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:32:242 LeftClick  in window "MuLab : Engine Passive c2" : 1494,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:36:363 LeftClick  in window "MuLab : Engine Passive c2" : 1494,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:36:922 LeftClick  in window "MuLab : Engine Passive c2" : 1494,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:37:45:109 LeftClick  in window "PingPongBeat Front Panel" : 635,9 -> 0000019A2FEAF548 = PSBT = [627,4,17,17] = CloseDelete
+12:37:45:359 CF: 0000019A2FEAD010 = MEWd -> cuwd-clos = Close
+12:38:00:631 RightClick  in window "MuLab : Engine Passive c2" : 298,892 -> 0000019A2E9BCA18 = MpuC = [248,884,112,18]
+12:38:13:271 LeftClick  in window "Rustbucket Engine Passive Front Panel" : 262,48 -> 0000019A2FC6B4A0 = PSBT = flsv = [248,31,31,31] = FileSave
+12:38:14:421 Save Preset OK
+12:38:20:092 RightClick  in window "MuLab : Engine Passive c2" : 304,887 -> 0000019A2E9BCA18 = MpuC = [248,884,112,18]
+12:38:26:884 LeftClick  in window "" : 89,83 -> 00000077FF8D7040 = TREL = PULs = [0,0,178,628]
+12:38:26:884 Popup list choice = Delete
+12:38:26:886 CF: 0000019A2C79C010 = mufx -> wobj-delt = Delete
+12:38:26:902 UR action: Delete MUX Modular "SynthHost"
+12:38:28:162 LeftClick  in window "MuLab : Engine Passive c2" : 300,914 -> 0000019A2E9C4700 = MpuC = [248,906,112,18]
+12:38:28:207 Drag 0000019A2E9C4700 = MpuC = [248,906,112,18]
+12:38:28:572 Drop on 0000019A2E9BCA18 = MpuC = [248,884,112,18]
+12:38:29:187 LeftClick  in window "MuLab : Engine Passive c2" : 233,870 -> 0000019A2E9B44E8 = MPBt = prcs = [233,865,12,12]
+12:38:29:611 LeftClick  in window "MuLab : Engine Passive c2" : 234,898 -> 0000019A2E9BC1D0 = MPBt = prcs = [233,887,12,12]
+12:38:31:339 LeftClick  in window "MuLab : Engine Passive c2" : 1256,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:34:618 LeftClick  in window "MuLab : Engine Passive c2" : 1382,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:35:650 LeftClick  in window "MuLab : Engine Passive c2" : 1497,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:39:324 LeftClick  in window "MuLab : Engine Passive c2" : 1478,60 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:41:582 LeftClick  in window "MuLab : Engine Passive c2" : 1613,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:42:979 LeftClick  in window "MuLab : Engine Passive c2" : 1533,60 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:46:059 LeftClick  in window "MuLab : Engine Passive c2" : 1571,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:47:387 LeftClick  in window "MuLab : Engine Passive c2" : 1525,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:48:594 LeftClick  in window "MuLab : Engine Passive c2" : 1485,65 -> 0000019A2E715D88 = GPNL = [1079,27,833,42]
+12:38:49:362 LeftClick  in window "MuLab : Engine Passive c2" : 1500,62 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:51:943 LeftClick  in window "MuLab : Engine Passive c2" : 1576,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:54:461 LeftClick  in window "MuLab : Engine Passive c2" : 1471,43 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:38:57:818 LeftClick  in window "MuLab : Engine Passive c2" : 1447,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:01:275 LeftClick  in window "MuLab : Engine Passive c2" : 1586,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:02:763 LeftClick  in window "MuLab : Engine Passive c2" : 1563,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:03:909 LeftClick  in window "MuLab : Engine Passive c2" : 1532,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:05:594 LeftClick  in window "MuLab : Engine Passive c2" : 1516,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:08:466 LeftClick  in window "MuLab : Engine Passive c2" : 1591,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:11:435 LeftClick  in window "MuLab : Engine Passive c2" : 1574,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:13:514 LeftClick  in window "MuLab : Engine Passive c2" : 1603,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:14:179 LeftClick  in window "MuLab : Engine Passive c2" : 1627,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:15:859 LeftClick  in window "MuLab : Engine Passive c2" : 1616,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:17:242 LeftClick  in window "MuLab : Engine Passive c2" : 1597,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:19:483 LeftClick  in window "MuLab : Engine Passive c2" : 1563,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:20:122 LeftClick  in window "MuLab : Engine Passive c2" : 1546,46 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:21:596 LeftClick  in window "MuLab : Engine Passive c2" : 1476,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:22:738 LeftClick  in window "MuLab : Engine Passive c2" : 1447,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:25:762 LeftClick  in window "MuLab : Engine Passive c2" : 1523,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:26:235 LeftClick  in window "MuLab : Engine Passive c2" : 1498,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:27:330 LeftClick  in window "MuLab : Engine Passive c2" : 1539,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:27:742 LeftClick  in window "MuLab : Engine Passive c2" : 1587,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:28:764 LeftClick  in window "MuLab : Engine Passive c2" : 1572,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:29:379 LeftClick  in window "MuLab : Engine Passive c2" : 1542,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:29:834 LeftClick  in window "MuLab : Engine Passive c2" : 1488,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:34:939 LeftClick  in window "MuLab : Engine Passive c2" : 239,893 -> 0000019A2E9BC1D0 = MPBt = prcs = [233,887,12,12]
+12:39:35:994 LeftClick  in window "MuLab : Engine Passive c2" : 240,891 -> 0000019A2E9BC1D0 = MPBt = prcs = [233,887,12,12]
+12:39:37:228 LeftClick  in window "MuLab : Engine Passive c2" : 1253,62 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:41:052 LeftClick  in window "MuLab : Engine Passive c2" : 1136,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:46:634 LeftClick  in window "MuLab : Engine Passive c2" : 234,878 -> 0000019A2E9B3B90 = LABL = [230,862,18,18]
+12:39:47:114 LeftClick  in window "MuLab : Engine Passive c2" : 235,896 -> 0000019A2E9BC1D0 = MPBt = prcs = [233,887,12,12]
+12:39:47:506 LeftClick  in window "MuLab : Engine Passive c2" : 239,880 -> 0000019A2E9AD020 = RDRE = [222,834,218,190]
+12:39:47:676 Chk DblClk = 0
+12:39:47:834 LeftClick  in window "MuLab : Engine Passive c2" : 235,868 -> 0000019A2E9B44E8 = MPBt = prcs = [233,865,12,12]
+12:39:49:106 LeftClick  in window "MuLab : Engine Passive c2" : 1263,68 -> 0000019A2E715D88 = GPNL = [1079,27,833,42]
+12:39:49:418 LeftClick  in window "MuLab : Engine Passive c2" : 1253,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:51:394 LeftClick  in window "MuLab : Engine Passive c2" : 1499,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:39:59:817 LeftClick  in window "Rustbucket Engine Passive Front Panel" : 718,12 -> 0000019A2FDE5568 = PSBT = [709,4,17,17] = CloseDelete
+12:39:59:895 CF: 0000019A2FDE3030 = MEWd -> cuwd-clos = Close
+12:40:00:947 LeftClick  in window "MuLab : Engine Passive c2" : 314,909 -> 0000019A2E9C4700 = MpuC = [248,906,112,18]
+12:40:01:075 Chk DblClk = 0
+12:40:01:516 RwrMpu[60] RWMOpen error=100
+12:40:01:640 LeftClick  in window "" : 70,826 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:02:613 LeftClick  in window "" : 123,98 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:03:978 LeftClick  in window "" : 123,99 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:04:531 LeftClick  in window "" : 120,75 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:05:714 LeftClick  in window "" : 126,104 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:06:451 LeftClick  in window "" : 124,127 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:07:866 LeftClick  in window "" : 171,156 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:09:218 LeftClick  in window "" : 173,150 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:09:548 LeftClick  in window "" : 173,129 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:09:906 LeftClick  in window "" : 161,106 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:10:179 LeftClick  in window "" : 161,86 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:11:411 LeftClick  in window "" : 157,137 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:40:11:411 Popup list choice = Oscilator
+12:40:11:423 Load preset for 0000019A2FC84E30 = mufx : {UserLibrary}/Mux/Audio Generators/Oscilator.Mux
+12:40:11:517 UR action: Insert new Oscilator into rack
+12:40:13:460 LeftClick  in window "MuLab : Engine Passive c2" : 1496,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:15:946 LeftClick  in window "MuLab : Engine Passive c2" : 241,895 -> 0000019A2E9BC1D0 = MPBt = prcs = [233,887,12,12]
+12:40:17:212 LeftClick  in window "MuLab : Engine Passive c2" : 1500,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:17:955 LeftClick  in window "MuLab : Engine Passive c2" : 1487,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:18:603 LeftClick  in window "MuLab : Engine Passive c2" : 1491,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:21:278 RightClick  in window "Oscilator Front Panel" : 92,173 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:22:227 LeftClick  in window "" : 57,110 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:40:22:238 Popup list choice = Randomize
+12:40:22:242 CF: 0000019A303BA908 =  wft ->  wft-rand = Randomize
+12:40:22:986 LeftClick  in window "MuLab" : 63,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:23:066  => Randomize
+12:40:23:172 LeftClick  in window "MuLab" : 63,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:23:252  => Randomize
+12:40:23:339 LeftClick  in window "MuLab" : 63,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:23:414  => Randomize
+12:40:23:509 LeftClick  in window "MuLab" : 63,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:23:594  => Randomize
+12:40:23:659 LeftClick  in window "MuLab" : 63,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:23:770  => Randomize
+12:40:24:187 LeftClick  in window "MuLab" : 62,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:24:289  => Randomize
+12:40:24:747 LeftClick  in window "MuLab" : 62,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:24:857  => Randomize
+12:40:25:418 LeftClick  in window "MuLab" : 62,134 -> 00000077FF8D0200 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+12:40:25:511  => Randomize
+12:40:26:611 LeftClick  in window "MuLab" : 164,134 -> 00000077FF8D0EA0 = PSBT = btn2 = [117,119,81,31] = "Done"
+12:40:26:687  => Done
+12:40:26:689 UR action: Randomize WaveForm
+12:40:26:954 RightClick  in window "Oscilator Front Panel" : 147,193 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:27:957 LeftClick  in window "" : 70,192 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:40:27:957 Popup list choice = Lowpass
+12:40:27:960 CF: 0000019A303BA908 =  wft ->  wft-lwps = Lowpass
+12:40:29:352 LeftClick  in window "Octaves" : 39,62 -> 0000019A2EAFF790 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:40:29:448 UR action: Lowpass WaveForm
+12:40:31:356 LeftClick  in window "MuLab : Engine Passive c2" : 1495,62 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:32:590 RightClick  in window "Oscilator Front Panel" : 108,156 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:33:586 LeftClick  in window "Oscilator Front Panel" : 38,122 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:34:011 LeftClick  in window "Oscilator Front Panel" : 33,117 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:34:133 UR action: Draw WaveForm
+12:40:34:395 LeftClick  in window "Oscilator Front Panel" : 54,120 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:34:481 UR action: Draw WaveForm
+12:40:34:597 LeftClick  in window "Oscilator Front Panel" : 85,121 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:34:679 UR action: Draw WaveForm
+12:40:34:771 LeftClick  in window "Oscilator Front Panel" : 110,121 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:34:846 UR action: Draw WaveForm
+12:40:34:941 LeftClick  in window "Oscilator Front Panel" : 148,126 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:35:030 UR action: Draw WaveForm
+12:40:35:115 LeftClick  in window "Oscilator Front Panel" : 179,128 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:35:222 UR action: Draw WaveForm
+12:40:35:291 LeftClick  in window "Oscilator Front Panel" : 197,128 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:35:367 UR action: Draw WaveForm
+12:40:35:946 LeftClick  in window "Oscilator Front Panel" : 39,234 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:36:024 UR action: Draw WaveForm
+12:40:36:115 LeftClick  in window "Oscilator Front Panel" : 42,235 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:36:189 UR action: Draw WaveForm
+12:40:36:260 LeftClick  in window "Oscilator Front Panel" : 68,248 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:36:363 UR action: Draw WaveForm
+12:40:36:443 LeftClick  in window "Oscilator Front Panel" : 104,264 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:36:544 UR action: Draw WaveForm
+12:40:36:611 LeftClick  in window "Oscilator Front Panel" : 133,268 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:36:711 UR action: Draw WaveForm
+12:40:36:802 LeftClick  in window "Oscilator Front Panel" : 175,268 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:36:915 UR action: Draw WaveForm
+12:40:38:121 LeftClick  in window "MuLab : Engine Passive c2" : 1495,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:39:436 RightClick  in window "Oscilator Front Panel" : 151,133 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:40:508 LeftClick  in window "" : 63,200 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:40:40:508 Popup list choice = Lowpass
+12:40:40:511 CF: 0000019A303BA908 =  wft ->  wft-lwps = Lowpass
+12:40:41:236 LeftClick  in window "Octaves" : 37,69 -> 0000019A2EAFF790 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:40:41:330 UR action: Lowpass WaveForm
+12:40:41:706 RightClick  in window "Oscilator Front Panel" : 195,139 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:40:43:322 LeftClick  in window "" : 101,205 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:40:43:322 Popup list choice = Shrink Edges To Zero
+12:40:43:325 CF: 0000019A303BA908 =  wft ->  wft-sh20 = Shrink Edges To Zero
+12:40:43:891 LeftClick  in window "Span" : 11,63 -> 0000019A2EB01EC0 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:40:43:973 UR action: Shrink WaveForm Edges
+12:40:45:524 LeftClick  in window "MuLab : Engine Passive c2" : 1494,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:50:339 LeftClick  in window "MuLab : Engine Passive c2" : 1493,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:54:964 LeftClick  in window "MuLab : Engine Passive c2" : 1494,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:40:57:506 LeftClick  in window "MuLab : Engine Passive c2" : 1495,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:00:537 LeftClick  in window "MuLab : Engine Passive c2" : 1497,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:03:933 LeftClick  in window "Oscilator Front Panel" : 60,115 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:04:723 UR action: Draw WaveForm
+12:41:05:286 LeftClick  in window "Oscilator Front Panel" : 63,230 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:05:408 UR action: Draw WaveForm
+12:41:05:812 LeftClick  in window "Oscilator Front Panel" : 98,240 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:05:936 UR action: Draw WaveForm
+12:41:06:163 LeftClick  in window "Oscilator Front Panel" : 136,225 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:06:308 UR action: Draw WaveForm
+12:41:06:899 LeftClick  in window "Oscilator Front Panel" : 144,115 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:07:033 UR action: Draw WaveForm
+12:41:07:891 LeftClick  in window "Oscilator Front Panel" : 153,250 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:08:032 UR action: Draw WaveForm
+12:41:08:778 LeftClick  in window "Oscilator Front Panel" : 106,109 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:08:890 UR action: Draw WaveForm
+12:41:09:747 LeftClick  in window "Oscilator Front Panel" : 109,261 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:09:872 UR action: Draw WaveForm
+12:41:10:434 LeftClick  in window "Oscilator Front Panel" : 36,258 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:10:567 UR action: Draw WaveForm
+12:41:11:403 LeftClick  in window "Oscilator Front Panel" : 52,115 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:11:507 UR action: Draw WaveForm
+12:41:12:913 LeftClick  in window "MuLab : Engine Passive c2" : 1495,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:15:627 LeftClick  in window "MuLab : Engine Passive c2" : 1491,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:16:410 LeftClick  in window "MuLab : Engine Passive c2" : 1491,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:18:237 LeftClick  in window "Oscilator Front Panel" : 613,278 -> 0000019A31A7CB70 = SLDR = [589,259,32,32]
+12:41:18:910 UR action: Changed ADSR Envelope -> Release Time
+12:41:19:702 LeftClick  in window "MuLab : Engine Passive c2" : 1499,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:22:551 LeftClick  in window "Oscilator Front Panel" : Ctrl 87,341 -> 0000019A304C2B70 = MpuC = [2,333,222,18]
+12:41:22:654 Drag 0000019A304C2B70 = MpuC = [2,333,222,18]
+12:41:23:739 LeftClick  in window "Oscilator Front Panel" : Ctrl 93,343 -> 0000019A304C2B70 = MpuC = [2,333,222,18]
+12:41:23:801 Drag 0000019A304C2B70 = MpuC = [2,333,222,18]
+12:41:24:209 Drop on 0000019A3195E230 = MpuC = [31,363,201,18]
+12:41:24:682 RightClick  in window "Oscilator Front Panel" : 127,188 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:26:354 LeftClick  in window "" : 73,190 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:41:26:354 Popup list choice = Lowpass
+12:41:26:357 CF: 0000019A303BA908 =  wft ->  wft-lwps = Lowpass
+12:41:28:471 LeftClick  in window "Octaves" : 32,70 -> 0000019A2EAFF790 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:41:28:542 UR action: Lowpass WaveForm
+12:41:29:797 LeftClick  in window "MuLab : Engine Passive c2" : 1499,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:31:753 Key  in window "MuLab : Engine Passive c2" : Ctrl [Z] XY = 0,0 -> 0000019A2E700020 = MSED = [4,23,1912,1013]
+12:41:31:758 CF: 0000019A28DDFD58 = urmr -> urmr-undo = Undo
+12:41:31:758 Undo: Lowpass WaveForm
+12:41:32:277 RightClick  in window "Oscilator Front Panel" : 103,160 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:41:34:322 LeftClick  in window "" : 55,188 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:41:34:322 Popup list choice = Lowpass
+12:41:34:325 CF: 0000019A303BA908 =  wft ->  wft-lwps = Lowpass
+12:41:36:811 LeftClick  in window "Octaves" : 34,77 -> 0000019A2EB01EC0 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:41:36:884 UR action: Lowpass WaveForm
+12:41:37:989 LeftClick  in window "MuLab : Engine Passive c2" : 1497,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:39:830 Key  in window "MuLab : Engine Passive c2" : Ctrl [Z] XY = 0,0 -> 0000019A2E700020 = MSED = [4,23,1912,1013]
+12:41:39:838 CF: 0000019A28DDFD58 = urmr -> urmr-undo = Undo
+12:41:39:838 Undo: Lowpass WaveForm
+12:41:41:332 LeftClick  in window "MuLab : Engine Passive c2" : 1498,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:42:196 LeftClick  in window "MuLab : Engine Passive c2" : 1498,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:46:220 LeftClick  in window "Oscilator Front Panel" : 88,378 -> 0000019A318B8010 = VMEd = [5,375,289,34]
+12:41:46:310 RwrMpu[65] Not retrying failed rewire startup
+12:41:46:381 LeftClick  in window "" : 0,544 -> 00000077FF8D19E0 = TREL = PULs = [0,0,285,944]
+12:41:48:268 LeftClick  in window "Oscilator Front Panel" : 18,370 -> 0000019A3195D9E8 = MPBt = prcs = [16,366,12,12]
+12:41:48:701 LeftClick  in window "Oscilator Front Panel" : 59,372 -> 0000019A3195E230 = MpuC = [31,363,201,18]
+12:41:48:866 Chk DblClk = 1
+12:41:50:844 LeftClick  in window "MuLab : Engine Passive c2" : 1495,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:54:162 LeftClick  in window "MultiMode Filter (copy/paste this)" : 160,116 -> 0000019A31A802C0 = SLDR = [148,108,32,32]
+12:41:54:743 UR action: Changed MultiMode Filter (copy/paste this) -> Q Factor
+12:41:55:631 LeftClick  in window "MuLab : Engine Passive c2" : 1492,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:41:56:989 LeftClick  in window "MultiMode Filter (copy/paste this)" : 168,127 -> 0000019A31A802C0 = SLDR = [148,108,32,32]
+12:41:57:766 UR action: Changed MultiMode Filter (copy/paste this) -> Q Factor
+12:41:58:364 LeftClick  in window "MultiMode Filter (copy/paste this)" : 32,119 -> 0000019A31A7F7B0 = SLDR = [16,108,32,32]
+12:41:59:081 UR action: Changed MultiMode Filter (copy/paste this) -> Frequency
+12:42:00:198 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:01:847 LeftClick  in window "MultiMode Filter (copy/paste this)" : 530,10 -> 0000019A2C79E548 = PSBT = [519,4,17,17] = CloseDelete
+12:42:01:908 CF: 0000019A2C79C010 = MEWd -> cuwd-clos = Close
+12:42:02:621 RightClick  in window "Oscilator Front Panel" : 118,150 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:42:03:499 LeftClick  in window "" : 82,205 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:42:03:499 Popup list choice = Shrink Edges To Zero
+12:42:03:502 CF: 0000019A303BA908 =  wft ->  wft-sh20 = Shrink Edges To Zero
+12:42:04:071 LeftClick  in window "Span" : 25,79 -> 0000019A2EB01EC0 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:42:04:163 UR action: Shrink WaveForm Edges
+12:42:08:419 LeftClick  in window "Oscilator Front Panel" : 505,231 -> 0000019A2E20EC90 = OMEB = [445,205,121,35] = "Poly Synth"
+12:42:10:139 LeftClick  in window "Poly Synth Modular Area" : 630,14 -> 0000019A2DB06868 = PSBT = [623,4,17,17] = CloseDelete
+12:42:10:221 CF: 0000019A2DB04330 = MEWd -> cuwd-clos = Close
+12:42:12:453 LeftClick  in window "MuLab : Engine Passive c2" : 1491,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:13:882 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:16:543 LeftClick  in window "Oscilator Front Panel" : 553,352 -> 0000019A31771D30 = MpuC = [480,338,112,18]
+12:42:17:012 Chk DblClk = 0
+12:42:17:097 RwrMpu[65] Not retrying failed rewire startup
+12:42:18:004 LeftClick  in window "" : 105,92 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:20:899 LeftClick  in window "" : 119,93 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:21:157 LeftClick  in window "" : 113,75 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:22:067 LeftClick  in window "" : 119,128 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:22:738 LeftClick  in window "" : 116,134 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:23:034 LeftClick  in window "" : 114,115 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:23:538 LeftClick  in window "" : 114,115 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:23:890 LeftClick  in window "" : 116,100 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:24:946 LeftClick  in window "" : 127,116 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:42:24:947 Popup list choice = Noisy
+12:42:24:955 Load preset for 0000019A2C79C010 = mufx : {UserLibrary}/Mux/Audio Generators/Noisy.Mux
+12:42:25:022 UR action: Insert new Noisy into rack
+12:42:26:010 LeftClick  in window "Noisy Front Panel" : 387,10 -> 0000019A2E1037C8 = LABL = [4,4,664,19]
+12:42:27:807 LeftClick  in window "MuLab : Engine Passive c2" : 1493,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:30:114 LeftClick  in window "MuLab : Engine Passive c2" : 1493,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:30:932 LeftClick  in window "MuLab : Engine Passive c2" : 1493,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:34:747 LeftClick  in window "MuLab : Engine Passive c2" : 1493,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:35:370 LeftClick  in window "MuLab : Engine Passive c2" : 1493,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:36:756 LeftClick  in window "Oscilator Front Panel" : 376,11 -> 0000019A2EB1A7E8 = LABL = [4,4,726,19]
+12:42:43:997 LeftClick  in window "MuLab : Engine Passive c2" : 1493,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:48:159 LeftClick  in window "Noisy Front Panel" : 254,135 -> 0000019A2E20D680 = OMEB = [185,115,120,40] = "MultiMode Filter"
+12:42:49:756 LeftClick  in window "MultiMode Filter" : 37,122 -> 0000019A31A802C0 = SLDR = [16,108,32,32]
+12:42:50:349 UR action: Changed MultiMode Filter -> Frequency
+12:42:51:767 LeftClick  in window "MuLab : Engine Passive c2" : 1495,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:53:237 LeftClick  in window "MultiMode Filter" : 33,122 -> 0000019A31A802C0 = SLDR = [16,108,32,32]
+12:42:53:581 UR action: Changed MultiMode Filter -> Frequency
+12:42:54:586 LeftClick  in window "MuLab : Engine Passive c2" : 1492,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:42:56:734 LeftClick  in window "MultiMode Filter" : 167,118 -> 0000019A31A87160 = SLDR = [148,108,32,32]
+12:42:57:036 UR action: Changed MultiMode Filter -> Q Factor
+12:42:57:848 LeftClick  in window "MuLab : Engine Passive c2" : 1496,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:00:567 LeftClick  in window "MultiMode Filter" : 164,110 -> 0000019A31A87160 = SLDR = [148,108,32,32]
+12:43:00:980 UR action: Changed MultiMode Filter -> Q Factor
+12:43:01:371 LeftClick  in window "MultiMode Filter" : 31,120 -> 0000019A31A802C0 = SLDR = [16,108,32,32]
+12:43:01:749 UR action: Changed MultiMode Filter -> Frequency
+12:43:02:653 LeftClick  in window "MuLab : Engine Passive c2" : 1494,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:04:381 LeftClick  in window "MultiMode Filter" : 29,122 -> 0000019A31A802C0 = SLDR = [16,108,32,32]
+12:43:04:687 UR action: Changed MultiMode Filter -> Frequency
+12:43:05:845 LeftClick  in window "MuLab : Engine Passive c2" : 1494,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:08:197 LeftClick  in window "MultiMode Filter" : 40,123 -> 0000019A31A802C0 = SLDR = [16,108,32,32]
+12:43:08:775 UR action: Changed MultiMode Filter -> Frequency
+12:43:13:245 LeftClick  in window "Noisy Front Panel" : 240,178 -> 0000019A2E218700 = OMEB = [185,165,121,35] = "4 Band EQ"
+12:43:15:243 LeftClick  in window "4 Band EQ Front Panel" : 304,5 -> 0000019A2E20A938 = LABL = [4,4,522,19]
+12:43:17:306 LeftClick  in window "MultiMode Filter" : 181,40 -> 0000019A2D460020 = mebc = [4,23,536,47]
+12:43:18:868 LeftClick  in window "4 Band EQ Front Panel" : 388,6 -> 0000019A2E20A938 = LABL = [4,4,522,19]
+12:43:19:114 Chk DblClk = 0
+12:43:20:899 LeftClick  in window "4 Band EQ Front Panel" : 416,134 -> 0000019A2E05C370 = SLDR = [401,114,32,32]
+12:43:22:056 UR action: Changed 4 Band EQ -> Frequency
+12:43:23:553 LeftClick  in window "MuLab : Engine Passive c2" : 1376,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:24:308 LeftClick  in window "MuLab : Engine Passive c2" : 1495,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:25:409 LeftClick  in window "MuLab : Engine Passive c2" : 1376,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:27:460 LeftClick  in window "MuLab : Engine Passive c2" : 1257,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:29:459 LeftClick  in window "MuLab : Engine Passive c2" : 1131,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:31:276 LeftClick  in window "MuLab : Engine Passive c2" : 1248,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:31:762 LeftClick  in window "MuLab : Engine Passive c2" : 1256,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:33:340 LeftClick  in window "Oscilator Front Panel" : 332,12 -> 0000019A2EB1A7E8 = LABL = [4,4,726,19]
+12:43:33:492 Chk DblClk = 0
+12:43:34:691 LeftClick  in window "Oscilator Front Panel" : 55,254 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:34:825 UR action: Draw WaveForm
+12:43:35:619 LeftClick  in window "Oscilator Front Panel" : 89,263 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:35:758 UR action: Draw WaveForm
+12:43:36:155 LeftClick  in window "Oscilator Front Panel" : 75,262 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:36:312 UR action: Draw WaveForm
+12:43:38:314 LeftClick  in window "Oscilator Front Panel" : 59,261 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:38:442 UR action: Draw WaveForm
+12:43:38:907 LeftClick  in window "Oscilator Front Panel" : 60,261 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:39:059 UR action: Draw WaveForm
+12:43:39:411 LeftClick  in window "Oscilator Front Panel" : 62,266 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:39:583 UR action: Draw WaveForm
+12:43:40:882 LeftClick  in window "Oscilator Front Panel" : 69,109 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:41:027 UR action: Draw WaveForm
+12:43:42:580 LeftClick  in window "Oscilator Front Panel" : 172,264 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:42:747 UR action: Draw WaveForm
+12:43:44:269 LeftClick  in window "MuLab : Engine Passive c2" : 1134,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:44:987 LeftClick  in window "MuLab : Engine Passive c2" : 1260,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:47:767 LeftClick  in window "MuLab : Engine Passive c2" : 1384,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:48:517 LeftClick  in window "MuLab : Engine Passive c2" : 1373,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:49:355 LeftClick  in window "MuLab : Engine Passive c2" : 1490,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:51:238 RightClick  in window "Oscilator Front Panel" : 137,165 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:43:52:282 LeftClick  in window "" : 88,192 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:43:52:282 Popup list choice = Lowpass
+12:43:52:287 CF: 0000019A303BA908 =  wft ->  wft-lwps = Lowpass
+12:43:55:322 LeftClick  in window "Octaves" : 37,75 -> 0000019A2DFA9750 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:43:55:431 UR action: Lowpass WaveForm
+12:43:56:868 LeftClick  in window "MuLab : Engine Passive c2" : 1499,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:57:691 LeftClick  in window "MuLab : Engine Passive c2" : 1262,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:43:58:555 LeftClick  in window "MuLab : Engine Passive c2" : 1253,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:00:487 RightClick  in window "Oscilator Front Panel" : 141,169 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:01:363 LeftClick  in window "" : 77,41 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:44:01:363 Popup list choice = Copy
+12:44:01:365 CF: 0000019A303BA908 =  wft -> wobj-copy = Copy
+12:44:01:659 RightClick  in window "Oscilator Front Panel" : 93,160 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:02:530 LeftClick  in window "" : 66,73 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:44:02:530 Popup list choice = Append
+12:44:02:533 CF: 0000019A303BA908 =  wft ->  wft-ApCB = Append Clipboard
+12:44:02:538 UR action: Append Clipboard
+12:44:03:798 LeftClick  in window "MuLab : Engine Passive c2" : 1252,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:06:483 LeftClick  in window "MuLab : Engine Passive c2" : 1492,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:08:820 LeftClick  in window "MuLab : Engine Passive c2" : 1253,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:11:371 LeftClick  in window "MuLab : Engine Passive c2" : 1133,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:13:100 LeftClick  in window "MuLab : Engine Passive c2" : 1257,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:16:285 RightClick  in window "Oscilator Front Panel" : 128,150 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:18:587 LeftClick  in window "" : 79,75 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:44:18:587 Popup list choice = Append
+12:44:18:592 CF: 0000019A303BA908 =  wft ->  wft-ApCB = Append Clipboard
+12:44:18:609 UR action: Append Clipboard
+12:44:19:363 RightClick  in window "Oscilator Front Panel" : 116,187 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:20:187 LeftClick  in window "" : 63,78 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:44:20:187 Popup list choice = Append
+12:44:20:190 CF: 0000019A303BA908 =  wft ->  wft-ApCB = Append Clipboard
+12:44:20:198 UR action: Append Clipboard
+12:44:20:842 RightClick  in window "Oscilator Front Panel" : 156,191 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:22:134 LeftClick  in window "" : 52,74 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:44:22:134 Popup list choice = Append
+12:44:22:139 CF: 0000019A303BA908 =  wft ->  wft-ApCB = Append Clipboard
+12:44:22:153 UR action: Append Clipboard
+12:44:23:846 LeftClick  in window "MuLab : Engine Passive c2" : 1246,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:24:882 LeftClick  in window "MuLab : Engine Passive c2" : 1262,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:25:563 LeftClick  in window "MuLab : Engine Passive c2" : 1251,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:27:938 LeftClick  in window "MuLab : Engine Passive c2" : 1495,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:33:299 LeftClick  in window "MuLab : Engine Passive c2" : 1493,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:35:683 LeftClick  in window "MuLab : Engine Passive c2" : 1501,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:36:428 LeftClick  in window "MuLab : Engine Passive c2" : 1492,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:38:003 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:38:476 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:38:668 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:38:867 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:39:051 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:39:212 LeftClick  in window "MuLab : Engine Passive c2" : 1492,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:40:990 LeftClick  in window "Oscilator Front Panel" : 23,147 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:41:102 UR action: Draw WaveForm
+12:44:42:421 LeftClick  in window "MuLab : Engine Passive c2" : 1490,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:43:469 LeftClick  in window "MuLab : Engine Passive c2" : 1256,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:45:286 LeftClick  in window "Oscilator Front Panel" : 99,156 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:45:399 UR action: Draw WaveForm
+12:44:46:068 LeftClick  in window "Oscilator Front Panel" : 131,216 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:46:226 UR action: Draw WaveForm
+12:44:46:739 LeftClick  in window "Oscilator Front Panel" : 143,129 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:46:869 UR action: Draw WaveForm
+12:44:47:403 LeftClick  in window "Oscilator Front Panel" : 63,110 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:47:539 UR action: Draw WaveForm
+12:44:47:972 LeftClick  in window "Oscilator Front Panel" : 73,234 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:48:132 UR action: Draw WaveForm
+12:44:48:915 LeftClick  in window "Oscilator Front Panel" : 108,102 -> 0000019A30324C40 = GpFm = [4,70,430,230]
+12:44:48:965 Drag 0000019A27F507C8 = MPEP = [4,70,726,442]
+12:44:49:598 LeftClick  in window "Oscilator Front Panel" : 102,109 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:49:710 UR action: Draw WaveForm
+12:44:50:502 LeftClick  in window "MuLab : Engine Passive c2" : 1257,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:55:261 LeftClick  in window "Oscilator Front Panel" : 21,191 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:44:55:531 UR action: Draw WaveForm
+12:44:56:682 LeftClick  in window "MuLab : Engine Passive c2" : 1254,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:44:58:381 LeftClick  in window "MuLab : Engine Passive c2" : 1490,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:00:779 LeftClick  in window "MuLab : Engine Passive c2" : 1661,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:01:964 LeftClick  in window "MuLab : Engine Passive c2" : 1438,48 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:02:538 LeftClick  in window "MuLab : Engine Passive c2" : 1496,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:04:400 RightClick  in window "Oscilator Front Panel" : 64,172 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:45:07:172 LeftClick  in window "" : 87,173 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:45:07:172 Popup list choice = Remove DC
+12:45:07:176 CF: 0000019A303BA908 =  wft ->  wft-rmdc = Remove DC
+12:45:07:182 UR action: Gain WaveForm
+12:45:07:810 RightClick  in window "Oscilator Front Panel" : 111,168 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:45:08:928 LeftClick  in window "MuLab : Engine Passive c2" : 1495,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:11:051 LeftClick  in window "MuLab : Engine Passive c2" : 1514,44 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:12:363 LeftClick  in window "MuLab : Engine Passive c2" : 1264,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:13:130 LeftClick  in window "MuLab : Engine Passive c2" : 1445,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:14:023 RightClick  in window "Oscilator Front Panel" : 146,196 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:45:14:725 LeftClick  in window "" : 69,213 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:45:14:725 Popup list choice = Shrink Edges To Zero
+12:45:14:731 CF: 0000019A303BA908 =  wft ->  wft-sh20 = Shrink Edges To Zero
+12:45:15:218 LeftClick  in window "Span" : 36,74 -> 0000019A2DFA7D30 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:45:15:329 UR action: Shrink WaveForm Edges
+12:45:16:413 LeftClick  in window "MuLab : Engine Passive c2" : 1453,46 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:18:138 LeftClick  in window "MuLab : Engine Passive c2" : 1479,46 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:22:942 RightClick  in window "Oscilator Front Panel" : 142,164 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:45:23:795 LeftClick  in window "" : 82,214 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:45:23:795 Popup list choice = Shrink Edges To Zero
+12:45:23:800 CF: 0000019A303BA908 =  wft ->  wft-sh20 = Shrink Edges To Zero
+12:45:26:179 LeftClick  in window "Span" : 31,83 -> 0000019A2DFA9750 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:45:26:301 UR action: Shrink WaveForm Edges
+12:45:27:499 RightClick  in window "Oscilator Front Panel" : 97,176 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:45:28:489 LeftClick  in window "" : 94,205 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:45:28:489 Popup list choice = Shrink Edges To Zero
+12:45:28:491 CF: 0000019A303BA908 =  wft ->  wft-sh20 = Shrink Edges To Zero
+12:45:29:322 LeftClick  in window "Span" : 25,41 -> 0000019A2D3BDF30 = LABL = [12,31,52,22]
+12:45:30:363 LeftClick  in window "Span" : 30,74 -> 0000019A2DFACB90 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:45:30:479 UR action: Shrink WaveForm Edges
+12:45:31:933 LeftClick  in window "MuLab : Engine Passive c2" : 1496,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:34:794 LeftClick  in window "MuLab : Engine Passive c2" : 1375,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:36:667 LeftClick  in window "MuLab : Engine Passive c2" : 1253,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:37:302 LeftClick  in window "MuLab : Engine Passive c2" : 1492,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:38:267 LeftClick  in window "MuLab : Engine Passive c2" : 1621,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:39:509 LeftClick  in window "MuLab : Engine Passive c2" : 1498,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:43:430 LeftClick  in window "4 Band EQ Front Panel" : 413,132 -> 0000019A2E05C370 = SLDR = [401,114,32,32]
+12:45:43:735 UR action: Changed 4 Band EQ -> Frequency
+12:45:44:838 LeftClick  in window "MuLab : Engine Passive c2" : 1497,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:46:804 LeftClick  in window "4 Band EQ Front Panel" : 417,131 -> 0000019A2E05C370 = SLDR = [401,114,32,32]
+12:45:47:374 UR action: Changed 4 Band EQ -> Frequency
+12:45:48:309 LeftClick  in window "MuLab : Engine Passive c2" : 1372,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:49:475 LeftClick  in window "MuLab : Engine Passive c2" : 1499,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:45:55:400 LeftClick  in window "4 Band EQ Front Panel" : 417,137 -> 0000019A2E05C370 = SLDR = [401,114,32,32]
+12:45:55:643 UR action: Changed 4 Band EQ -> Frequency
+12:45:56:382 LeftClick  in window "MuLab : Engine Passive c2" : 1498,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:00:246 LeftClick  in window "4 Band EQ Front Panel" : 418,123 -> 0000019A2E05C370 = SLDR = [401,114,32,32]
+12:46:00:526 UR action: Changed 4 Band EQ -> Frequency
+12:46:01:478 LeftClick  in window "MuLab : Engine Passive c2" : 1498,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:03:085 LeftClick  in window "Oscilator Front Panel" : 455,274 -> 0000019A2FD4FCE0 = SLDR = [449,249,32,32]
+12:46:03:804 UR action: Changed Oscillator -> Volume
+12:46:04:901 LeftClick  in window "MuLab : Engine Passive c2" : 1496,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:06:693 LeftClick  in window "Oscilator Front Panel" : 463,263 -> 0000019A2FD4FCE0 = SLDR = [449,249,32,32]
+12:46:07:237 UR action: Changed Oscillator -> Volume
+12:46:07:974 LeftClick  in window "MuLab : Engine Passive c2" : 1500,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:09:432 LeftClick  in window "Oscilator Front Panel" : 464,267 -> 0000019A2FD4FCE0 = SLDR = [449,249,32,32]
+12:46:09:749 UR action: Changed Oscillator -> Volume
+12:46:10:574 LeftClick  in window "MuLab : Engine Passive c2" : 1496,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:17:611 LeftClick  in window "MuLab : Engine Passive c2" : 1496,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:19:022 LeftClick  in window "MuLab : Engine Passive c2" : 1496,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:23:618 RightClick  in window "Oscilator Front Panel" : 63,149 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:24:740 LeftClick  in window "" : 64,39 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:46:24:740 Popup list choice = Copy
+12:46:24:743 CF: 0000019A303BA908 =  wft -> wobj-copy = Copy
+12:46:25:540 LeftClick  in window "Oscilator Front Panel" : 33,167 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:25:655 UR action: Draw WaveForm
+12:46:26:373 LeftClick  in window "Oscilator Front Panel" : 34,171 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:26:496 UR action: Draw WaveForm
+12:46:27:026 LeftClick  in window "Oscilator Front Panel" : 76,177 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:27:163 UR action: Draw WaveForm
+12:46:27:490 LeftClick  in window "Oscilator Front Panel" : 130,180 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:27:611 UR action: Draw WaveForm
+12:46:27:946 LeftClick  in window "Oscilator Front Panel" : 175,182 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:28:047 UR action: Draw WaveForm
+12:46:29:013 LeftClick  in window "MuLab : Engine Passive c2" : 1370,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:30:279 LeftClick  in window "MuLab : Engine Passive c2" : 1495,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:34:564 LeftClick  in window "MuLab : Engine Passive c2" : 1376,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:36:161 RightClick  in window "Oscilator Front Panel" : 82,186 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:46:38:972 LeftClick  in window "" : 81,54 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:46:38:972 Popup list choice = Paste
+12:46:38:975 CF: 0000019A303BA908 =  wft -> wobj-past = Paste
+12:46:40:323 LeftClick  in window "Paste Waveform" : 115,66 -> 0000019A31B4BAC0 = LABL = [95,57,34,18]
+12:46:41:271 LeftClick  in window "Paste Waveform" : 37,102 -> 0000019A2DFA7020 = PSBT = O.K. = [11,83,56,31] = "OK"
+12:46:41:400 UR action: Paste Waveform
+12:46:42:412 LeftClick  in window "MuLab : Engine Passive c2" : 1495,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:43:428 LeftClick  in window "MuLab : Engine Passive c2" : 1370,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:46:925 LeftClick  in window "MuLab : Engine Passive c2" : 1496,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:47:716 LeftClick  in window "MuLab : Engine Passive c2" : 1377,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:49:806 LeftClick  in window "Oscilator Front Panel" : 467,258 -> 0000019A2FD4FCE0 = SLDR = [449,249,32,32]
+12:46:50:127 UR action: Changed Oscillator -> Volume
+12:46:50:872 LeftClick  in window "MuLab : Engine Passive c2" : 1374,49 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:46:52:992 LeftClick  in window "Oscilator Front Panel" : 460,263 -> 0000019A2FD4FCE0 = SLDR = [449,249,32,32]
+12:46:53:456 UR action: Changed Oscillator -> Volume
+12:46:54:223 LeftClick  in window "MuLab : Engine Passive c2" : 1495,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:47:46:802 LeftClick  in window "MuLab : Engine Passive c2" : 1503,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:47:47:754 LeftClick  in window "MuLab : Engine Passive c2" : 1487,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:47:48:111 LeftClick  in window "MuLab : Engine Passive c2" : 1488,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:47:48:299 LeftClick  in window "MuLab : Engine Passive c2" : 1488,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:47:48:478 LeftClick  in window "MuLab : Engine Passive c2" : 1488,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:47:50:074 LeftClick  in window "MuLab : Engine Passive c2" : 1488,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:50:26:983 LeftClick  in window "MuLab : Engine Passive c2" : 1495,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:50:36:407 LeftClick  in window "Noisy Front Panel" : 27,51 -> 0000019A2E357E20 = MPBt = [12,32,28,28]
+12:50:37:628 LeftClick  in window "MuLab : Engine Passive c2" : 1495,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:50:39:133 LeftClick  in window "MuLab : Engine Passive c2" : 1488,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:50:42:520 LeftClick  in window "Oscilator Front Panel" : 434,13 -> 0000019A2EB1A7E8 = LABL = [4,4,726,19]
+12:50:43:819 RightClick  in window "Oscilator Front Panel" : 26,170 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:50:44:763 LeftClick  in window "" : 69,210 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:50:44:763 Popup list choice = Shrink Edges To Zero
+12:50:44:769 CF: 0000019A303BA908 =  wft ->  wft-sh20 = Shrink Edges To Zero
+12:50:45:723 LeftClick  in window "Span" : 27,42 -> 0000019A2D3BDF30 = LABL = [12,31,52,22]
+12:50:46:812 LeftClick  in window "Span" : 33,46 -> 0000019A2D3BDF30 = LABL = [12,31,52,22]
+12:50:47:508 LeftClick  in window "Span" : 22,72 -> 0000019A2DFACB90 = PSBT = O.K. = [7,61,56,31] = "OK"
+12:50:47:633 UR action: Shrink WaveForm Edges
+12:50:48:806 LeftClick  in window "MuLab : Engine Passive c2" : 1495,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:50:59:381 LeftClick  in window "Oscilator Front Panel" : 513,348 -> 0000019A31771D30 = MpuC = [480,338,112,18]
+12:50:59:445 Drag 0000019A31771D30 = MpuC = [480,338,112,18]
+12:50:59:712 Drop on 0000019A317910D0 = MpuC = [480,426,112,18]
+12:51:00:260 LeftClick  in window "Oscilator Front Panel" : 505,349 -> 0000019A31771D30 = MpuC = [480,338,112,18]
+12:51:00:450 Chk DblClk = 1
+12:51:00:533 RwrMpu[65] Not retrying failed rewire startup
+12:51:02:571 LeftClick  in window "Oscilator Front Panel" : 554,342 -> 0000019A31771D30 = MpuC = [480,338,112,18]
+12:51:02:761 Chk DblClk = 1
+12:51:02:839 RwrMpu[65] Not retrying failed rewire startup
+12:51:04:076 LeftClick  in window "" : 129,73 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:51:05:171 LeftClick  in window "" : 129,73 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:51:05:666 LeftClick  in window "" : 133,59 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:51:06:307 LeftClick  in window "" : 132,82 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:51:07:635 LeftClick  in window "" : 140,153 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:51:09:643 LeftClick  in window "" : 168,229 -> 00000077FF8D1210 = TREL = PULs = [0,0,285,944]
+12:51:09:643 Popup list choice = Distroyer
+12:51:09:649 Load preset for 0000019A2DF49160 = mufx : {AppLibrary}/Mux/Effects/Distortion/Distroyer.Mux
+12:51:09:692 UR action: Insert new Distroyer into rack
+12:51:11:014 LeftClick  in window "MuLab : Engine Passive c2" : 1492,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:14:101 LeftClick  in window "Distroyer Front Panel" : 197,48 -> 0000019A2DFAA460 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+12:51:14:235 Load preset for 0000019A2DF49160 = mufx : {AppLibrary}/Mux/Effects/Distortion/Multi-Band Crunch.Mux
+12:51:15:339 LeftClick  in window "Multi-Band Crunch Front Panel" : 50,43 -> 0000019A2DFA9750 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+12:51:15:461 Load preset for 0000019A2DF49160 = mufx : {AppLibrary}/Mux/Effects/Distortion/Distroyer.Mux
+12:51:15:748 LeftClick  in window "Distroyer Front Panel" : 56,43 -> 0000019A2DFAA460 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+12:51:15:847 Load preset for 0000019A2DF49160 = mufx : {AppLibrary}/Mux/Effects/Distortion/Crusher.Mux
+12:51:16:940 LeftClick  in window "MuLab : Engine Passive c2" : 1495,44 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:19:702 LeftClick  in window "Crusher Front Panel" : 110,109 -> 0000019A2E05E4A0 = SLDR = [98,84,32,32]
+12:51:19:920 UR action: Changed Crusher -> Distortion
+12:51:20:887 LeftClick  in window "MuLab : Engine Passive c2" : 1483,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:21:332 LeftClick  in window "MuLab : Engine Passive c2" : 1495,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:22:951 LeftClick  in window "Crusher Front Panel" : 108,103 -> 0000019A2E05E4A0 = SLDR = [98,84,32,32]
+12:51:23:575 UR action: Changed Crusher -> Distortion
+12:51:23:933 LeftClick  in window "Crusher Front Panel" : 119,147 -> 0000019A2E061BF0 = SLDR = [98,134,32,32]
+12:51:24:812 UR action: Changed Crusher -> Bit Depth
+12:51:25:880 LeftClick  in window "MuLab : Engine Passive c2" : 1497,61 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:27:421 LeftClick  in window "Crusher Front Panel" : 117,211 -> 0000019A2E062700 = SLDR = [98,184,32,32]
+12:51:27:609 UR action: Changed Crusher -> Samplerate
+12:51:28:489 LeftClick  in window "MuLab : Engine Passive c2" : 1493,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:30:102 LeftClick  in window "Crusher Front Panel" : 256,177 -> 0000019A2E063210 = SLDR = [248,154,32,32]
+12:51:30:333 UR action: Changed Crusher -> Out Volume
+12:51:31:127 LeftClick  in window "MuLab : Engine Passive c2" : 1498,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:32:374 LeftClick  in window "Crusher Front Panel" : 256,176 -> 0000019A2E063210 = SLDR = [248,154,32,32]
+12:51:32:578 UR action: Changed Crusher -> Out Volume
+12:51:33:147 LeftClick  in window "Crusher Front Panel" : 111,86 -> 0000019A2E05E4A0 = SLDR = [98,84,32,32]
+12:51:33:601 UR action: Changed Crusher -> Distortion
+12:51:34:308 LeftClick  in window "MuLab : Engine Passive c2" : 1495,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:36:472 LeftClick  in window "Crusher Front Panel" : 53,50 -> 0000019A2DFACB90 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+12:51:36:584 Load preset for 0000019A2DF49160 = mufx : {AppLibrary}/Mux/Effects/Distortion/Amp SIM Metal.Mux
+12:51:37:992 LeftClick  in window "MuLab : Engine Passive c2" : 1495,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:45:726 LeftClick  in window "Amp SIM Metal Front Panel" : 310,100 -> 0000019A2E05FAC0 = SLDR = [298,84,32,32]
+12:51:45:988 UR action: Changed Amp SIM Metal -> Drive
+12:51:54:997 LeftClick  in window "MuLab : Engine Passive c2" : 1488,47 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:56:266 LeftClick  in window "MuLab : Engine Passive c2" : 1501,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:51:59:175 LeftClick  in window "Amp SIM Metal Front Panel" : 462,13 -> 0000019A2DAFF558 = PSBT = [454,4,17,17] = CloseDelete
+12:51:59:254 CF: 0000019A2DAFD020 = MEWd -> cuwd-clos = Close
+12:52:00:098 LeftClick  in window "Oscilator Front Panel" : 48,132 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:52:00:363 UR action: Draw WaveForm
+12:52:01:709 LeftClick  in window "MuLab : Engine Passive c2" : 1495,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:05:261 RightClick  in window "Oscilator Front Panel" : 151,148 -> 0000019A316CC4A0 = WFTD = [15,105,201,170]
+12:52:07:647 LeftClick  in window "" : 87,279 -> 00000077FF8D6E30 = TREL = PULs = [0,0,138,348]
+12:52:07:647 Popup list choice = Choose From Library
+12:52:07:651 CF: 0000019A303BA908 =  wft ->  wft-ChLW = Choose From Library
+12:52:08:747 LeftClick  in window "" : 92,72 -> 00007FF734C831A0 = TREL = PULs = [0,0,178,944]
+12:52:08:747 Popup list choice = Block-12
+12:52:08:782 UR action: Load WaveForm
+12:52:09:965 LeftClick  in window "MuLab : Engine Passive c2" : 1497,46 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:11:928 LeftClick  in window "Oscilator Front Panel" : 473,342 -> 0000019A317714E8 = MPBt = prcs = [465,341,12,12]
+12:52:12:822 LeftClick  in window "MuLab : Engine Passive c2" : 1497,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:14:917 LeftClick  in window "Oscilator Front Panel" : 33,293 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:15:339 LeftClick  in window "Oscilator Front Panel" : 42,291 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:15:915 LeftClick  in window "Oscilator Front Panel" : 41,289 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:16:355 LeftClick  in window "Oscilator Front Panel" : 48,286 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:16:762 LeftClick  in window "Oscilator Front Panel" : 48,286 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:17:751 LeftClick  in window "MuLab : Engine Passive c2" : 1500,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:21:446 LeftClick  in window "Oscilator Front Panel" : 25,285 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:21:767 LeftClick  in window "Oscilator Front Panel" : 25,285 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:22:126 LeftClick  in window "Oscilator Front Panel" : 25,285 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:22:683 LeftClick  in window "Oscilator Front Panel" : 25,285 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:23:219 LeftClick  in window "Oscilator Front Panel" : 43,285 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:23:491 LeftClick  in window "Oscilator Front Panel" : 43,285 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:23:667 LeftClick  in window "Oscilator Front Panel" : 43,285 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:23:847 LeftClick  in window "Oscilator Front Panel" : 43,285 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:24:019 LeftClick  in window "Oscilator Front Panel" : 43,285 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:24:227 LeftClick  in window "Oscilator Front Panel" : 43,285 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:25:759 LeftClick  in window "MuLab : Engine Passive c2" : 1497,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:29:935 LeftClick  in window "Oscilator Front Panel" : 48,289 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:31:199 LeftClick  in window "MuLab : Engine Passive c2" : 1500,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:32:584 LeftClick  in window "Oscilator Front Panel" : 28,277 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:32:845 LeftClick  in window "Oscilator Front Panel" : 26,288 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:33:323 LeftClick  in window "Oscilator Front Panel" : 26,288 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:34:612 LeftClick  in window "Oscilator Front Panel" : 44,300 -> 0000019A31867480 = GpFm = [4,300,210,214]
+12:52:34:892 LeftClick  in window "Oscilator Front Panel" : 44,288 -> 0000019A316C9EC0 = PSBT = [35,275,20,20] = ArrowRight
+12:52:35:688 LeftClick  in window "MuLab : Engine Passive c2" : 1494,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:37:078 LeftClick  in window "Oscilator Front Panel" : 28,286 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:38:351 LeftClick  in window "MuLab : Engine Passive c2" : 1496,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:39:978 LeftClick  in window "Oscilator Front Panel" : 13,284 -> 0000019A30324C40 = GpFm = [4,70,430,230]
+12:52:40:374 LeftClick  in window "Oscilator Front Panel" : 21,286 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:41:493 LeftClick  in window "MuLab : Engine Passive c2" : 1501,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:43:232 LeftClick  in window "Oscilator Front Panel" : 24,284 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:44:335 LeftClick  in window "MuLab : Engine Passive c2" : 1495,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:46:918 LeftClick  in window "Oscilator Front Panel" : 27,286 -> 0000019A316C9220 = PSBT = [15,275,20,20] = ArrowLeft
+12:52:48:389 LeftClick  in window "MuLab : Engine Passive c2" : 1501,58 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:52:55:600 LeftClick  in window "Oscilator Front Panel" : 472,347 -> 0000019A317714E8 = MPBt = prcs = [465,341,12,12]
+12:52:56:862 LeftClick  in window "MuLab : Engine Passive c2" : 1497,54 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:53:00:295 LeftClick  in window "Oscilator Front Panel" : 470,350 -> 0000019A317714E8 = MPBt = prcs = [465,341,12,12]
+12:53:01:325 LeftClick  in window "MuLab : Engine Passive c2" : 1495,56 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:53:03:293 LeftClick  in window "Oscilator Front Panel" : 464,347 -> 0000019A31770B90 = LABL = [462,338,18,18]
+12:53:04:019 LeftClick  in window "Oscilator Front Panel" : 512,348 -> 0000019A31771D30 = MpuC = [480,338,112,18]
+12:53:04:187 Chk DblClk = 1
+12:53:05:771 LeftClick  in window "Amp SIM Metal Front Panel" : 463,9 -> 0000019A31BE5238 = PSBT = [454,4,17,17] = CloseDelete
+12:53:05:837 CF: 0000019A31BE2D00 = MEWd -> cuwd-clos = Close
+12:53:06:359 RightClick  in window "Oscilator Front Panel" : 516,341 -> 0000019A31771D30 = MpuC = [480,338,112,18]
+12:53:07:297 LeftClick  in window "" : 65,70 -> 00000077FF8D70E0 = TREL = PULs = [0,0,178,548]
+12:53:07:297 Popup list choice = Delete
+12:53:07:302 CF: 0000019A2DF49160 = mufx -> wobj-delt = Delete
+12:53:07:315 UR action: Delete MUX Modular "Amp SIM Metal"
+12:53:07:916 LeftClick  in window "Oscilator Front Panel" : 469,435 -> 0000019A31790888 = MPBt = prcs = [465,429,12,12]
+12:53:09:213 LeftClick  in window "MuLab : Engine Passive c2" : 1496,50 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+12:53:16:172 LeftClick  in window "Oscilator Front Panel" : 517,439 -> 0000019A317910D0 = MpuC = [480,426,112,18]
+12:53:16:400 Chk DblClk = 1
+12:53:17:852 LeftClick  in window "Noisy Front Panel" : 396,10 -> 0000019A2E1037C8 = LABL = [4,4,664,19]
+14:19:08:825 LeftClick  in window "MuLab : Engine Passive c2" : 1493,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:10:039 LeftClick  in window "MuLab : Engine Passive c2" : 1493,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:18:215 LeftClick  in window "MuLab : Engine Passive c2" : 1494,55 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:30:099 LeftClick  in window "MuLab : Engine Passive c2" : 1381,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:31:279 LeftClick  in window "MuLab : Engine Passive c2" : 1497,53 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:34:981 LeftClick  in window "Oscilator Front Panel" : 359,459 -> 0000019A2FB72450 = UFBC = [4,70,726,442]
+14:19:37:005 LeftClick  in window "MuLab : Engine Passive c2" : 1374,60 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:38:086 LeftClick  in window "MuLab : Engine Passive c2" : 1500,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:39:537 LeftClick  in window "Oscilator Front Panel" : 472,430 -> 0000019A31790888 = MPBt = prcs = [465,429,12,12]
+14:19:40:495 LeftClick  in window "MuLab : Engine Passive c2" : 1492,59 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:43:681 LeftClick  in window "Oscilator Front Panel" : 467,438 -> 0000019A31790888 = MPBt = prcs = [465,429,12,12]
+14:19:44:945 LeftClick  in window "MuLab : Engine Passive c2" : 1495,51 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:19:45:970 LeftClick  in window "Oscilator Front Panel" : 512,228 -> 0000019A2E20EC90 = OMEB = [445,205,121,35] = "Poly Synth"
+14:19:47:427 LeftClick  in window "Poly Synth Modular Area" : 229,8 -> 0000019A321C97C8 = LABL = [4,4,640,19]
+14:19:48:748 LeftClick  in window "Oscilator Front Panel" : 515,435 -> 0000019A317910D0 = MpuC = [480,426,112,18]
+14:19:48:789 Drag 0000019A317910D0 = MpuC = [480,426,112,18]
+14:19:50:570 LeftClick  in window "MultiMode Filter" : 420,292 -> 0000019A2D7D6578 = FRPl = [12,152,520,260]
+14:19:52:783 LeftClick  in window "MultiMode Filter" : 533,11 -> 0000019A2D29AAE8 = PSBT = [519,4,17,17] = CloseDelete
+14:19:52:925 CF: 0000019A2D2985B0 = MEWd -> cuwd-clos = Close
+14:19:53:489 LeftClick  in window "Poly Synth Modular Area" : 56,190 -> 0000019A31C8CA18 = MSTE = [12,146,4096,2048]
+14:19:53:677 Chk DblClk = 0
+14:19:55:609 LeftClick  in window "Poly Synth Modular Area" : 629,13 -> 0000019A321C6548 = PSBT = [623,4,17,17] = CloseDelete
+14:19:55:724 CF: 0000019A321C4010 = MEWd -> cuwd-clos = Close
+14:19:58:435 LeftClick  in window "Oscilator Front Panel" : 101,372 -> 0000019A3195E230 = MpuC = [31,363,201,18]
+14:19:58:470 Drag 0000019A3195E230 = MpuC = [31,363,201,18]
+14:19:58:863 Drop on 0000019A318BA230 = MpuC = [31,383,201,18]
+14:20:00:759 LeftClick  in window "Oscilator Front Panel" : 113,396 -> 0000019A318BA230 = MpuC = [31,383,201,18]
+14:20:00:820 Drag 0000019A318BA230 = MpuC = [31,383,201,18]
+14:20:01:090 Drop on 0000019A3195E230 = MpuC = [31,363,201,18]
+14:20:02:241 LeftClick  in window "Oscilator Front Panel" : 503,437 -> 0000019A317910D0 = MpuC = [480,426,112,18]
+14:20:02:265 Drag 0000019A317910D0 = MpuC = [480,426,112,18]
+14:20:03:770 Drop on 0000019A318C27D0 = MpuC = [31,403,201,18]
+14:20:06:096 LeftClick  in window "MuLab : Engine Passive c2" : 1497,57 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:20:08:567 LeftClick  in window "Oscilator Front Panel" : 54,417 -> 0000019A318C27D0 = MpuC = [31,403,201,18]
+14:20:08:659 Drag 0000019A318C27D0 = MpuC = [31,403,201,18]
+14:20:09:399 Drop on 0000019A31781700 = MpuC = [480,382,112,18]
+14:20:10:728 LeftClick  in window "MuLab : Engine Passive c2" : 1494,52 -> 0000019A2E721680 = PKYB = [890,33,1280,30]
+14:20:12:938 LeftClick  in window "Oscilator Front Panel" : 370,49 -> 0000019A304CBD68 = PSBT = [358,31,31,31] = Modular
+14:20:16:806 LeftClick  in window "Oscilator Modular Area" : 254,306 -> 0000019A2DF55A80 = MEMC = [192,296,101,20]
+14:20:17:068 Chk DblClk = 1
+14:20:23:775 LeftClick  in window "7 Plugin Slots Modular Area" : 371,51 -> 0000019A3001BE88 = PSBT = [358,31,31,31] = FrontPanel
+14:20:25:415 LeftClick  in window "7 Plugin Slots Front Panel" : 465,9 -> 0000019A31BB28F8 = PSBT = [454,4,17,17] = CloseDelete
+14:20:25:492 CF: 0000019A31BB03C0 = MEWd -> cuwd-clos = Close
+14:20:26:291 LeftClick  in window "Oscilator Modular Area" : 469,17 -> 0000019A2D29DD68 = LABL = [4,4,640,19]
+14:20:47:193 LeftClick  in window "Oscilator Modular Area" : 634,14 -> 0000019A2D29AAE8 = PSBT = [623,4,17,17] = CloseDelete
+14:20:47:292 CF: 0000019A2D2985B0 = MEWd -> cuwd-clos = Close
+14:20:50:118 LeftClick  in window "MuLab : Engine Passive c2" : 1855,12 -> 0000019A29214F38 = PSBT = [1853,4,17,17] = ArrowDown
+14:20:50:204 CF: 0000019A292110C0 = MSEW -> cuwd-minz = Minimize

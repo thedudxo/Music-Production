@@ -1,0 +1,764 @@
+19:38:35:021 OpSys=Windows
+19:38:35:021 MuLab 7.7.4 64 bit
+19:38:35:024 Delta UTC = -13
+19:38:35:024 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+19:38:35:024 BStf[92] Desktop=/C:/Users/isaac/Desktop
+19:38:35:070 BStf[124] Graphics={Application}/App/Graphics
+19:38:35:081 Num screens = 2
+19:38:35:081 Screen 1 = 0,0,1920,1040
+19:38:35:081 Screen 2 = -1920,0,1920,1080
+19:38:35:089 File[94] fn=MidiControllerNames.Txt, ec=2
+19:38:35:089 File[94] fn=UKD.Txt, ec=2
+19:38:35:283 Gonna startup audio engine
+19:38:35:300 Gonna startup ASIO engine
+19:38:35:301 ASIO4ALL v2
+19:38:35:755 ASIOGetChannels OK. inputs: 2, outputs: 16
+19:38:35:755 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+19:38:35:756 ASIOGetSampleRate = 44100.000000
+19:38:35:756 ASIOOutputReady() - Not supported
+19:38:35:756 input chan 0 data type = 18
+19:38:35:756 input chan 1 data type = 18
+19:38:35:756 output chan 0 data type = 18
+19:38:35:756 output chan 1 data type = 18
+19:38:35:756 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+19:38:35:756 ASIOGetLatencies OK: InLat=764, OutLat=544
+19:38:35:771 ASIOStart OK
+19:38:36:174 Started the audio engine
+19:38:36:174 MIE[32] 0 Midi Input Ports:
+19:38:36:174 MOE[31] 1 Midi Output Ports:
+19:38:36:175 MOE[41] 0=Microsoft GS Wavetable Synth
+19:38:36:191 Started the MIDI engine
+19:38:36:237 App[669]
+19:38:37:235 LeftClick  in window "Open Project" : 70,45 -> 00000131B107C370 = PSBT = [20,39,77,31] = "Voice"
+19:38:39:459 LeftClick  in window "MuLab : Voice" : 117,13 -> 00000131B3FE3B18 = LABL = [4,4,268,19]
+19:38:40:707 LeftClick  in window "MuLab : Voice" : 111,12 -> 00000131B3FE3B18 = LABL = [4,4,268,19]
+19:38:42:787 LeftClick  in window "MuLab : Voice" : 96,274 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:42:880 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:38:44:739 LeftClick  in window "MuLab : Voice" : 104,281 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:44:829 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+19:38:45:363 LeftClick  in window "MuLab : Voice" : 89,246 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:45:454 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:45:747 LeftClick  in window "MuLab : Voice" : 89,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:45:828 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:45:987 LeftClick  in window "MuLab : Voice" : 89,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:46:080 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:46:195 LeftClick  in window "MuLab : Voice" : 89,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:46:277 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:46:779 LeftClick  in window "MuLab : Voice" : 89,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:46:861 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:47:475 LeftClick  in window "MuLab : Voice" : 90,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:47:557 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:47:755 LeftClick  in window "MuLab : Voice" : 90,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:47:831 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:47:943 LeftClick  in window "MuLab : Voice" : 90,248 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:47:992 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:38:55:545 LeftClick  in window "MuLab : Voice" : 120,301 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:55:621 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:38:56:187 LeftClick  in window "MuLab : Voice" : 82,257 -> 00000131B12CA2B0 = TREL = [21,191,242,607]
+19:38:56:306 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:38:57:331 LeftClick  in window "MuLab : Voice" : 235,14 -> 00000131B3FE2E78 = PSBT = [230,4,17,17] = ArrowUp
+19:38:57:422 CF: 00000131B3FDE360 = MSEW -> cuwd-maxz = Maximize
+19:38:58:187 LeftClick  in window "MuLab : Voice" : 1673,14 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+19:38:59:531 LeftClick  in window "MuLab : Voice" : 1202,7 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+19:38:59:704 Chk DblClk = 1
+19:38:59:704 CF: 00000131B3FDE360 = MSEW -> cuwd-maxz = Maximize
+19:39:01:011 LeftClick  in window "MuLab : Voice" : 1807,289 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:01:100 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+19:39:03:190 LeftClick  in window "MuLab : Voice" : 572,590 -> 00000131B3FE6110 = MEMC = [522,576,101,20]
+19:39:03:689 Chk DblClk = 0
+19:39:03:689 RightClick  in window "MuLab : Voice" : 572,590 -> 00000131B3FE6110 = MEMC = [522,576,101,20]
+19:39:06:827 LeftClick  in window "MuLab : Voice" : 254,566 -> 00000131B393B040 = MEMC = [202,556,101,20]
+19:39:06:998 Chk DblClk = 1
+19:39:07:956 LeftClick  in window "Select Audio Outputs" : 252,40 -> 00000131B0035E20 = PSBT = list = [246,31,18,18] = ArrowDown
+19:39:08:700 LeftClick  in window "" : 95,27 -> 0000002DCE6D4790 = TREL = PULs = [0,0,129,68]
+19:39:08:700 Popup list choice = VB-Audio Hi-Fi Cable 1
+19:39:09:155 LeftClick  in window "Select Audio Outputs" : 80,101 -> 00000131B01C27F0 = PSBT = O.K. = [56,83,56,31] = "OK"
+19:39:09:596 LeftClick  in window "MuLab : Voice" : 571,581 -> 00000131B3FE6110 = MEMC = [522,576,101,20]
+19:39:09:758 Chk DblClk = 1
+19:39:10:484 LeftClick  in window "Select Audio Outputs" : 254,47 -> 00000131B01C27F0 = PSBT = list = [246,31,18,18] = ArrowDown
+19:39:11:171 LeftClick  in window "" : 70,53 -> 0000002DCE6D4790 = TREL = PULs = [0,0,129,68]
+19:39:11:171 Popup list choice = VB-Audio Point 1
+19:39:11:499 LeftClick  in window "Select Audio Outputs" : 84,103 -> 00000131B01C3B00 = PSBT = O.K. = [56,83,56,31] = "OK"
+19:39:11:973 LeftClick  in window "MuLab : Voice" : 1726,287 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:12:064 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+19:39:12:756 LeftClick  in window "MuLab : Voice" : 1736,267 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:12:845 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:39:13:683 LeftClick  in window "MuLab : Voice" : 535,583 -> 00000131B3ABC030 = MEMC = [522,576,101,20]
+19:39:13:871 Chk DblClk = 1
+19:39:14:659 LeftClick  in window "Select Audio Outputs" : 262,43 -> 00000131B01C3B00 = PSBT = list = [246,31,18,18] = ArrowDown
+19:39:15:284 LeftClick  in window "" : 63,35 -> 0000002DCE6D4790 = TREL = PULs = [0,0,129,68]
+19:39:15:284 Popup list choice = VB-Audio Hi-Fi Cable 1
+19:39:15:603 LeftClick  in window "Select Audio Outputs" : 96,101 -> 00000131B01C62D0 = PSBT = O.K. = [56,83,56,31] = "OK"
+19:39:16:283 LeftClick  in window "MuLab : Voice" : 268,562 -> 00000131B3F4ED00 = MEMC = [202,556,101,20]
+19:39:16:444 Chk DblClk = 1
+19:39:17:515 LeftClick  in window "Select Audio Outputs" : 178,43 -> 00000131B4AD6BA0 = LABL = [117,31,129,18]
+19:39:18:443 LeftClick  in window "Select Audio Outputs" : 62,98 -> 00000131B0035E20 = PSBT = O.K. = [56,83,56,31] = "OK"
+19:39:19:267 LeftClick  in window "MuLab : Voice" : 1740,299 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:19:350 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:39:19:932 LeftClick  in window "MuLab : Voice" : 1739,356 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:20:032 Project Browser Preview {UserLibrary}/Soundboard/Yeah Sounds Good.Wav
+19:39:20:046 File[94] fn=Yeah Sounds Good.Xml, ec=2
+19:39:20:047 File[94] fn=Yeah Sounds Good.Xml, ec=2
+19:39:33:801 LeftClick  in window "MuLab : Voice" : 1747,289 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:33:913 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+19:39:36:897 LeftClick  in window "MuLab : Voice" : 1729,308 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:39:36:972 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:40:07:474 LeftClick  in window "MuLab : Voice" : 1728,313 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:40:07:557 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:40:15:401 LeftClick  in window "MuLab : Voice" : 1751,276 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:40:15:503 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+19:40:16:540 LeftClick  in window "MuLab : Voice" : 1751,292 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:40:16:640 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+19:40:18:435 LeftClick  in window "MuLab : Voice" : 1737,268 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:40:18:543 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:40:19:771 LeftClick  in window "MuLab : Voice" : 571,590 -> 00000131B3896010 = MEMC = [522,576,101,20]
+19:40:19:941 Chk DblClk = 1
+19:40:21:091 LeftClick  in window "Select Audio Outputs" : 198,105 -> 00000131B01C62D0 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+19:40:33:689 LeftClick  in window "MuLab : Voice" : 1748,266 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:40:33:789 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:40:46:745 LeftClick  in window "MuLab : Voice" : 100,52 -> 00000131B362D6A0 = TGBT = [86,33,66,30] = "PROJECT"
+19:40:47:531 LeftClick  in window "MuLab : Voice" : 59,48 -> 00000131B362CA00 = TGBT = [14,33,66,30] = "MULAB"
+19:40:48:323 LeftClick  in window "" : 72,11 -> 0000002DCE6D76B0 = TREL = PULs = [0,0,172,508]
+19:40:48:335 Popup list choice = Audio Setup
+19:40:48:340 CF: 00007FF6323FEAE0 = mlap -> msap-AoSu = Audio Setup
+19:40:49:362 LeftClick  in window "MuLab" : 107,146 -> 0000002DCE6D0940 = PSBT = btn1 = [81,119,39,31] = "Yes"
+19:40:49:489 This will stop the audio engine, OK? => Yes
+19:40:49:518 Gonna shutdown ASIO engine
+19:40:49:595 0=ASIO4ALL v2
+19:40:49:911 Stream Mic (Mic Only) 1
+19:40:49:911 Chan data type = 18
+19:40:49:912 Stream Mic (Mic Only) 2
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 1
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 2
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 3
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 4
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 5
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 6
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 7
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Hi-Fi Cable 8
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 1
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 2
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 3
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 4
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 5
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 6
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 7
+19:40:49:912 Chan data type = 18
+19:40:49:912 VB-Audio Point 8
+19:40:49:912 Chan data type = 18
+19:40:49:912 44100 Hz
+19:40:49:912 48000 Hz
+19:40:49:912 96000 Hz
+19:40:49:912 192000 Hz
+19:40:59:821 LeftClick  in window "Audio Setup" : 175,130 -> 0000002DCE6CA6D0 = PSBT = outs = [127,109,99,31] = "Select Outputs"
+19:41:01:603 LeftClick  in window "Select Outputs" : 131,487 -> 00000131B4ED0B70 = IWCC = [0,0,181,490]
+19:41:01:941 LeftClick  in window "Select Outputs" : 136,471 -> 00000131B4EE5530 = PSBT = CNCL = [100,447,56,31] = "Cancel"
+19:41:02:451 LeftClick  in window "Audio Setup" : 321,109 -> 0000002DCE6CB370 = PSBT = cpnl = [242,109,93,31] = "Control Panel"
+19:41:07:741 LeftClick  in window "Audio Setup" : 202,239 -> 0000002DCE6D56D0 = PSBT = O.K. = [188,216,35,31] = "OK"
+19:41:07:847 Gonna startup audio engine
+19:41:07:849 Gonna startup ASIO engine
+19:41:07:849 ASIO4ALL v2
+19:41:08:167 ASIOGetChannels OK. inputs: 2, outputs: 16
+19:41:08:167 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+19:41:08:167 ASIOGetSampleRate = 44100.000000
+19:41:08:167 ASIOOutputReady() - Not supported
+19:41:08:167 input chan 0 data type = 18
+19:41:08:167 input chan 1 data type = 18
+19:41:08:167 output chan 0 data type = 18
+19:41:08:167 output chan 1 data type = 18
+19:41:08:167 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+19:41:08:167 ASIOGetLatencies OK: InLat=764, OutLat=544
+19:41:08:167 ASIOStart OK
+19:41:08:216 LeftClick  in window "MuLab : Voice" : 1735,270 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:08:283 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:41:08:923 LeftClick  in window "MuLab : Voice" : 1732,308 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:09:046 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:41:10:099 LeftClick  in window "MuLab : Voice" : 736,484 -> 00000131B0D06570 = MEMC = [682,466,101,20]
+19:41:10:284 Chk DblClk = 1
+19:41:11:153 LeftClick  in window "MuLab : Voice" : 1707,274 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:11:236 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:41:12:227 LeftClick  in window "MuLab : Voice" : 1707,274 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:12:327 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:41:19:043 LeftClick  in window "MuLab : Voice" : 1765,264 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:19:133 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:41:21:065 LeftClick  in window "MuLab : Voice" : 1707,832 -> 00000131B362B020 = MSED = [4,23,1912,1013]
+19:41:50:606 LeftClick  in window "MuLab : Voice" : 933,740 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:41:50:704 Chk DblClk = 0
+19:41:51:219 LeftClick  in window "MuLab : Voice" : 1760,268 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:51:330 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:41:55:042 LeftClick  in window "MuLab : Voice" : 1774,305 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:55:097 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:41:55:531 LeftClick  in window "MuLab : Voice" : 1724,237 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:55:619 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+19:41:56:052 LeftClick  in window "MuLab : Voice" : 1722,205 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:41:56:147 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+19:42:06:699 LeftClick  in window "MuLab : Voice" : 1776,317 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:42:06:792 Project Browser Preview {UserLibrary}/Soundboard/Nawhh Sheeeit.Wav
+19:42:59:108 LeftClick  in window "MuLab : Voice" : 52,44 -> 00000131B362CA00 = TGBT = [14,33,66,30] = "MULAB"
+19:43:00:660 LeftClick  in window "" : 93,2 -> 0000002DCE6D76B0 = TREL = PULs = [0,0,172,508]
+19:43:01:715 LeftClick  in window "" : 97,13 -> 0000002DCE6D76B0 = TREL = PULs = [0,0,172,508]
+19:43:01:726 Popup list choice = Audio Setup
+19:43:01:740 CF: 00007FF6323FEAE0 = mlap -> msap-AoSu = Audio Setup
+19:43:02:860 LeftClick  in window "MuLab" : 105,123 -> 0000002DCE6D0940 = PSBT = btn1 = [81,119,39,31] = "Yes"
+19:43:02:964 This will stop the audio engine, OK? => Yes
+19:43:03:013 Gonna shutdown ASIO engine
+19:43:03:078 0=ASIO4ALL v2
+19:43:03:585 Stream Mic (Mic Only) 1
+19:43:03:585 Chan data type = 18
+19:43:03:585 Stream Mic (Mic Only) 2
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 1
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 2
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 3
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 4
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 5
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 6
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 7
+19:43:03:585 Chan data type = 18
+19:43:03:585 VB-Audio Hi-Fi Cable 8
+19:43:03:585 Chan data type = 18
+19:43:03:586 VB-Audio Point 1
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 2
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 3
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 4
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 5
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 6
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 7
+19:43:03:586 Chan data type = 18
+19:43:03:586 VB-Audio Point 8
+19:43:03:586 Chan data type = 18
+19:43:03:586 44100 Hz
+19:43:03:586 48000 Hz
+19:43:03:586 96000 Hz
+19:43:03:586 192000 Hz
+19:43:04:787 LeftClick  in window "Audio Setup" : 274,126 -> 0000002DCE6CB370 = PSBT = cpnl = [242,109,93,31] = "Control Panel"
+19:43:07:232 LeftClick  in window "Audio Setup" : 163,22 -> 00000131B530FBB8 = LABL = [4,4,403,19]
+19:43:07:995 LeftClick  in window "Audio Setup" : 198,11 -> 00000131B530FBB8 = LABL = [4,4,403,19]
+19:43:43:251 LeftClick  in window "Audio Setup" : 212,221 -> 0000002DCE6D56D0 = PSBT = O.K. = [188,216,35,31] = "OK"
+19:43:43:458 Gonna startup audio engine
+19:43:43:460 Gonna startup ASIO engine
+19:43:43:461 ASIO4ALL v2
+19:43:44:513 ASIOGetChannels OK. inputs: 2, outputs: 16
+19:43:44:513 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+19:43:44:513 ASIOGetSampleRate = 44100.000000
+19:43:44:513 ASIOOutputReady() - Not supported
+19:43:44:513 input chan 0 data type = 18
+19:43:44:513 input chan 1 data type = 18
+19:43:44:513 output chan 0 data type = 18
+19:43:44:513 output chan 1 data type = 18
+19:43:44:513 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+19:43:44:513 ASIOGetLatencies OK: InLat=764, OutLat=544
+19:43:44:513 ASIOStart OK
+19:47:48:741 LeftClick  in window "MASTER" : 218,9 -> 00000131B4ADA8C8 = LABL = [4,4,218,19]
+19:47:49:221 Chk DblClk = 0
+19:47:49:315 LeftClick  in window "MASTER" : 213,9 -> 00000131B4AD7648 = PSBT = [201,4,17,17] = CloseDelete
+19:47:49:427 CF: 00000131B4AD5110 = MEWd -> cuwd-clos = Close
+19:54:58:344 LeftClick  in window "MuLab : Voice" : 1111,896 -> 00000131B0D323E0 = VIEW = [4,834,1912,202]
+19:54:58:500 Chk DblClk = 0
+19:54:59:629 LeftClick  in window "MuLab : Voice" : 359,686 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:54:59:799 Chk DblClk = 0
+19:55:04:787 LeftClick  in window "MuLab : Voice" : 229,436 -> 00000131B51C2D60 = MEMC = [182,426,101,20]
+19:55:04:978 Chk DblClk = 1
+19:55:06:092 LeftClick  in window "Oscilloscope" : 242,12 -> 00000131B4ADA8C8 = LABL = [4,4,451,19]
+19:55:09:269 LeftClick  in window "Oscilloscope" : 193,15 -> 00000131B4ADA8C8 = LABL = [4,4,451,19]
+19:55:14:341 RightClick  in window "MuLab : Voice" : 344,510 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:56:01:968 LeftClick  in window "Oscilloscope" : 445,13 -> 00000131B4AD7648 = PSBT = [434,4,17,17] = CloseDelete
+19:56:02:045 CF: 00000131B4AD5110 = MEWd -> cuwd-clos = Close
+19:56:05:300 LeftClick  in window "MuLab : Voice" : 601,234 -> 00000131B51C1B50 = MEMC = [542,216,101,20]
+19:56:05:453 Drag 00000131B51C1B50 = MEMC = [542,216,101,20]
+19:56:06:060 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:56:06:530 LeftClick  in window "MuLab : Voice" : 611,218 -> 00000131B51A2990 = MEMC = [552,216,101,20]
+19:56:06:575 Drag 00000131B51A2990 = MEMC = [552,216,101,20]
+19:56:06:729 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:56:10:025 LeftClick  in window "MuLab : Voice" : 541,219 -> 00000131B51A0570 = MEMC = [482,216,101,20]
+19:56:10:174 Chk DblClk = 1
+19:56:11:322 LeftClick  in window "Select Audio Inputs" : 202,5 -> 00000131B3CC5968 = LABL = [4,4,312,19]
+19:56:12:045 LeftClick  in window "Select Audio Inputs" : 284,38 -> 00000131B4AD6BA0 = LABL = [108,31,178,22]
+19:56:12:581 LeftClick  in window "Select Audio Inputs" : 292,41 -> 00000131B10A52C0 = PSBT = list = [286,31,22,22] = ArrowDown
+19:56:13:314 LeftClick  in window "" : 101,31 -> 0000002DCE6D4790 = TREL = PULs = [0,0,139,68]
+19:56:13:314 Popup list choice = Stream Mic (Mic Only) 1
+19:56:19:739 LeftClick  in window "Select Audio Inputs" : 95,100 -> 00000131B0050E60 = PSBT = O.K. = [71,91,56,31] = "OK"
+19:56:28:730 LeftClick  in window "MuLab : Voice" : 539,239 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:56:28:891 Chk DblClk = 1
+19:56:30:653 RwrMpu[60] RWMOpen error=100
+19:56:30:721 LeftClick  in window "MuLab : Voice" : 531,229 -> 00000131B51A0570 = MEMC = [482,216,101,20]
+19:56:30:803 Drag 00000131B51A0570 = MEMC = [482,216,101,20]
+19:56:30:906 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:56:30:960 LeftClick  in window "MuLab : Voice" : 527,225 -> 00000131B51A1780 = MEMC = [482,216,101,20]
+19:56:30:998 Chk DblClk = 1
+19:56:42:306 LeftClick  in window "Select Audio Inputs" : 220,117 -> 00000131B0050E60 = PSBT = CNCL = [193,91,56,31] = "Cancel"
+19:56:42:937 LeftClick  in window "MuLab : Voice" : 53,63 -> 00000131B362C220 = GPNL = [8,27,150,42]
+19:56:43:386 LeftClick  in window "MuLab : Voice" : 55,45 -> 00000131B362CA00 = TGBT = [14,33,66,30] = "MULAB"
+19:56:51:994 LeftClick  in window "" : 84,20 -> 0000002DCE6D76B0 = TREL = PULs = [0,0,172,508]
+19:56:51:994 Popup list choice = Audio Setup
+19:56:52:009 CF: 00007FF6323FEAE0 = mlap -> msap-AoSu = Audio Setup
+19:57:01:403 LeftClick  in window "MuLab" : 215,143 -> 0000002DCE6D15E0 = PSBT = btn2 = [196,119,39,31] = "No"
+19:57:01:519 This will stop the audio engine, OK? => No
+19:57:39:323 LeftClick  in window "MuLab : Voice" : 1724,234 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:57:39:469 Project Browser Preview {UserLibrary}/Soundboard/Discord Disconect.wav
+19:57:39:526 File[94] fn=Discord Disconect.Xml, ec=2
+19:57:39:527 File[94] fn=Discord Disconect.Xml, ec=2
+19:57:40:154 LeftClick  in window "MuLab : Voice" : 1718,258 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:57:40:248 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+19:57:40:691 LeftClick  in window "MuLab : Voice" : 1722,299 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:57:40:826 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+19:57:48:522 LeftClick  in window "MuLab : Voice" : 1711,381 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+19:57:48:626 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+19:58:08:946 LeftClick  in window "MuLab : Voice" : 585,374 -> 00000131B4CD6690 = MEMC = [522,366,101,20]
+19:58:09:439 Chk DblClk = 0
+19:58:10:869 LeftClick  in window "MuLab : Voice" : 676,310 -> 00000131B4CDE500 = MEMC = [602,296,101,20]
+19:58:11:360 Chk DblClk = 0
+19:58:13:602 LeftClick  in window "MuLab : Voice" : 676,310 -> 00000131B4CDE500 = MEMC = [602,296,101,20]
+19:58:14:095 Chk DblClk = 0
+19:58:14:910 LeftClick  in window "MuLab : Voice" : 666,391 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:15:152 Chk DblClk = 0
+19:58:19:557 LeftClick  in window "MuLab : Voice" : 833,347 -> 00000131B4CD5480 = MEMC = [772,336,101,20]
+19:58:20:047 Chk DblClk = 0
+19:58:27:202 LeftClick  in window "MuLab : Voice" : 934,464 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:27:421 Chk DblClk = 0
+19:58:28:868 LeftClick  in window "MuLab : Voice" : 538,275 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:30:729 Mouse Lasso 538,275,370,165
+19:58:31:365 LeftClick  in window "MuLab : Voice" : 570,372 -> 00000131B4CD6690 = MEMC = [522,366,101,20]
+19:58:31:390 Drag 3 MEMC
+19:58:31:818 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:32:601 LeftClick  in window "MuLab : Voice" : 745,479 -> 00000131B4CDF710 = MEMC = [682,466,101,20]
+19:58:32:712 Drag 00000131B4CDF710 = MEMC = [682,466,101,20]
+19:58:33:293 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:33:571 LeftClick  in window "MuLab : Voice" : 709,574 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:33:692 Chk DblClk = 0
+19:58:35:030 LeftClick  in window "MuLab : Voice" : 259,208 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:35:608 Mouse Lasso 259,208,173,135
+19:58:36:011 LeftClick  in window "MuLab : Voice" : 441,318 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:36:122 Chk DblClk = 0
+19:58:36:627 LeftClick  in window "MuLab : Voice" : 425,276 -> 00000131B4CD78A0 = MEMC = [372,266,101,20]
+19:58:36:781 Chk DblClk = 1
+19:58:39:234 LeftClick  in window "Audio Gate Front Panel" : 533,8 -> 00000131B4B05798 = PSBT = [523,4,17,17] = CloseDelete
+19:58:39:379 CF: 00000131B4B03260 = MEWd -> cuwd-clos = Close
+19:58:39:938 LeftClick  in window "MuLab : Voice" : 304,247 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+19:58:40:055 Chk DblClk = 0
+19:59:52:611 LeftClick  in window "MuLab : Voice" : 64,55 -> 00000131B362CA00 = TGBT = [14,33,66,30] = "MULAB"
+19:59:54:010 LeftClick  in window "" : 87,18 -> 0000002DCE6D76B0 = TREL = PULs = [0,0,172,508]
+19:59:54:010 Popup list choice = Audio Setup
+19:59:54:020 CF: 00007FF6323FEAE0 = mlap -> msap-AoSu = Audio Setup
+19:59:55:773 LeftClick  in window "MuLab" : 109,139 -> 0000002DCE6D0940 = PSBT = btn1 = [81,119,39,31] = "Yes"
+19:59:55:933 This will stop the audio engine, OK? => Yes
+19:59:56:001 Gonna shutdown ASIO engine
+19:59:56:096 0=ASIO4ALL v2
+19:59:56:747 Stream Mic (Mic Only) 1
+19:59:56:747 Chan data type = 18
+19:59:56:747 Stream Mic (Mic Only) 2
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 1
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 2
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 3
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 4
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 5
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 6
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 7
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Hi-Fi Cable 8
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 1
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 2
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 3
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 4
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 5
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 6
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 7
+19:59:56:747 Chan data type = 18
+19:59:56:747 VB-Audio Point 8
+19:59:56:747 Chan data type = 18
+19:59:56:747 44100 Hz
+19:59:56:747 48000 Hz
+19:59:56:747 96000 Hz
+19:59:56:747 192000 Hz
+19:59:57:833 LeftClick  in window "Audio Setup" : 291,130 -> 0000002DCE6CB370 = PSBT = cpnl = [242,109,93,31] = "Control Panel"
+20:00:09:646 LeftClick  in window "Audio Setup" : 206,233 -> 0000002DCE6D56D0 = PSBT = O.K. = [188,216,35,31] = "OK"
+20:00:09:830 Gonna startup audio engine
+20:00:09:834 Gonna startup ASIO engine
+20:00:09:835 ASIO4ALL v2
+20:00:10:541 ASIOGetChannels OK. inputs: 2, outputs: 16
+20:00:10:541 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+20:00:10:541 ASIOGetSampleRate = 44100.000000
+20:00:10:541 ASIOOutputReady() - Not supported
+20:00:10:541 input chan 0 data type = 18
+20:00:10:541 input chan 1 data type = 18
+20:00:10:541 output chan 0 data type = 18
+20:00:10:541 output chan 1 data type = 18
+20:00:10:541 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+20:00:10:541 ASIOGetLatencies OK: InLat=764, OutLat=544
+20:00:10:541 ASIOStart OK
+20:04:31:672 LeftClick  in window "MuLab : Voice" : 274,573 -> 00000131B5279A80 = MEMC = [202,556,101,20]
+20:04:31:891 Chk DblClk = 1
+20:04:53:643 LeftClick  in window "Select Audio Outputs" : 229,7 -> 00000131B4B08A18 = LABL = [4,4,268,19]
+20:04:53:755 Chk DblClk = 0
+20:04:54:436 LeftClick  in window "Select Audio Outputs" : 199,94 -> 00000131B53038C0 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+20:04:55:323 LeftClick  in window "MuLab : Voice" : 1727,265 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+20:04:55:475 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+20:04:58:320 LeftClick  in window "MuLab : Voice" : 801,9 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+20:05:00:690 LeftClick  in window "MuLab : Voice" : 519,14 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+20:05:01:939 LeftClick  in window "MuLab : Voice" : 2,368 -> 00000131B3FDEA00 = IWCC = [0,0,1920,1040]
+20:05:03:283 LeftClick  in window "MuLab : Voice" : 137,12 -> 00000131B3FE3B18 = LABL = [4,4,1053,19]
+20:05:04:562 LeftClick  in window "MuLab : Voice" : 70,14 -> 00000131B3FE3B18 = LABL = [4,4,1053,19]
+20:05:07:879 LeftClick  in window "MuLab : Voice" : 879,269 -> 00000131B12CA2B0 = TREL = [806,191,242,607]
+20:05:08:027 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+20:06:57:506 LeftClick  in window "MuLab : Voice" : 1025,13 -> 00000131B3FE2E78 = PSBT = [1015,4,17,17] = ArrowUp
+20:06:57:616 CF: 00000131B3FDE360 = MSEW -> cuwd-maxz = Maximize
+20:07:00:809 LeftClick  in window "MuLab : Voice" : 260,564 -> 00000131B52C0270 = MEMC = [202,556,101,20]
+20:07:00:979 Drag 00000131B52C0270 = MEMC = [202,556,101,20]
+20:07:01:394 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:07:01:850 LeftClick  in window "MuLab : Voice" : 352,583 -> 00000131B52D4790 = MEMC = [292,576,101,20]
+20:07:01:963 Drag 00000131B52D4790 = MEMC = [292,576,101,20]
+20:07:02:128 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:07:02:539 LeftClick  in window "MuLab : Voice" : 598,586 -> 00000131B52C0270 = MEMC = [522,576,101,20]
+20:07:02:580 Drag 00000131B52C0270 = MEMC = [522,576,101,20]
+20:07:03:020 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:07:03:284 RightClick  in window "MuLab : Voice" : 808,535 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:07:04:089 LeftClick  in window "" : 60,15 -> 0000002DCE6D7090 = TREL = PULs = [0,0,81,68]
+20:07:04:089 Popup list choice = Add Module
+20:07:04:098 CF: 00000131B3CB7A48 = MSTE = [12,196,4096,2048] -> MSTE-+Mpu = Add Module
+20:07:04:281 RwrMpu[65] Not retrying failed rewire startup
+20:07:05:521 LeftClick  in window "" : 34,110 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:07:06:537 LeftClick  in window "" : 46,272 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:07:47:507 LeftClick  in window "MuLab : Voice" : 390,583 -> 00000131B52C92F0 = MEMC = [322,576,101,20]
+20:07:47:692 Chk DblClk = 1
+20:07:52:768 LeftClick  in window "Select Audio Outputs" : 197,99 -> 00000131B0050E60 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+20:07:53:514 LeftClick  in window "MuLab : Voice" : 577,621 -> 00000131B52D1160 = MEMC = [512,616,101,20]
+20:07:53:806 Chk DblClk = 0
+20:07:54:993 LeftClick  in window "MuLab : Voice" : 585,623 -> 00000131B52D1160 = MEMC = [512,616,101,20]
+20:07:55:149 Chk DblClk = 1
+20:08:04:577 LeftClick  in window "Select Audio Outputs" : 77,94 -> 00000131B5D60080 = PSBT = O.K. = [56,83,56,31] = "OK"
+20:08:11:457 LeftClick  in window "MuLab : Voice" : 40,42 -> 00000131B362CA00 = TGBT = [14,33,66,30] = "MULAB"
+20:08:12:581 LeftClick  in window "" : 68,18 -> 0000002DCE6D76B0 = TREL = PULs = [0,0,172,508]
+20:08:12:583 Popup list choice = Audio Setup
+20:08:12:590 CF: 00007FF6323FEAE0 = mlap -> msap-AoSu = Audio Setup
+20:08:16:694 LeftClick  in window "MuLab" : 110,131 -> 0000002DCE6D0940 = PSBT = btn1 = [81,119,39,31] = "Yes"
+20:08:16:777 This will stop the audio engine, OK? => Yes
+20:08:16:859 Gonna shutdown ASIO engine
+20:08:16:948 0=ASIO4ALL v2
+20:08:17:591 Stream Mic (Mic Only) 1
+20:08:17:591 Chan data type = 18
+20:08:17:591 Stream Mic (Mic Only) 2
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 1
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 2
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 3
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 4
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 5
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 6
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 7
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Hi-Fi Cable 8
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 1
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 2
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 3
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 4
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 5
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 6
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 7
+20:08:17:591 Chan data type = 18
+20:08:17:591 VB-Audio Point 8
+20:08:17:591 Chan data type = 18
+20:08:17:591 44100 Hz
+20:08:17:591 48000 Hz
+20:08:17:591 96000 Hz
+20:08:17:591 192000 Hz
+20:08:19:482 LeftClick  in window "Audio Setup" : 193,121 -> 0000002DCE6CA6D0 = PSBT = outs = [127,109,99,31] = "Select Outputs"
+20:08:20:488 LeftClick  in window "Select Outputs" : 76,15 -> 00000131B466AB88 = LABL = [4,4,173,19]
+20:09:36:573 LeftClick  in window "Select Outputs" : 44,458 -> 00000131B4CEAE00 = PSBT = O.K. = [24,447,56,31] = "OK"
+20:09:38:518 LeftClick  in window "Audio Setup" : 62,125 -> 0000002DCE6C9A30 = PSBT =  ins = [12,109,99,31] = "Select Inputs"
+20:09:40:453 LeftClick  in window "Select Inputs" : 40,91 -> 00000131B0035E20 = PSBT = O.K. = [28,83,56,31] = "OK"
+20:09:44:636 LeftClick  in window "Audio Setup" : 204,234 -> 0000002DCE6D56D0 = PSBT = O.K. = [188,216,35,31] = "OK"
+20:09:44:792 Gonna startup audio engine
+20:09:44:825 Gonna startup ASIO engine
+20:09:44:826 ASIO4ALL v2
+20:09:45:856 ASIOGetChannels OK. inputs: 2, outputs: 16
+20:09:45:856 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+20:09:45:857 ASIOGetSampleRate = 44100.000000
+20:09:45:857 ASIOOutputReady() - Not supported
+20:09:45:857 input chan 0 data type = 18
+20:09:45:857 input chan 1 data type = 18
+20:09:45:857 output chan 0 data type = 18
+20:09:45:857 output chan 1 data type = 18
+20:09:45:857 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+20:09:45:857 ASIOGetLatencies OK: InLat=764, OutLat=544
+20:09:45:860 ASIOStart OK
+20:09:46:099 LeftClick  in window "MuLab : Voice" : 396,588 -> 00000131B52C92F0 = MEMC = [322,576,101,20]
+20:09:46:579 Chk DblClk = 0
+20:09:47:009 LeftClick  in window "MuLab : Voice" : 396,588 -> 00000131B52C92F0 = MEMC = [322,576,101,20]
+20:09:47:181 Chk DblClk = 1
+20:09:49:760 LeftClick  in window "Select Audio Outputs" : 256,36 -> 00000131B5D60080 = PSBT = list = [246,31,18,18] = ArrowDown
+20:09:56:740 LeftClick  in window "Select Audio Outputs" : 93,98 -> 00000131B4DE0F00 = PSBT = O.K. = [56,83,56,31] = "OK"
+20:09:57:332 LeftClick  in window "MuLab : Voice" : 365,581 -> 00000131B52C92F0 = MEMC = [322,576,101,20]
+20:09:57:369 Drag 00000131B52C92F0 = MEMC = [322,576,101,20]
+20:09:58:002 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:09:58:384 LeftClick  in window "MuLab : Voice" : 390,610 -> 00000131B52C6ED0 = MEMC = [352,606,101,20]
+20:09:58:516 Chk DblClk = 1
+20:10:00:193 LeftClick  in window "Select Audio Outputs" : 248,43 -> 00000131B5D60080 = PSBT = list = [246,31,18,18] = ArrowDown
+20:10:13:428 LeftClick  in window "Select Audio Outputs" : 257,72 -> 00000131B3CBE3F0 = PSBT = list = [246,57,18,18] = ArrowDown
+20:10:20:133 LeftClick  in window "Select Audio Outputs" : 184,97 -> 00000131B0050E60 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+20:10:20:710 LeftClick  in window "MuLab : Voice" : 544,629 -> 00000131B3FDF9B0 = TLTP = [542,628,121,20]
+20:10:20:858 LeftClick  in window "MuLab : Voice" : 544,629 -> 00000131B52C1480 = MEMC = [512,616,101,20]
+20:10:21:046 Chk DblClk = 0
+20:10:22:389 LeftClick  in window "MuLab : Voice" : 513,229 -> 00000131B52C4AB0 = MEMC = [482,216,101,20]
+20:10:22:638 Chk DblClk = 1
+20:10:23:468 LeftClick  in window "Select Audio Inputs" : 217,113 -> 00000131B0050E60 = PSBT = CNCL = [193,91,56,31] = "Cancel"
+20:10:33:002 LeftClick  in window "MuLab : Voice" : 502,457 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:33:399 Mouse Lasso 502,457,49,8
+20:10:33:624 LeftClick  in window "MuLab : Voice" : 522,446 -> 00000131B52C0270 = MEMC = [462,436,101,20]
+20:10:33:778 Drag 00000131B52C0270 = MEMC = [462,436,101,20]
+20:10:33:941 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:34:674 LeftClick  in window "MuLab : Voice" : 229,442 -> 00000131B52C80E0 = MEMC = [182,426,101,20]
+20:10:34:787 Drag 00000131B52C80E0 = MEMC = [182,426,101,20]
+20:10:34:955 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:39:513 LeftClick  in window "MuLab : Voice" : 531,225 -> 00000131B52BF060 = MEMC = [482,216,101,20]
+20:10:39:662 Drag 00000131B52BF060 = MEMC = [482,216,101,20]
+20:10:39:870 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:43:776 LeftClick  in window "MuLab : Voice" : 399,628 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:44:017 Mouse Lasso 218,526,181,102
+20:10:44:627 LeftClick  in window "MuLab : Voice" : 280,251 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:44:892 Mouse Lasso 280,251,175,202
+20:10:45:322 LeftClick  in window "MuLab : Voice" : 437,434 -> 00000131B52CC920 = MEMC = [382,426,101,20]
+20:10:45:403 Drag 3 MEMC
+20:10:45:604 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:46:265 LeftClick  in window "MuLab : Voice" : 405,622 -> 00000131B52C1480 = MEMC = [352,606,101,20]
+20:10:46:349 Drag 00000131B52C1480 = MEMC = [352,606,101,20]
+20:10:46:798 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:47:377 LeftClick  in window "MuLab : Voice" : 680,383 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:47:541 Chk DblClk = 0
+20:10:49:394 LeftClick  in window "MuLab : Voice" : 278,461 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:49:869 Mouse Lasso 169,330,109,131
+20:10:49:967 LeftClick  in window "MuLab : Voice" : 59,172 -> 00000131B3CA20C0 = VwSP = [12,128,4216,48]
+20:10:49:979 Drag 00000131B3CA1040 = MMDE = [4,73,1646,757]
+20:10:50:793 LeftClick  in window "MuLab : Voice" : 177,329 -> 00000131B52CC920 = MEMC = [132,316,101,20]
+20:10:50:893 Drag 00000131B52CC920 = MEMC = [132,316,101,20]
+20:10:51:104 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:51:721 LeftClick  in window "MuLab : Voice" : 182,206 -> 00000131B52C5CC0 = MEMC = [122,196,101,20]
+20:10:51:828 Drag 00000131B52C5CC0 = MEMC = [122,196,101,20]
+20:10:51:998 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:52:602 LeftClick  in window "MuLab : Voice" : 79,224 -> 00000131B52C80E0 = MEMC = [32,216,101,20]
+20:10:52:695 Drag 00000131B52C80E0 = MEMC = [32,216,101,20]
+20:10:52:896 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:53:502 LeftClick  in window "MuLab : Voice" : 477,408 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:10:53:987 Chk DblClk = 0
+20:10:59:393 LeftClick  in window "MuLab : Voice" : 597,354 -> 00000131B52C1480 = MEMC = [512,346,101,20]
+20:10:59:561 Chk DblClk = 1
+20:11:00:521 LeftClick  in window "Select Audio Outputs" : 254,39 -> 00000131B0F014B0 = PSBT = list = [246,31,18,18] = ArrowDown
+20:11:57:454 LeftClick  in window "Select Audio Outputs" : 78,98 -> 00000131B4DE0F00 = PSBT = O.K. = [56,83,56,31] = "OK"
+20:11:58:502 LeftClick  in window "MuLab : Voice" : 578,355 -> 00000131B52C1480 = MEMC = [512,346,101,20]
+20:11:58:540 Drag 00000131B52C1480 = MEMC = [512,346,101,20]
+20:11:59:981 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:00:473 LeftClick  in window "MuLab : Voice" : 605,275 -> 00000131B52CED40 = MEMC = [552,266,101,20]
+20:12:00:700 Chk DblClk = 1
+20:12:02:882 LeftClick  in window "Select Audio Inputs" : 105,102 -> 00000131B4DE0F00 = PSBT = O.K. = [71,91,56,31] = "OK"
+20:12:10:217 LeftClick  in window "MuLab : Voice" : 573,383 -> 00000131B52CA500 = MEMC = [512,376,101,20]
+20:12:10:333 Drag 00000131B52CA500 = MEMC = [512,376,101,20]
+20:12:10:550 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:11:563 LeftClick  in window "MuLab : Voice" : 426,584 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:12:141 Mouse Lasso 426,375,150,209
+20:12:12:790 LeftClick  in window "MuLab : Voice" : 408,599 -> 00000131B52BF060 = MEMC = [352,586,101,20]
+20:12:12:894 Drag 00000131B52BF060 = MEMC = [352,586,101,20]
+20:12:13:265 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:16:676 LeftClick  in window "MuLab : Voice" : 155,373 -> 00000131B52CED40 = MEMC = [92,366,101,20]
+20:12:16:788 Drag 00000131B52CED40 = MEMC = [92,366,101,20]
+20:12:17:173 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:17:660 LeftClick  in window "MuLab : Voice" : 429,281 -> 00000131B52C38A0 = MEMC = [362,266,101,20]
+20:12:17:813 Chk DblClk = 1
+20:12:20:200 LeftClick  in window "Amplifier" : 265,12 -> 00000131B5F32158 = PSBT = [255,4,17,17] = CloseDelete
+20:12:20:326 CF: 00000131B5F2FC20 = MEWd -> cuwd-clos = Close
+20:12:20:906 LeftClick  in window "MuLab : Voice" : 424,273 -> 00000131B52C38A0 = MEMC = [362,266,101,20]
+20:12:21:039 Drag 00000131B52C38A0 = MEMC = [362,266,101,20]
+20:12:21:512 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:22:009 RightClick  in window "MuLab : Voice" : 528,392 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:22:721 LeftClick  in window "" : 35,4 -> 0000002DCE6D7090 = TREL = PULs = [0,0,81,68]
+20:12:22:721 Popup list choice = Add Module
+20:12:22:730 CF: 00000131B3CB7A48 = MSTE = [12,196,4096,2048] -> MSTE-+Mpu = Add Module
+20:12:22:885 RwrMpu[65] Not retrying failed rewire startup
+20:12:26:705 LeftClick  in window "" : 101,73 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:12:27:264 LeftClick  in window "" : 106,87 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:12:29:258 LeftClick  in window "" : 131,164 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:12:30:785 LeftClick  in window "" : 144,227 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:12:30:785 Popup list choice = Crusher
+20:12:30:800 Load preset for 00000131B465A010 = mufx : {AppLibrary}/Mux/Effects/Distortion/Crusher.Mux
+20:12:31:715 LeftClick  in window "MuLab : Voice" : 624,329 -> 00000131B54C7990 = MEMC = [582,316,101,20]
+20:12:31:879 Drag 00000131B54C7990 = MEMC = [582,316,101,20]
+20:12:32:049 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:32:802 LeftClick  in window "MuLab : Voice" : 538,394 -> 00000131B3AC7680 = MEMC = [528,392,101,20]
+20:12:32:939 Drag 00000131B3AC7680 = MEMC = [528,392,101,20]
+20:12:33:268 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:33:907 LeftClick  in window "MuLab : Voice" : 586,302 -> 00000131B3AD8570 = MEMC = [552,296,101,20]
+20:12:33:932 Drag 00000131B3AD8570 = MEMC = [552,296,101,20]
+20:12:34:132 Drop on 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:34:713 LeftClick  in window "MuLab : Voice" : 621,340 -> 00000131B5E11850 = JakC = [617,336,12,9]
+20:12:37:373 LeftClick  in window "MuLab : Voice" : 201,452 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:38:625 LeftClick  in window "MuLab : Voice" : 647,324 -> 00000131B3AD8570 = MEMC = [612,316,101,20]
+20:12:38:809 Chk DblClk = 1
+20:12:44:049 LeftClick  in window "Crusher Front Panel" : 464,15 -> 00000131B4B05798 = PSBT = [454,4,17,17] = CloseDelete
+20:12:44:147 CF: 00000131B4B03260 = MEWd -> cuwd-clos = Close
+20:12:44:890 LeftClick  in window "MuLab : Voice" : 622,303 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:49:010 LeftClick  in window "MuLab : Voice" : 678,327 -> 00000131B4DD5090 = MEMC = [612,316,101,20]
+20:12:49:173 Chk DblClk = 0
+20:12:49:344 RightClick  in window "MuLab : Voice" : 703,314 -> 00000131B3CB7A48 = MSTE = [12,196,4096,2048]
+20:12:54:187 RightClick  in window "MuLab : Voice" : 702,330 -> 00000131B4DD5090 = MEMC = [612,316,101,20]
+20:12:54:837 RightClick  in window "MuLab : Voice" : 671,324 -> 00000131B4DD5090 = MEMC = [607,315,101,20]
+20:12:55:837 LeftClick  in window "" : 74,69 -> 0000002DCE6D7160 = TREL = PULs = [0,0,178,628]
+20:12:55:837 Popup list choice = Delete
+20:12:55:848 CF: 00000131B465A010 = mufx -> wobj-delt = Delete
+20:12:55:859 UR action: Delete MUX Modular "Crusher"
+20:12:56:905 LeftClick  in window "MuLab : Voice" : 323,331 -> 00000131B4DD0850 = MEMC = [267,325,101,20]
+20:12:57:027 Drag 00000131B4DD0850 = MEMC = [267,325,101,20]
+20:12:57:229 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:12:57:728 LeftClick  in window "MuLab : Voice" : 203,396 -> 00000131B4DD74B0 = MEMC = [147,385,101,20]
+20:12:57:875 Drag 00000131B4DD74B0 = MEMC = [147,385,101,20]
+20:12:58:040 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:03:475 LeftClick  in window "MuLab : Voice" : 576,638 -> 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:03:968 Mouse Lasso 576,638,198,79
+20:13:04:384 LeftClick  in window "MuLab : Voice" : 577,622 -> 00000131B3AD3D30 = MEMC = [507,615,101,20]
+20:13:04:538 Drag 00000131B3AD3D30 = MEMC = [507,615,101,20]
+20:13:04:727 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:07:192 LeftClick  in window "MuLab : Voice" : 1756,278 -> 00000131B12CA2B0 = TREL = [1665,191,242,607]
+20:13:07:317 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+20:13:18:248 LeftClick  in window "MuLab : Voice" : 685,424 -> 00000131B3ACE2E0 = MEMC = [627,405,101,20]
+20:13:18:404 Drag 00000131B3ACE2E0 = MEMC = [627,405,101,20]
+20:13:18:617 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:18:752 LeftClick  in window "MuLab : Voice" : 686,415 -> 00000131B3AD1910 = MEMC = [617,405,101,20]
+20:13:18:844 Drag 00000131B3AD1910 = MEMC = [617,405,101,20]
+20:13:19:190 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:25:628 LeftClick  in window "MuLab : Voice" : 231,491 -> 00000131B3AC8890 = MEMC = [187,475,101,20]
+20:13:25:802 Drag 00000131B3AC8890 = MEMC = [187,475,101,20]
+20:13:26:016 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:29:433 LeftClick  in window "MuLab : Voice" : 806,489 -> 00000131B3AD8570 = MEMC = [727,475,101,20]
+20:13:29:559 Drag 00000131B3AD8570 = MEMC = [727,475,101,20]
+20:13:29:855 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:31:240 LeftClick  in window "MuLab : Voice" : 180,917 -> 00000131B392D1B0 = SLDR = [176,882,18,114]
+20:13:32:789 UR action: Changed MASTER Mixer Strip -> Gain
+20:13:42:707 LeftClick  in window "MuLab : Voice" : 751,461 -> 00000131B3AC5260 = MEMC = [697,445,101,20]
+20:13:42:806 Drag 00000131B3AC5260 = MEMC = [697,445,101,20]
+20:13:42:954 Drop on 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:43:696 LeftClick  in window "MuLab : Voice" : 1217,541 -> 00000131B3CB7A48 = MSTE = [7,195,4096,2048]
+20:13:44:192 Chk DblClk = 0
+20:13:57:340 LeftClick  in window "MuLab : Voice" : 355,841 -> 00000131B10DB6F8 = LABL = [222,834,218,20]
+20:13:57:604 Chk DblClk = 0
+20:13:58:123 LeftClick  in window "MuLab : Voice" : 536,882 -> 00000131B39BD010 = RDRE = [440,834,218,190]
+20:13:58:213 Chk DblClk = 0
+20:13:59:121 LeftClick  in window "MuLab : Voice" : 203,55 -> 00000131B362EBF0 = TLBT = [168,33,71,30] = "COMPOSE"
+20:14:00:697 LeftClick  in window "MuLab : Voice" : 87,173 -> 00000131B10A52C0 = PSBT = +TRK = [4,168,126,21] = "+"
+20:14:01:433 LeftClick  in window "" : 84,13 -> 0000002DCE6D6CA0 = TREL = PULs = [0,0,125,88]
+20:14:01:433 Popup list choice = Add Instrument Track
+20:14:01:442 CF: 00000131B10E8010 = comp -> comp-+Itr = Add Instrument Track
+20:14:02:544 LeftClick  in window "Choose Instrument" : 126,91 -> 0000002DCE6C1B48 = TREL = [112,70,238,400]
+20:14:03:787 LeftClick  in window "Choose Instrument" : 138,123 -> 0000002DCE6C1B48 = TREL = [112,70,238,400]
+20:14:04:825 LeftClick  in window "Choose Instrument" : 126,238 -> 0000002DCE6C1B48 = TREL = [112,70,238,400]
+20:14:05:507 LeftClick  in window "Choose Instrument" : 139,256 -> 0000002DCE6C1B48 = TREL = [112,70,238,400]
+20:14:06:140 LeftClick  in window "Choose Instrument" : 149,289 -> 0000002DCE6C1B48 = TREL = [112,70,238,400]
+20:14:06:681 LeftClick  in window "Choose Instrument" : 205,298 -> 0000002DCE6C1B48 = TREL = [112,70,238,400]
+20:14:06:837 Chk DblClk = 0
+20:14:06:876 Load preset for 00000131B4F33010 = mufx : {AppLibrary}/Mux/Instruments/Bass/Aliasing.Mux
+20:14:07:233 LeftClick  in window "Choose Instrument" : 102,524 -> 00000131B0035E20 = PSBT = O.K. = [85,510,56,31] = "OK"
+20:14:07:388 Load preset for 00000131B4F33010 = mufx : {AppLibrary}/Mux/Instruments/Bass/Aliasing.Mux
+20:14:08:523 LeftClick  in window "MuLab : Voice" : 1544,55 -> 00000131B364C680 = PKYB = [890,33,1280,30]
+20:14:25:916 LeftClick  in window "Aliasing Front Panel" : 461,14 -> 00000131B3B67548 = PSBT = [454,4,17,17] = CloseDelete
+20:14:25:995 CF: 00000131B3B65010 = MEWd -> cuwd-clos = Close
+20:14:26:777 LeftClick  in window "MuLab : Voice" : 119,39 -> 00000131B362D6A0 = TGBT = [86,33,66,30] = "PROJECT"
+20:14:28:401 LeftClick  in window "MuLab : Voice" : 342,43 -> 00000131B3630530 = TLBT = [318,33,71,30] = "MODULAR"
+20:14:31:210 LeftClick  in window "MuLab : Voice" : 199,684 -> 00000131B3AC6470 = MEMC = [142,676,101,20]
+20:14:31:364 Drag 00000131B3AC6470 = MEMC = [142,676,101,20]
+20:14:31:507 Drop on 00000131B51B8C78 = MSTE = [12,196,4096,2048]
+20:14:31:936 LeftClick  in window "MuLab : Voice" : 257,695 -> 00000131B3ADBBA0 = MEMC = [232,686,101,20]
+20:14:32:091 Chk DblClk = 1
+20:15:01:352 LeftClick  in window "Select Audio Outputs" : 87,96 -> 00000131B0050E60 = PSBT = O.K. = [56,83,56,31] = "OK"
+20:15:01:760 RightClick  in window "MuLab : Voice" : 425,584 -> 00000131B51B8C78 = MSTE = [12,196,4096,2048]
+20:15:02:336 LeftClick  in window "" : 41,9 -> 0000002DCE6D7090 = TREL = PULs = [0,0,81,68]
+20:15:02:336 Popup list choice = Add Module
+20:15:02:345 CF: 00000131B51B8C78 = MSTE = [12,196,4096,2048] -> MSTE-+Mpu = Add Module
+20:15:02:491 RwrMpu[65] Not retrying failed rewire startup
+20:15:03:801 LeftClick  in window "" : 66,104 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:15:05:721 LeftClick  in window "" : 147,194 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:15:06:680 LeftClick  in window "" : 146,189 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:15:06:944 LeftClick  in window "" : 146,152 -> 0000002DCE6D06C0 = TREL = PULs = [0,20,285,944]
+20:15:16:001 LeftClick  in window "MuLab : Voice" : 1435,48 -> 00000131B364C680 = PKYB = [890,33,1280,30]
+20:15:17:339 LeftClick  in window "MuLab : Voice" : 724,853 -> 00000131B3EE9128 = LABL = [658,834,218,20]
+20:15:17:527 Chk DblClk = 0
+20:15:18:320 LeftClick  in window "MuLab : Voice" : 1529,52 -> 00000131B364C680 = PKYB = [890,33,1280,30]
+20:15:24:442 LeftClick  in window "MuLab : Voice" : 707,651 -> 00000131B3AD8570 = MEMC = [632,636,101,20]
+20:15:24:653 Chk DblClk = 1
+20:15:27:345 LeftClick  in window "Select Audio Outputs" : 198,101 -> 00000131B5241090 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+20:15:30:384 LeftClick  in window "MuLab : Voice" : 302,717 -> 00000131B51B8C78 = MSTE = [12,196,4096,2048]
+20:15:30:687 Mouse Lasso 257,686,45,31
+20:15:31:065 LeftClick  in window "MuLab : Voice" : 301,703 -> 00000131B3ADBBA0 = MEMC = [232,686,101,20]
+20:15:31:150 Drag 00000131B3ADBBA0 = MEMC = [232,686,101,20]
+20:15:31:379 Drop on 00000131B51B8C78 = MSTE = [12,196,4096,2048]
+20:15:32:244 LeftClick  in window "MuLab : Voice" : 194,622 -> 00000131B3ACACB0 = MEMC = [112,606,101,20]
+20:15:32:670 Chk DblClk = 0
+20:15:33:524 LeftClick  in window "MuLab : Voice" : 187,618 -> 00000131B3ACACB0 = MEMC = [112,606,101,20]
+20:15:33:690 Chk DblClk = 1
+20:15:35:922 LeftClick  in window "Select Audio Outputs" : 187,100 -> 00000131B5241090 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+20:16:56:847 LeftClick  in window "MuLab : Voice" : 77,208 -> 00000131B3AD6150 = MEMC = [12,196,101,20]
+20:16:56:980 Drag 00000131B3AD6150 = MEMC = [12,196,101,20]
+20:16:57:387 Drop on 00000131B51B8C78 = MSTE = [12,196,4096,2048]
+20:16:57:829 LeftClick  in window "MuLab : Voice" : 793,226 -> 00000131B3AE3A10 = MEMC = [732,216,101,20]
+20:16:57:909 Drag 00000131B3AE3A10 = MEMC = [732,216,101,20]
+20:16:58:086 Drop on 00000131B51B8C78 = MSTE = [12,196,4096,2048]
+20:20:21:703 LeftClick  in window "MuLab : Voice" : 837,3 -> 00000131B3FDEA00 = IWCC = [0,0,1920,1040]
+20:20:22:610 LeftClick  in window "MuLab : Voice" : 929,10 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+20:20:23:999 LeftClick  in window "MuLab : Voice" : 1696,7 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+20:20:25:696 LeftClick  in window "MuLab : Voice" : 1343,15 -> 00000131B3FE3B18 = LABL = [4,4,1912,19]
+20:20:27:936 LeftClick  in window "MuLab : Voice" : 0,396 -> 00000131B3FDEA00 = IWCC = [0,0,1920,966]
+20:20:29:224 LeftClick  in window "MuLab : Voice" : 213,14 -> 00000131B3FE3B18 = LABL = [4,4,761,19]
+20:20:32:744 LeftClick  in window "MuLab : Voice" : 311,964 -> 00000131B3FDEA00 = IWCC = [0,0,769,966]
+21:44:35:680 LeftClick  in window "MuLab : Voice" : 421,8 -> 00000131B3FE3B18 = LABL = [4,4,761,19]
+21:44:38:249 LeftClick  in window "MuLab : Voice" : 1,443 -> 00000131B3FDEA00 = IWCC = [0,0,769,1039]
+21:44:40:336 LeftClick  in window "MuLab : Voice" : 60,307 -> 00000131B12CA2B0 = TREL = [0,191,242,606]
+21:44:40:421 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav

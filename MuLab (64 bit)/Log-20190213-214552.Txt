@@ -1,0 +1,40 @@
+21:45:51:792 OpSys=Windows
+21:45:51:792 MuLab 7.7.4 64 bit
+21:45:51:795 Delta UTC = -13
+21:45:51:795 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+21:45:51:795 BStf[92] Desktop=/C:/Users/isaac/Desktop
+21:45:51:833 BStf[124] Graphics={Application}/App/Graphics
+21:45:51:844 Num screens = 2
+21:45:51:844 Screen 1 = 0,0,1920,1040
+21:45:51:844 Screen 2 = -1920,0,1920,1080
+21:45:51:851 File[94] fn=MidiControllerNames.Txt, ec=2
+21:45:51:853 File[94] fn=UKD.Txt, ec=2
+21:45:52:012 Gonna startup audio engine
+21:45:52:025 Gonna startup ASIO engine
+21:45:52:026 ASIO4ALL v2
+21:45:52:360 ASIOGetChannels OK. inputs: 2, outputs: 16
+21:45:52:360 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+21:45:52:360 ASIOGetSampleRate = 44100.000000
+21:45:52:360 ASIOOutputReady() - Not supported
+21:45:52:360 input chan 0 data type = 18
+21:45:52:360 input chan 1 data type = 18
+21:45:52:360 output chan 0 data type = 18
+21:45:52:360 output chan 1 data type = 18
+21:45:52:360 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+21:45:52:360 ASIOGetLatencies OK: InLat=764, OutLat=544
+21:45:52:360 ASIOStart OK
+21:45:52:725 Started the audio engine
+21:45:52:725 MIE[32] 0 Midi Input Ports:
+21:45:52:725 MOE[31] 1 Midi Output Ports:
+21:45:52:725 MOE[41] 0=Microsoft GS Wavetable Synth
+21:45:52:731 Started the MIDI engine
+21:45:52:763 App[669]
+21:45:55:343 LeftClick  in window "Open Project" : 57,54 -> 0000029A93E87810 = PSBT = [20,39,77,31] = "Voice"
+21:46:13:571 LeftClick  in window "MuLab : Voice" : 78,243 -> 0000029A940B02C0 = TREL = [21,191,242,607]
+21:46:13:669 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+21:46:14:624 LeftClick  in window "MuLab : Voice" : 74,268 -> 0000029A940B02C0 = TREL = [21,191,242,607]
+21:46:14:722 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+21:46:17:004 LeftClick  in window "MuLab : Voice" : 71,305 -> 0000029A940B02C0 = TREL = [21,191,242,607]
+21:46:17:090 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+21:48:18:292 LeftClick  in window "MuLab : Voice" : 91,309 -> 0000029A940B02C0 = TREL = [21,191,242,607]
+21:48:18:378 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav

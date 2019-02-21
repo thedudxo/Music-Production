@@ -1,0 +1,56 @@
+19:34:32:203 OpSys=Windows
+19:34:32:203 MuLab 7.7.4 64 bit
+19:34:32:203 Delta UTC = -13
+19:34:32:203 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+19:34:32:203 BStf[92] Desktop=/C:/Users/isaac/Desktop
+19:34:32:219 BStf[124] Graphics={Application}/App/Graphics
+19:34:32:219 Num screens = 2
+19:34:32:219 Screen 1 = 0,0,1920,1040
+19:34:32:219 Screen 2 = -1920,0,1920,1080
+19:34:32:234 File[94] fn=MidiControllerNames.Txt, ec=2
+19:34:32:234 File[94] fn=UKD.Txt, ec=2
+19:34:32:359 Gonna startup audio engine
+19:34:32:359 Gonna startup MME engine
+19:34:32:469 Started MME audio engine:
+19:34:32:469   num headers=8
+19:34:32:469   header size=2048
+19:34:32:469   samplerate=44100
+19:34:32:541 Started the audio engine
+19:34:32:543 MIE[32] 0 Midi Input Ports:
+19:34:32:543 MOE[31] 1 Midi Output Ports:
+19:34:32:543 MOE[41] 0=Microsoft GS Wavetable Synth
+19:34:32:543 File[94] fn=MidiSetup.Txt, ec=2
+19:34:32:543 MOE[87] Couldn't read MidiSetup.Txt
+19:34:32:543 Started the MIDI engine
+19:34:32:568 App[669]
+19:34:33:462 LeftClick  in window "Open Project" : 76,53 -> 000001C05381C010 = PSBT = [20,39,118,31] = "Engine Passive c2"
+19:34:40:326 LeftClick  in window "MuLab : Engine Passive c2" : 234,909 -> 000001C05A4F9EB8 = MPBt = prcs = [233,909,12,12]
+19:34:41:598 LeftClick  in window "MuLab : Engine Passive c2" : 1497,53 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:34:45:398 LeftClick  in window "MuLab : Engine Passive c2" : 1491,53 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:34:46:174 LeftClick  in window "MuLab : Engine Passive c2" : 1488,53 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:34:47:045 LeftClick  in window "MuLab : Engine Passive c2" : 309,921 -> 000001C05A4FA700 = MpuC = [248,906,112,18]
+19:34:47:249 Chk DblClk = 1
+19:34:53:009 LeftClick  in window "Rustbucket Engine Active Front Panel" : 533,12 -> 000001C05C30F548 = PSBT = [522,4,17,17] = CloseDelete
+19:34:53:107 CF: 000001C05C30D010 = MEWd -> cuwd-clos = Close
+19:49:00:032 LeftClick  in window "MuLab : Engine Passive c2" : 329,910 -> 000001C05A4FA700 = MpuC = [248,906,112,18]
+19:49:00:195 Chk DblClk = 1
+19:49:01:351 LeftClick  in window "Rustbucket Engine Active Front Panel" : 298,10 -> 000001C05C5EA3D8 = LABL = [4,4,539,19]
+19:50:40:021 LeftClick  in window "Rustbucket Engine Active Front Panel" : 371,45 -> 000001C05C5DBE88 = PSBT = [358,31,31,31] = Modular
+19:50:41:247 LeftClick  in window "Rustbucket Engine Active Modular Area" : 632,10 -> 000001C05C888A28 = PSBT = [623,4,17,17] = CloseDelete
+19:50:41:346 CF: 000001C05C8864F0 = MEWd -> cuwd-clos = Close
+19:50:41:952 LeftClick  in window "MuLab : Engine Passive c2" : 1374,46 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:50:42:880 LeftClick  in window "MuLab : Engine Passive c2" : 1488,62 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:50:43:326 LeftClick  in window "MuLab : Engine Passive c2" : 1489,58 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:50:43:950 LeftClick  in window "MuLab : Engine Passive c2" : 1496,53 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:50:45:712 LeftClick  in window "MuLab : Engine Passive c2" : 1495,53 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:50:52:206 LeftClick  in window "Rustbucket Engine Active Front Panel" : 154,190 -> 000001C0585AA9E8 = MPBt = prcs = [146,186,12,12]
+19:50:53:499 LeftClick  in window "MuLab : Engine Passive c2" : 1497,54 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:50:55:931 LeftClick  in window "Rustbucket Engine Active Front Panel" : 147,200 -> 000001C0585AA090 = LABL = [143,183,18,18]
+19:50:56:625 LeftClick  in window "Rustbucket Engine Active Front Panel" : 152,167 -> 000001C058555010 = VMEd = [135,135,330,34]
+19:50:56:974 LeftClick  in window "Rustbucket Engine Active Front Panel" : 151,150 -> 000001C0585569E8 = MPBt = prcs = [146,146,12,12]
+19:50:57:344 LeftClick  in window "Rustbucket Engine Active Front Panel" : 147,175 -> 000001C05855EF88 = MPBt = prcs = [146,166,12,12]
+19:50:58:561 LeftClick  in window "MuLab : Engine Passive c2" : 1491,54 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]
+19:51:00:116 LeftClick  in window "Rustbucket Engine Active Front Panel" : 149,193 -> 000001C0585AA9E8 = MPBt = prcs = [146,186,12,12]
+19:51:00:455 LeftClick  in window "Rustbucket Engine Active Front Panel" : 151,173 -> 000001C05855EF88 = MPBt = prcs = [146,166,12,12]
+19:51:00:801 LeftClick  in window "Rustbucket Engine Active Front Panel" : 150,151 -> 000001C0585569E8 = MPBt = prcs = [146,146,12,12]
+19:51:02:097 LeftClick  in window "MuLab : Engine Passive c2" : 1497,60 -> 000001C05A0A1670 = PKYB = [890,33,1280,30]

@@ -1,0 +1,34 @@
+17:18:17:047 OpSys=Windows
+17:18:17:047 MuLab 7.7.4 64 bit
+17:18:17:048 Delta UTC = -13
+17:18:17:048 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+17:18:17:048 BStf[92] Desktop=/C:/Users/isaac/Desktop
+17:18:17:099 BStf[124] Graphics={Application}/App/Graphics
+17:18:17:110 Num screens = 2
+17:18:17:110 Screen 1 = 0,0,1920,1040
+17:18:17:110 Screen 2 = -1920,0,1920,1080
+17:18:17:116 File[94] fn=MidiControllerNames.Txt, ec=2
+17:18:17:117 File[94] fn=UKD.Txt, ec=2
+17:18:17:284 Gonna startup audio engine
+17:18:17:292 Gonna startup ASIO engine
+17:18:17:292 ASIO4ALL v2
+17:18:17:674 ASIOGetChannels OK. inputs: 2, outputs: 16
+17:18:17:674 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+17:18:17:676 ASIOGetSampleRate = 44100.000000
+17:18:17:676 ASIOOutputReady() - Not supported
+17:18:17:676 input chan 0 data type = 18
+17:18:17:676 input chan 1 data type = 18
+17:18:17:676 output chan 0 data type = 18
+17:18:17:676 output chan 1 data type = 18
+17:18:17:676 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+17:18:17:676 ASIOGetLatencies OK: InLat=764, OutLat=544
+17:18:17:676 ASIOStart OK
+17:18:18:021 Started the audio engine
+17:18:18:021 MIE[32] 0 Midi Input Ports:
+17:18:18:021 MOE[31] 1 Midi Output Ports:
+17:18:18:021 MOE[41] 0=Microsoft GS Wavetable Synth
+17:18:18:029 Started the MIDI engine
+17:18:18:061 App[669]
+17:18:18:996 LeftClick  in window "Open Project" : 60,48 -> 000001EB8BB09350 = PSBT = [20,39,77,31] = "Voice"
+17:18:27:746 LeftClick  in window "MuLab : Voice" : 65,282 -> 000001EB8B9672C0 = TREL = [21,191,242,607]
+17:18:27:826 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav

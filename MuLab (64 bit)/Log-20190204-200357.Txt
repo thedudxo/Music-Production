@@ -1,0 +1,40 @@
+20:03:56:337 OpSys=Windows
+20:03:56:337 MuLab 7.7.4 64 bit
+20:03:56:337 Delta UTC = -13
+20:03:56:337 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+20:03:56:337 BStf[92] Desktop=/C:/Users/isaac/Desktop
+20:03:56:388 BStf[124] Graphics={Application}/App/Graphics
+20:03:56:399 Num screens = 2
+20:03:56:399 Screen 1 = 0,0,1920,1040
+20:03:56:399 Screen 2 = -1920,0,1920,1080
+20:03:56:407 File[94] fn=MidiControllerNames.Txt, ec=2
+20:03:56:409 File[94] fn=UKD.Txt, ec=2
+20:03:56:586 Gonna startup audio engine
+20:03:56:597 Gonna startup ASIO engine
+20:03:56:597 ASIO4ALL v2
+20:03:56:958 ASIOGetChannels OK. inputs: 2, outputs: 16
+20:03:56:958 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+20:03:56:958 ASIOGetSampleRate = 44100.000000
+20:03:56:958 ASIOOutputReady() - Not supported
+20:03:56:958 input chan 0 data type = 18
+20:03:56:958 input chan 1 data type = 18
+20:03:56:958 output chan 0 data type = 18
+20:03:56:958 output chan 1 data type = 18
+20:03:56:958 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+20:03:56:958 ASIOGetLatencies OK: InLat=764, OutLat=544
+20:03:56:959 ASIOStart OK
+20:03:57:312 Started the audio engine
+20:03:57:312 MIE[32] 0 Midi Input Ports:
+20:03:57:312 MOE[31] 1 Midi Output Ports:
+20:03:57:312 MOE[41] 0=Microsoft GS Wavetable Synth
+20:03:57:323 Started the MIDI engine
+20:03:57:382 App[669]
+20:03:58:732 LeftClick  in window "Open Project" : 69,139 -> 0000018B72F93230 = PSBT = RCNT = [20,117,88,31] = "Recent"
+20:04:00:133 LeftClick  in window "" : 66,173 -> 0000001C3FF9CE90 = TREL = PULs = [0,0,135,208]
+20:04:00:133 Popup list choice = Voice.MuProject
+20:04:02:795 LeftClick  in window "MuLab : Voice" : 49,42 -> 0000018B7575BA00 = TGBT = [14,33,66,30] = "MULAB"
+20:04:04:526 LeftClick  in window "MuLab : Voice" : 130,47 -> 0000018B7575C6A0 = TGBT = [86,33,66,30] = "PROJECT"
+20:04:05:820 LeftClick  in window "" : 68,195 -> 0000001C3FFA11B0 = TREL = PULs = [0,0,237,944]
+20:04:05:820 Popup list choice = Save
+20:04:05:829 CF: 0000018B73072010 = mlsn -> mcsn-svsn = Save
+20:04:06:886 Save Project OK

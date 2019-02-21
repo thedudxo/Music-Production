@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<AppPreferences>
+  <AlertErrorLevel>Severe errors only</AlertErrorLevel>
+  <EditorNavigation>Mouse Wheel Zooms</EditorNavigation>
+  <GUIScale>100%</GUIScale>
+  <UseUnfoldedContextMenus>1</UseUnfoldedContextMenus>
+  <DrawGUIFocusBox>0</DrawGUIFocusBox>
+  <GUIFocusOnHover>Off</GUIFocusOnHover>
+  <AutoFocusTheModalWindow>On</AutoFocusTheModalWindow>
+  <MouseHoverDelayTime>500</MouseHoverDelayTime>
+  <DragDoubleClickDetectorMoveThreshold>Auto</DragDoubleClickDetectorMoveThreshold>
+  <ConfirmDeletes>On</ConfirmDeletes>
+  <MiddleCIndex>4</MiddleCIndex>
+  <PanelSurfaceTextureIntensity>5</PanelSurfaceTextureIntensity>
+  <ButtonGradientIntensity>25</ButtonGradientIntensity>
+  <ButtonFrameCorners>Smooth</ButtonFrameCorners>
+  <FactoryLibraryFolder/>
+  <UserLibraryFolder/>
+  <AutoSaveTimeOut>15</AutoSaveTimeOut>
+  <FilterIncomingAllNotesOffEvents>On</FilterIncomingAllNotesOffEvents>
+  <AudioRecordingMinimumLevelThreshold>-48</AudioRecordingMinimumLevelThreshold>
+  <LevelMeterMaximumLevelFallDownTime>3</LevelMeterMaximumLevelFallDownTime>
+  <AudioFileStreamBlockSize>750</AudioFileStreamBlockSize>
+  <SupportMIDI>On</SupportMIDI>
+  <AudioRecordingFileType>Auto</AudioRecordingFileType>
+  <AudioRecordingIn32BitFloats>Off</AudioRecordingIn32BitFloats>
+  <ShowDrumSlicerDialog>Off</ShowDrumSlicerDialog>
+  <StandardCopyPartIsSharedCopy>Off</StandardCopyPartIsSharedCopy>
+  <SampleInterpolation>Sinc 16</SampleInterpolation>
+  <SampleFileLengthWarningThreshold>300</SampleFileLengthWarningThreshold>
+  <MonitorOnDrawNotes>On</MonitorOnDrawNotes>
+  <AudioLevelDisplayStyle>75</AudioLevelDisplayStyle>
+  <DockedBrowser>On</DockedBrowser>
+  <DockedMixingDesk>On</DockedMixingDesk>
+  <DockedModularArea>On</DockedModularArea>
+  <DefaultAutoScroll>On</DefaultAutoScroll>
+  <UsePlayAndPauseSymbolsForPlayButton>Off</UsePlayAndPauseSymbolsForPlayButton>
+  <MainEditorGridContrast>15</MainEditorGridContrast>
+  <PianoKeyLanesContrast>10</PianoKeyLanesContrast>
+  <PlayCursorLineSize>3</PlayCursorLineSize>
+  <UnfocusedTrackRackColoring>20</UnfocusedTrackRackColoring>
+  <TimeBarTextContrast>75</TimeBarTextContrast>
+  <DefaultMouseTool>Arrow</DefaultMouseTool>
+  <StandardFloatingPartEditors>Off</StandardFloatingPartEditors>
+  <ActivateModuleEditorAutoMIDIFocusesModule>On</ActivateModuleEditorAutoMIDIFocusesModule>
+  <ExternalAudioEditor/>
+  <MIDIOutputTimeShift>0</MIDIOutputTimeShift>
+  <MultiWaveformSize>2048</MultiWaveformSize>
+  <MultiWaveformCPURAMUsage>Rather RAM Based 2</MultiWaveformCPURAMUsage>
+  <UseVSTProgramNameAsDefaultVSTName>On</UseVSTProgramNameAsDefaultVSTName>
+  <AutoCheckForModifiedAudioFiles>On</AutoCheckForModifiedAudioFiles>
+  <AutoLoopNewSequences>On</AutoLoopNewSequences>
+  <RightClickDeletesNotes>Off</RightClickDeletesNotes>
+  <CreateAudioFileOverviewLengthThreshold>600</CreateAudioFileOverviewLengthThreshold>
+  <FocusedVSTParameterEditor>Small</FocusedVSTParameterEditor>
+  <AudioRecordingLatencyCompensation>Input+Output</AudioRecordingLatencyCompensation>
+  <WindowsProcessPriority>Default (Normal)</WindowsProcessPriority>
+  <ShowFocusedModuleKeyboard>On</ShowFocusedModuleKeyboard>
+  <ShowFloatingWindowsBar>Off</ShowFloatingWindowsBar>
+</AppPreferences>

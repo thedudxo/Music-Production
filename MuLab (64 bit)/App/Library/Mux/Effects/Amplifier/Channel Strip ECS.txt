@@ -1,0 +1,9 @@
+The Channel Strip is just as you can expect it.
+Input Stage with HP-> EQ -> Compressor -> Saturation -> Limiter -> Output Stage
+
+You can Bypass every stage. The bypass is seamless from 0..100, which means 
+parallel compression/saturation/EQ. Automate them to get most out of your tracks.
+
+The EQ has 2 bell shape parametric bands.
+To Bypass the Limiter: ALT-Click the box (Black=active; default=inactive).
+To edit the Limiter: click the box

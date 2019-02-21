@@ -1,0 +1,29 @@
+Phaser MKII
+
+How it works:
+The Phaser is based on Allpassfilters that do not change
+the frequency response, but the phase at frequencies above
+the set filter frequency and thus cancel out some frequencies. 
+This phaser uses 4 allpass filters, two for the left and two 
+for the right side. The filters are modulated with LFOs.
+
+How to setup:
+
+Phaser Settings:
+The Frequency knob sets the main frequency around the filters
+are modulated.
+The Resonance setting creates notches for settings from 0..~30
+and peaks above 30.
+As there are 2 filters per stereo side the frequency Spread 
+of the filters can be changed. At 0 the two filters are at
+the same frequency and are set more apart (up) the
+higher Spead is set.
+
+Phaser Modulation:
+The usual Modulation Frequency (Mod Freq) and Modulation Depth
+(Mod Depth) set the LFOs. 
+The LFOs can be Detuned (L-R Mod Detune) and phase reversed
+(L-R Mod Phase) to get a more lively and random movement.
+
+Note: Experiment with the Dry/Wet setting for best results.
+Sometimes a 50/50 is better, sometimes 0/100 is better.

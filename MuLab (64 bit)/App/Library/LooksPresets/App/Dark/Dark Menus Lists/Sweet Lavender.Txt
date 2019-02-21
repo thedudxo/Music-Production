@@ -1,0 +1,14 @@
+TopColor=203,206,255
+ButtonOnBackColor=TopColor
+MainEditorBackColor=64,64,64
+MainEditorForeColor=185,189,255
+MenuListBackColor=32,32,32
+MenuListForeColor=203,206,255
+MenuListCursorColor=203,206,255
+PlayCursorLineColor=185,189,255
+MarkerFlagColor=203,206,255
+MarkerLineColor=185,189,255
+BrowserBackColor=64,64,64
+BrowserForeColor=185,189,255
+BrowserCursorColor=203,206,255
+TopPanelDisplayColor=203,206,255

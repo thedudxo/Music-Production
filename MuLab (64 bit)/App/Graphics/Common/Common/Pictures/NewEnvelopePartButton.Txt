@@ -1,0 +1,2 @@
+PictureType=GrayScale
+NumStates=1

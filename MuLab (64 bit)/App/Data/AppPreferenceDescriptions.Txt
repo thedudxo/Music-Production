@@ -1,0 +1,287 @@
+[EditorNavigation]
+
+Defines editor panning and zoom.
+Value=MouseWheelZooms or MouseWheelScrolls.
+===============================================================================
+[UseUnfoldedContextMenus]
+
+0=No, 1=Unfold 1 level, 2=Unfold 2 levels, and so on.
+===============================================================================
+[MenuFontSize]
+
+Menu font size from 8 to 32.
+===============================================================================
+[DrawGuiFocusBox]
+
+Shows which component processes the keyboard keys and function shortcuts.
+Value is the opaqueness of the focus box:
+0=Fully transparent, 100=fully opaque.
+===============================================================================
+[GuiFocusOnHover]
+
+Defines whether hovering a GUI component also shifts the GUI focus to it.
+===============================================================================
+[MouseHoverDelayTime]
+
+Sets the delay time for mouse hover detection in milliseconds.
+Value=0 - N ms.
+===============================================================================
+[DragDoubleClickDetectorMoveThreshold]
+
+The number of pixels that define whether 
+a mouse move is interpreted as a drag or not.
+===============================================================================
+[AutoSaveTimeOut]
+
+Auto-save time in minutes.
+Auto-save saves your current project as AutoSaved.MuProject
+in the application folder.
+===============================================================================
+[FilterIncomingAllNotesOffEvents]
+
+Defines whether incoming AllNotesOff events should be filtered out.
+===============================================================================
+[AudioRecordingMinimumLevelThreshold]
+
+Value in dB e.g. AudioRecordingMinimumLevelThreshold=-48
+===============================================================================
+[LevelMeterMaximumLevelFallDownTime]
+
+In number of seconds.
+===============================================================================
+[AudioFileStreamBlockSize]
+
+Defines the size of the audio file stream buffers.
+Value in milliseconds.
+===============================================================================
+[NoMidi]
+
+When ON the app will not use MIDI at all.
+===============================================================================
+[AudioRecordingFileType]
+
+AIFF or WAVE.
+If not defined, the default is AIFF on OSX, WAVE on Windows.
+===============================================================================
+[AudioRecordingIn32BitFloats]
+
+OFF = Record audio in 16 bits integers.
+ON = Record audio in 32 bits floats.
+===============================================================================
+[ShowDrumSlicerDialog]
+
+Defines whether the drum slicer dialog must be shown when auto-slicing.
+===============================================================================
+[StandardCopyPartIsSharedCopy]
+
+If OFF then [Ctrl]+drag = copy as unique part, 
+and [Shift]+[Ctrl]+drag = copy as shared part.
+If ON then it's reversed behaviour.
+===============================================================================
+[SampleInterpolation]
+
+Defines the default sample interpolation method: Linear, Spline or Sinc-16.
+
+Sinc-16 interpolation is the best quality and makes a clear difference especially
+when transposing samples which contains lots of high frequencies aka trebles.
+Sinc-16 uses more CPU, but the gain in sound-quality is much bigger.
+
+Note that this is a global preference, each sample player can overwrite this,
+so you can optimize the interpolation method depending on the sound and its usage.
+===============================================================================
+[SampleFileLengthWarningThreshold]
+
+Loading samples longer than this value (in seconds), will display a warning.
+===============================================================================
+[MonitorOnDrawNotes]
+
+Defines whether notes must be monitored while you draw them.
+===============================================================================
+[ShowFocusedModuleKeyboard]
+
+Defines whether a piano keyboard must be shown in the focused target panel.
+===============================================================================
+[AudioLevelSolidDisplay]
+
+OFF = Audio level meters use a dashed display, 
+ON = Use a solid display.
+===============================================================================
+[ShowFloatingWindowsBar]
+
+The Floating Windows Bar is the bar at the bottom of the project window 
+that shows buttons for each floating window. 
+Use these buttons to manage floating windows, 
+especially when screen space is limited.
+===============================================================================
+[DockedBrowser]
+
+Defines whether the browser is working in docked or windowed mode.
+In MUX Vst this preference is not available for the browser 
+always works as a separate floating window.
+===============================================================================
+[DockedRackDesk]
+
+Defines whether the rack desk is working in docked or windowed mode.
+In MUX Vst this preference is not applicable.
+===============================================================================
+[DockedModularArea]
+
+Defines whether the project's modular area is working in docked or windowed mode.
+In MUX Vst this preference is not applicable.
+===============================================================================
+[MainEditorGridContrast]
+
+Defines the contrast of the grid lines to the background.
+===============================================================================
+[PianoKeyLanesContrast]
+
+Defines the contrast intensity of the background key lanes in the sequence editor.
+===============================================================================
+[WindowsProcessPriority]
+
+Defines the process priority of MuLab.
+A higher priority is better for MuLab but worse for 
+other apps used at the same time.
+===============================================================================
+[ConfirmDeletes]
+
+Defines whether non-undoable deletes must be confirmed 
+by a "Are you sure?" alert.
+===============================================================================
+[ActivateModuleEditorAutoMIDIFocusesModule]
+
+ON = Activating a plug-in module editor window
+will also give it MIDI input focus.
+
+MIDI input focus will only switch if the respective module is/contains a synth,
+or when it uses MIDI controller mapping.
+
+Note that also the "Automatic MIDI Input Focus" project setting 
+is taken into account, so if that setting is OFF, MIDI input focus
+won't switch even when activating an editor window.
+===============================================================================
+[MainEditorGridContrast]
+
+Defines the contrast of the grid lines wrt the background.
+===============================================================================
+[PianoKeyLanesContrast]
+
+Defines the contrast of the piano key lanes wrt the background.
+===============================================================================
+[StandardFloatingPartEditors]
+
+By default when double-clicking a part the docked part editor is opened.
+[Alt]+double-clicking a part will open a floating editor window.
+
+If this preference is ON then double-clicking a part will open 
+a floating editor window. [Alt]+double-clicking a part will 
+open the docked editor.
+===============================================================================
+[UnfocusedTrackRackColoring]
+
+Defines the color intensity of unfocused tracks and racks.
+Value between 0 and 100%
+0% means that such tracks and racks don't get any color, 
+and so the difference with the focused track/rack is maximum.
+Only applies if you have colored your racks/modules 
+via their Choose Color context menu option.
+===============================================================================
+[DefaultMouseTool]
+
+This preference defines the default mouse tool in the sequence editor.
+The preference is only used when creating new parts or when loading parts
+made with previous versions before M6.
+===============================================================================
+[MiddleCIndex]
+
+Note number 60 will always sound at 261.6 Hz, no doubt about that.
+But some call it C3, others C4. So here you can set it to your preference.
+===============================================================================
+[MIDIOutputTimeShift]
+
+Use this preference to time shift the MIDI output, so it's in sync with all audio.
+This value is expressed in microseconds so a value of 1000 translates to 1 ms.
+===============================================================================
+[MultiWaveformSize]
+
+Defines the size of the individual waveforms in the MultiForm Oscillator.
+It must always be a power of 2, and at least 256 and at most 4096.
+The larger this size, the better the sound-quality, but the more RAM is used.
+The best value is 2048.
+But when using projects with many multiform oscillators on systems with little RAM, 
+it may be useful to lower this value to 1024, or even less if necessary.
+Though that will result in a lower quality sound.
+===============================================================================
+[CreateAudioFileOverviewLengthThreshold]
+
+Defines when to create a graphic overview .OVW file for an audio file.
+Such .OVW file can speed up opening very large audio files.
+===============================================================================
+[AutoCheckForModifiedAudioFiles]
+
+When switched on, then when an audio file has been edited externally and 
+you switch back to the project window then a question pops up whether to 
+update to the latest changes.
+If this preference is switched off, you can still update to the latest changes 
+using the new "Update To Modified Audio Files" function in the main menu.
+===============================================================================
+[MultiWaveformCPURAMUsage]
+
+The Multi-Form Oscillator is a quite resource intensive oscillator.
+This preference allows you to better balance between CPU and RAM usage. 
+"Rather CPU Based" is the best setting wrt sound quality. 
+"Rather RAM Based 1" is good sound quality with a minimum of CPU and RAM.
+"Rather RAM Based 2" gives better sound quality than "Rather RAM Based 1".
+"Rather RAM Based 3" gives similar top sound quality as "Rather CPU Based".
+===============================================================================
+[FocusedVSTParameterEditor]
+
+In VST editors you can have a parameter control at the top of the editor
+which reflects the last parameter you tweaked in the VST's own editor.
+This way it's easy to, for example, drag-drop that parameter to
+the [+] track button to create a new automation track for that parameter.
+The context menu of this parameter editor also contains several handy functions.
+
+This preference is about whether you want this focused VST parameter control
+to be small or large, or whether you don't want it at all.
+===============================================================================
+[RightClickDeletesNotes]
+When switched on then:
+* Right-clicking a note will delete that note/the selected notes.
+* [Cntrl]+click a note will only be used to copy notes, ie. it will never delete notes.
+
+When switched off then:
+* Right-clicking a note will popup the context menu.
+* [Cntrl]+click a note will delete it.
+===============================================================================
+[RoundedCorners]
+
+When this preference is switched on (=default), buttons and frames have rounded corners.
+When switched off, buttons and frames have square corners.
+
+===============================================================================
+[FloatingWindowsAutoHideOnDeactivate]
+
+When this preference is switched on (=default), floating windows will auto-hide 
+when you switch to another app.
+Changing this preference only takes effect for newly opened windows.
+
+===============================================================================
+[AudioRecordingLatencyCompensation]
+
+This preference can be one of these values:
+
+"Input" = Input latency
+"Output" = Output latency
+"Input+Output" = Input+Output latency
+Any number from 0 to 65536, which defines the number of frames 
+a new audio recording should be shifted to be in sync with the music.
+
+By default the app will use the "Input+Output" latency.
+Because when your hear the music, then this music already has the output latency.
+Then when you sing or play an instrument on hearing that music, that sound goes 
+into your audio device and is delayed by input latency before it arrives in the app.
+
+But, not all audio device drivers report correct latency values, or they may be 
+other reasons why these theoretic latency values are not accurate. 
+With this preference you can finetune it for your specific setup. 

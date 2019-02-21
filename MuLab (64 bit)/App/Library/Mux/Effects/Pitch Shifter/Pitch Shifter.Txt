@@ -1,0 +1,10 @@
+Please note that all Pitch Shifter Effects require a note (any note) to run.
+It is recommended that you have a (sub)track containing a single note during the parts you use the Pitch Shifter effects.
+
+The Pitch Shifter modules have a spread of about 1 octave down and 7 semitones up.
+The Micro Pitch Shifter is the exception with much less than 1 semitone deviation.
+Micro Pitch Shifter is meant as a Stereo Widening effect following the principle of a delay on one channel and a slight pitch up on one side and a slight pitch down on the other.
+
+The UP/Down knob has to be set either to Minimum or to Maximum to work as intended.
+The 50 percent position is the Bypass, where no pitch shift is applied.
+But no one stops you to see what happens in the in-between.

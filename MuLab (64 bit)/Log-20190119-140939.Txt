@@ -1,0 +1,173 @@
+14:09:38:814 OpSys=Windows
+14:09:38:814 MuLab 7.7.4 64 bit
+14:09:38:816 Delta UTC = -13
+14:09:38:816 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+14:09:38:817 BStf[92] Desktop=/C:/Users/isaac/Desktop
+14:09:38:829 BStf[124] Graphics={Application}/App/Graphics
+14:09:38:833 Num screens = 2
+14:09:38:833 Screen 1 = 0,0,1920,1040
+14:09:38:833 Screen 2 = -1920,0,1920,1080
+14:09:38:841 File[94] fn=MidiControllerNames.Txt, ec=2
+14:09:38:843 File[94] fn=UKD.Txt, ec=2
+14:09:38:977 Gonna startup audio engine
+14:09:38:978 Gonna startup MME engine
+14:09:39:031 Started MME audio engine:
+14:09:39:031   num headers=8
+14:09:39:031   header size=2048
+14:09:39:031   samplerate=44100
+14:09:39:071 Started the audio engine
+14:09:39:071 MIE[32] 0 Midi Input Ports:
+14:09:39:071 MOE[31] 1 Midi Output Ports:
+14:09:39:071 MOE[41] 0=Microsoft GS Wavetable Synth
+14:09:39:071 File[94] fn=MidiSetup.Txt, ec=2
+14:09:39:071 MOE[87] Couldn't read MidiSetup.Txt
+14:09:39:071 Started the MIDI engine
+14:09:39:107 App[669]
+14:09:39:992 LeftClick  in window "Open Project" : 96,49 -> 0000018F24EA4020 = PSBT = [20,39,118,31] = "Engine Passive c2"
+14:09:41:890 LeftClick  in window "MuLab : Engine Passive c2" : 498,38 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:09:45:054 LeftClick  in window "MuLab : Engine Passive c2" : 236,916 -> 0000018F2BADBEA8 = MPBt = prcs = [233,909,12,12]
+14:09:51:898 LeftClick  in window "MuLab : Engine Passive c2" : 512,48 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:09:53:113 LeftClick  in window "MuLab : Engine Passive c2" : 177,115 -> 0000018F2BA77A00 = SPtC = [137,96,41,36]
+14:09:53:219 Chk DblClk = 0
+14:09:54:299 Mouse Lasso 137,96,370,36
+14:09:54:299 UR action: Change Part Length
+14:09:55:139 LeftClick  in window "MuLab : Engine Passive c2" : 185,84 -> 0000018F2B738AF0 = TBAR = [137,76,1501,20]
+14:09:55:196 Empty drag
+14:09:56:282 LeftClick  in window "MuLab : Engine Passive c2" : 494,45 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:09:57:131 LeftClick  in window "MuLab : Engine Passive c2" : 554,54 -> 0000018F2B7096A8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:10:07:968 LeftClick  in window "MuLab : Engine Passive c2" : 499,47 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:10:09:617 LeftClick  in window "MuLab : Engine Passive c2" : 499,47 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:10:10:024 LeftClick  in window "MuLab : Engine Passive c2" : 499,47 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:10:11:490 LeftClick  in window "MuLab : Engine Passive c2" : 504,119 -> 0000018F2BA77A00 = SPtC = [137,96,369,36]
+14:10:11:602 Chk DblClk = 0
+14:10:12:267 Mouse Lasso 137,96,247,36
+14:10:12:267 UR action: Change Part Length
+14:10:12:768 LeftClick  in window "MuLab : Engine Passive c2" : 510,93 -> 0000018F2B738AF0 = TBAR = [137,76,1501,20]
+14:10:12:841 Empty drag
+14:10:13:912 LeftClick  in window "MuLab : Engine Passive c2" : 310,82 -> 0000018F2B738AF0 = TBAR = [137,76,1501,20]
+14:10:14:005 Mouse Lasso 310,76,0,20
+14:10:14:049 Chk DblClk = 0
+14:10:14:456 LeftClick  in window "MuLab : Engine Passive c2" : 489,42 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:10:17:152 LeftClick  in window "MuLab : Engine Passive c2" : 493,42 -> 0000018F2B706428 = TLBT = [473,33,60,30] = Play
+14:10:19:474 LeftClick  in window "MuLab : Engine Passive c2" : 814,118 -> 0000018F2BA77A00 = SPtC = [-61,96,879,36]
+14:10:19:561 Chk DblClk = 0
+14:10:20:416 Mouse Lasso -61,96,880,36
+14:10:20:416 UR action: Change Part Length
+14:10:21:266 LeftClick  in window "MuLab : Engine Passive c2" : 730,84 -> 0000018F2B738AF0 = TBAR = [-61,76,2345,20]
+14:10:21:361 Mouse Lasso 730,76,0,20
+14:10:21:438 Chk DblClk = 0
+14:10:22:002 LeftClick  in window "MuLab : Engine Passive c2" : 734,89 -> 0000018F2B738AF0 = TBAR = [-61,76,2345,20]
+14:10:22:127 Mouse Lasso 734,76,0,20
+14:10:22:220 Chk DblClk = 0
+14:10:22:515 LeftClick  in window "MuLab : Engine Passive c2" : 790,92 -> 0000018F2B738AF0 = TBAR = [-61,76,2345,20]
+14:10:22:596 Mouse Lasso 790,76,1,20
+14:10:22:624 Chk DblClk = 0
+14:10:25:584 RightClick  in window "MuLab : Engine Passive c2" : 583,89 -> 0000018F2B738AF0 = TBAR = [137,76,1501,20]
+14:10:26:288 RightClick  in window "MuLab : Engine Passive c2" : 623,81 -> 0000018F2B738AF0 = TBAR = [137,76,1501,20]
+14:10:30:265 LeftClick  in window "MuLab : Engine Passive c2" : 115,51 -> 0000018F2B7006A0 = TGBT = [86,33,66,30] = "PROJECT"
+14:10:36:168 LeftClick  in window "" : 177,417 -> 00000022B4D00FF0 = TREL = PULs = [0,0,225,928]
+14:10:36:168 Popup list choice = Export Composition As Audio File
+14:10:36:176 CF: 0000018F24F7BB90 = mlsn -> mcsn-ExCA = Export Composition As Audio File
+14:10:37:832 LeftClick  in window "Export Composition" : 328,103 -> 0000018F24FD7DB8 = PSBT = [312,94,22,22] = Loop
+14:10:38:896 LeftClick  in window "Export Composition" : 339,63 -> 0000018F2414BC80 = PSBT = list = [324,57,18,18] = ArrowDown
+14:10:42:531 LeftClick  in window "Export Composition" : 362,41 -> 0000018F24FCA678 = LABL = [176,31,496,18]
+14:10:43:992 LeftClick  in window "Select Audio File" : 73,341 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:43:993 File[94] fn={Application}, ec=5
+14:10:43:993 File[94] fn={Application}, ec=5
+14:10:44:665 LeftClick  in window "Select Audio File" : 61,281 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:44:665 File[94] fn=Music-Production, ec=5
+14:10:44:665 File[94] fn=Music-Production, ec=5
+14:10:46:968 LeftClick  in window "Select Audio File" : 276,59 -> 00000022B4CF5EB8 = PSBT = favf = [259,31,38,38] = FavoriteFolder
+14:10:48:258 LeftClick  in window "" : 18,11 -> 00000022B4CD5110 = TREL = PULs = [0,0,149,68]
+14:10:48:271 Popup list choice = Goto Favorite Folder
+14:10:53:481 LeftClick  in window "Select Audio File" : 39,223 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:53:482 File[94] fn=Personal, ec=5
+14:10:53:482 File[94] fn=Personal, ec=5
+14:10:53:949 LeftClick  in window "Select Audio File" : 39,224 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:53:949 File[94] fn=Personal, ec=5
+14:10:53:949 File[94] fn=Personal, ec=5
+14:10:55:400 LeftClick  in window "Select Audio File" : 39,224 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:55:401 File[94] fn=Personal, ec=5
+14:10:55:401 File[94] fn=Personal, ec=5
+14:10:56:989 LeftClick  in window "Select Audio File" : 22,365 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:56:989 File[94] fn=(null), ec=3
+14:10:56:989 File[94] fn=(null), ec=3
+14:10:58:512 LeftClick  in window "Select Audio File" : 40,556 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:58:513 File[94] fn=Users, ec=5
+14:10:58:513 File[94] fn=Users, ec=5
+14:10:59:768 LeftClick  in window "Select Audio File" : 56,575 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:10:59:768 File[94] fn=Isaac, ec=5
+14:10:59:768 File[94] fn=Isaac, ec=5
+14:11:01:316 LeftClick  in window "Select Audio File" : 75,535 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:01:317 File[94] fn=Pictures, ec=5
+14:11:01:317 File[94] fn=Pictures, ec=5
+14:11:03:576 LeftClick  in window "Select Audio File" : 73,453 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:03:576 File[94] fn=Pictures, ec=5
+14:11:03:577 File[94] fn=Pictures, ec=5
+14:11:04:024 LeftClick  in window "Select Audio File" : 75,431 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:04:024 File[94] fn=Personal, ec=5
+14:11:04:024 File[94] fn=Personal, ec=5
+14:11:05:864 LeftClick  in window "Select Audio File" : 128,511 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:05:865 File[94] fn=GameDev, ec=5
+14:11:05:865 File[94] fn=GameDev, ec=5
+14:11:07:504 RightClick  in window "Select Audio File" : 122,323 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:10:216 LeftClick  in window "Select Audio File" : 276,58 -> 00000022B4CF5EB8 = PSBT = favf = [259,31,38,38] = FavoriteFolder
+14:11:12:323 LeftClick  in window "" : 59,40 -> 00000022B4CD5110 = TREL = PULs = [0,0,149,68]
+14:11:12:323 Popup list choice = Add As Favorite Folder
+14:11:13:008 LeftClick  in window "Select Audio File" : 286,44 -> 00000022B4CF5EB8 = PSBT = favf = [259,31,38,38] = FavoriteFolder
+14:11:14:216 LeftClick  in window "Select Audio File" : 200,50 -> 00000022B4CF5218 = PSBT = dtop = [191,31,38,38] = DesktopFolder
+14:11:15:129 LeftClick  in window "Select Audio File" : 277,43 -> 00000022B4CF5EB8 = PSBT = favf = [259,31,38,38] = FavoriteFolder
+14:11:15:849 LeftClick  in window "" : 51,12 -> 00000022B4CD5110 = TREL = PULs = [0,0,149,68]
+14:11:15:849 Popup list choice = Goto Favorite Folder
+14:11:18:233 LeftClick  in window "" : 57,115 -> 00000022B4CDBB50 = TREL = PULs = [0,20,193,108]
+14:11:18:233 Popup list choice = /D:/Users/Isaac/Personal/GameDev
+14:11:20:600 LeftClick  in window "Select Audio File" : 108,388 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:20:601 File[94] fn=Spaceout, ec=5
+14:11:20:601 File[94] fn=Spaceout, ec=5
+14:11:22:513 LeftClick  in window "Select Audio File" : 118,439 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:22:513 File[94] fn=Sounds, ec=5
+14:11:22:513 File[94] fn=Sounds, ec=5
+14:11:23:144 LeftClick  in window "Select Audio File" : 130,449 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:23:144 File[94] fn=Sounds, ec=5
+14:11:23:144 File[94] fn=Sounds, ec=5
+14:11:23:498 LeftClick  in window "Select Audio File" : 124,446 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:23:498 File[94] fn=Sounds, ec=5
+14:11:23:498 File[94] fn=Sounds, ec=5
+14:11:24:104 LeftClick  in window "Select Audio File" : 155,452 -> 00000022B4CE5B48 = FLST = [12,77,600,600]
+14:11:24:104 File[94] fn=Sounds, ec=5
+14:11:24:104 File[94] fn=Sounds, ec=5
+14:11:27:977 LeftClick  in window "Select Audio File" : 337,45 -> 00000022B4CF6B58 = PSBT = newF = [327,31,38,38] = NewFolder
+14:11:33:220 Key  in window "New Folder" : Shift [E] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:33:485 Key  in window "New Folder" : [N] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:34:907 Key  in window "New Folder" : [Back] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:35:100 Key  in window "New Folder" : [Back] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:35:262 Key  in window "New Folder" : [Back] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:36:067 Key  in window "New Folder" : Shift [R] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:36:301 Key  in window "New Folder" : [U] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:36:435 Key  in window "New Folder" : [S] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:36:675 Key  in window "New Folder" : [T] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:37:429 Key  in window "New Folder" : [B] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:37:557 Key  in window "New Folder" : [U] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:37:812 Key  in window "New Folder" : [C] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:37:980 Key  in window "New Folder" : [K] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:38:064 Key  in window "New Folder" : [E] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:38:293 Key  in window "New Folder" : [T] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:40:784 LeftClick  in window "New Folder" : 142,72 -> 0000018F2D3331D0 = PSBT = O.K. = [105,61,56,31] = "OK"
+14:11:42:433 LeftClick  in window "Select Audio File" : 153,696 -> 00000022B4CF2C38 = PSBT = NEWF = [109,685,66,31] = "New File"
+14:11:43:932 Key  in window "New File Name" : Shift [E] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:44:163 Key  in window "New File Name" : [N] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:44:307 Key  in window "New File Name" : [G] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:44:435 Key  in window "New File Name" : [I] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:44:629 Key  in window "New File Name" : [N] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:44:724 Key  in window "New File Name" : [E] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:44:910 Key  in window "New File Name" : [Space] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:45:279 Key  in window "New File Name" : Shift [A] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:45:589 Key  in window "New File Name" : [C] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:45:812 Key  in window "New File Name" : [T] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:45:933 Key  in window "New File Name" : [I] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:46:156 Key  in window "New File Name" : [V] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:46:365 Key  in window "New File Name" : [E] XY = 0,0 -> 0000018F2D39E010 = STVL = [12,31,400,22]
+14:11:47:943 LeftClick  in window "New File Name" : 140,75 -> 0000018F21AA0FC0 = PSBT = O.K. = [105,61,56,31] = "OK"
+14:11:53:185 LeftClick  in window "Export Composition" : 236,178 -> 0000018F2BA6E270 = PSBT = O.K. = [200,161,56,31] = "OK"
+15:10:23:638 LeftClick  in window "MuLab : Engine Passive c2" : 1865,9 -> 0000018F2BC94EB8 = PSBT = [1853,4,17,17] = ArrowDown
+15:10:23:721 CF: 0000018F2BC91040 = MSEW -> cuwd-minz = Minimize

@@ -1,0 +1,12 @@
+TopHeight=12
+BottomHeight=12
+LeftWidth=4
+RightWidth=4
+TopMargin=4
+BottomMargin=4
+NumStates=2
+ForeColor1=255,255,255
+ForeColor2=255,255,255
+EmptyColor=128,128,128
+StandardColor=128,128,128
+MutedColor=128,128,128

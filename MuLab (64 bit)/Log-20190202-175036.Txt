@@ -1,0 +1,1743 @@
+17:50:35:108 OpSys=Windows
+17:50:35:108 MuLab 7.7.4 64 bit
+17:50:35:109 Delta UTC = -13
+17:50:35:109 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+17:50:35:109 BStf[92] Desktop=/C:/Users/isaac/Desktop
+17:50:35:119 BStf[124] Graphics={Application}/App/Graphics
+17:50:35:121 Num screens = 2
+17:50:35:121 Screen 1 = 0,0,1920,1040
+17:50:35:121 Screen 2 = -1920,0,1920,1080
+17:50:35:126 File[94] fn=MidiControllerNames.Txt, ec=2
+17:50:35:129 File[94] fn=UKD.Txt, ec=2
+17:50:35:289 Gonna startup audio engine
+17:50:35:290 Gonna startup ASIO engine
+17:50:35:290 ASIO4ALL v2
+17:50:35:717 ASIOGetChannels OK. inputs: 2, outputs: 16
+17:50:35:717 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+17:50:35:717 ASIOGetSampleRate = 44100.000000
+17:50:35:717 ASIOOutputReady() - Not supported
+17:50:35:717 input chan 0 data type = 18
+17:50:35:717 input chan 1 data type = 18
+17:50:35:717 output chan 0 data type = 18
+17:50:35:717 output chan 1 data type = 18
+17:50:35:717 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+17:50:35:717 ASIOGetLatencies OK: InLat=764, OutLat=544
+17:50:35:724 ASIOStart OK
+17:50:36:100 Started the audio engine
+17:50:36:100 MIE[32] 2 Midi Input Ports:
+17:50:36:100 MIE[42] 0=V61
+17:50:36:100 MIE[42] 1=MIDIIN2 (V61)
+17:50:36:101 MOE[31] 3 Midi Output Ports:
+17:50:36:101 MOE[41] 0=Microsoft GS Wavetable Synth
+17:50:36:101 MOE[41] 1=V61
+17:50:36:101 MOE[41] 2=MIDIOUT2 (V61)
+17:50:36:102 Started the MIDI engine
+17:50:36:124 App[669]
+17:50:37:958 LeftClick  in window "Open Project" : 73,54 -> 000001628FD0F080 = PSBT = [20,39,88,31] = "Some drums"
+17:50:41:493 LeftClick  in window "MuLab : Some drums" : 512,58 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:50:42:334 LeftClick  in window "MuLab : Some drums" : 335,844 -> 0000016296747C78 = LABL = [222,834,218,20]
+17:50:42:518 Chk DblClk = 0
+17:51:19:791 LeftClick  in window "MuLab : Some drums" : 519,39 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:51:39:103 LeftClick  in window "MuLab : Some drums" : 1642,369 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,583]
+17:51:41:815 LeftClick  in window "MuLab : Some drums" : 163,375 -> 000001629660FCF0 = PKYB = [137,-2119,80,5120]
+17:51:42:262 LeftClick  in window "MuLab : Some drums" : 180,423 -> 000001629660FCF0 = PKYB = [137,-2119,80,5120]
+17:51:42:630 LeftClick  in window "MuLab : Some drums" : 178,465 -> 000001629660FCF0 = PKYB = [137,-2119,80,5120]
+17:52:00:952 LeftClick  in window "MuLab : Some drums" : 301,870 -> 000001629671A880 = MpuC = [248,862,112,18]
+17:52:01:132 Chk DblClk = 1
+17:52:04:773 LeftClick  in window "MuDrum Front Panel" : 125,287 -> 000001629694D618 = GUIC = [93,258,68,64]
+17:52:06:397 LeftClick  in window "MuDrum Front Panel" : 270,157 -> 0000016296943B78 = GUIC = [246,125,68,64]
+17:52:07:350 LeftClick  in window "MuDrum Front Panel" : 381,155 -> 00000162969488C8 = GUIC = [348,125,68,64]
+17:52:08:288 LeftClick  in window "MuDrum Front Panel" : 180,154 -> 000001629693EE28 = GUIC = [144,125,68,64]
+17:52:09:062 LeftClick  in window "MuDrum Front Panel" : 235,296 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:09:320 LeftClick  in window "MuDrum Front Panel" : 227,280 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:09:599 LeftClick  in window "MuDrum Front Panel" : 227,293 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:09:789 LeftClick  in window "MuDrum Front Panel" : 227,293 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:10:008 LeftClick  in window "MuDrum Front Panel" : 227,293 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:10:504 LeftClick  in window "MuDrum Front Panel" : 231,293 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:10:701 LeftClick  in window "MuDrum Front Panel" : 231,293 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:10:887 LeftClick  in window "MuDrum Front Panel" : 231,293 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:12:646 LeftClick  in window "MuDrum Front Panel" : 230,290 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:13:687 LeftClick  in window "MuDrum Front Panel" : 753,289 -> 00000162965B0EA0 = SLDR = [737,271,32,32]
+17:52:14:895 UR action: Changed Element 1 -> VS
+17:52:17:414 LeftClick  in window "MuDrum Front Panel" : 754,547 -> 00000162983ED6D0 = SLDR = [737,537,32,32]
+17:52:17:979 UR action: Changed Element 2 -> VS
+17:52:18:461 LeftClick  in window "MuDrum Front Panel" : 755,554 -> 00000162983ED6D0 = SLDR = [737,537,32,32]
+17:52:18:689 UR action: Changed Element 2 -> VS
+17:52:19:792 LeftClick  in window "MuDrum Front Panel" : 289,150 -> 0000016296943B78 = GUIC = [246,125,68,64]
+17:52:23:173 LeftClick  in window "MuDrum Front Panel" : 388,148 -> 00000162969488C8 = GUIC = [348,125,68,64]
+17:52:27:181 LeftClick  in window "MuDrum Front Panel" : 175,153 -> 000001629693EE28 = GUIC = [144,125,68,64]
+17:52:27:829 LeftClick  in window "MuDrum Front Panel" : 175,153 -> 000001629693EE28 = GUIC = [144,125,68,64]
+17:52:28:518 LeftClick  in window "MuDrum Front Panel" : 279,149 -> 0000016296943B78 = GUIC = [246,125,68,64]
+17:52:29:032 LeftClick  in window "MuDrum Front Panel" : 173,142 -> 000001629693EE28 = GUIC = [144,125,68,64]
+17:52:29:605 LeftClick  in window "MuDrum Front Panel" : 398,142 -> 00000162969488C8 = GUIC = [348,125,68,64]
+17:52:30:045 LeftClick  in window "MuDrum Front Panel" : 271,158 -> 0000016296943B78 = GUIC = [246,125,68,64]
+17:52:30:663 LeftClick  in window "MuDrum Front Panel" : 238,297 -> 0000016296952368 = GUIC = [195,258,68,64]
+17:52:33:655 LeftClick  in window "MuDrum Front Panel" : 749,546 -> 00000162983E9470 = SLDR = [737,537,32,32]
+17:52:34:430 UR action: Changed Element 2 -> VS
+17:53:01:520 LeftClick  in window "MuDrum Front Panel" : 327,283 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:53:07:965 LeftClick  in window "MuDrum Front Panel" : 752,550 -> 00000162984D3F10 = SLDR = [737,537,32,32]
+17:53:08:612 UR action: Changed Element 2 -> VS
+17:53:16:558 LeftClick  in window "MuDrum Front Panel" : 758,555 -> 00000162984D3F10 = SLDR = [737,537,32,32]
+17:53:17:194 UR action: Changed Element 2 -> VS
+17:53:18:104 LeftClick  in window "MuDrum Front Panel" : 757,281 -> 00000162965B0EA0 = SLDR = [737,271,32,32]
+17:53:18:785 UR action: Changed Element 1 -> VS
+17:53:28:520 LeftClick  in window "MuDrum Front Panel" : 958,12 -> 00000162988551E8 = PSBT = [949,4,17,17] = HideWindow
+17:53:28:596 CF: 0000016298852010 = MEWd -> cuwd-hide = Hide
+17:53:29:518 LeftClick  in window "MuLab : Some drums" : 516,41 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:54:35:664 LeftClick  in window "MuLab : Some drums" : 504,47 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:54:36:054 LeftClick  in window "MuLab : Some drums" : 547,44 -> 0000016295FE26A8 = TGBT = rewd = [539,33,30,30] = Rewind
+17:54:36:687 LeftClick  in window "MuLab : Some drums" : 632,44 -> 0000016295FE00C8 = TLBT = [605,33,60,30] = Record
+17:54:45:951 LeftClick  in window "MuLab : Some drums" : 631,47 -> 0000016295FE00C8 = TLBT = [605,33,60,30] = Record
+17:54:45:952 UR action: Recording
+17:54:47:557 LeftClick  in window "MuLab : Some drums" : 209,52 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+17:54:49:735 LeftClick  in window "MuLab : Some drums" : 191,154 -> 000001628FE7B030 = SPtC = [137,132,164,36]
+17:54:49:918 Chk DblClk = 1
+17:54:50:688 LeftClick  in window "MuLab : Some drums" : 325,178 -> 00000162963B2478 = TLED = [217,-1672,1880,5120]
+17:54:50:741 Chk DblClk = 0
+17:54:51:258 Mouse Lasso 325,178,1258,426
+17:54:53:108 Key  in window "MuLab : Some drums" : Ctrl [X] XY = 0,0 -> 00000162963B2478 = TLED = [217,-1672,1880,5120]
+17:54:53:110 CF: 0000016298263670 = sqnc -> sqnc-ctse = Cut
+17:54:53:122 UR action: Cut Events
+17:54:53:850 LeftClick  in window "MuLab : Some drums" : 188,45 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+17:54:54:735 LeftClick  in window "MuLab : Some drums" : 140,155 -> 000001628FE7B030 = SPtC = [137,132,164,36]
+17:54:54:899 Chk DblClk = 1
+17:54:54:899 UR action: Delete Part(s)
+17:54:55:374 LeftClick  in window "MuLab : Some drums" : 159,114 -> 000001629031A400 = SPtC = [137,96,164,36]
+17:54:55:525 Chk DblClk = 1
+17:54:57:572 Key  in window "MuLab : Some drums" : Ctrl [V] XY = 0,0 -> 0000016295FD7020 = MSED = [4,23,1912,1013]
+17:54:57:573 CF: 000001628FEA7E20 = MLRD = [4,796,1912,202] -> RkDk-PsRk = Paste
+17:54:59:455 LeftClick  in window "MuLab : Some drums" : 222,343 -> 000001629661D478 = TLED = [217,-2119,2745,5120]
+17:54:59:953 Chk DblClk = 0
+17:55:00:019 Key  in window "MuLab : Some drums" : Ctrl [V] XY = 0,0 -> 000001629661D478 = TLED = [217,-2119,2745,5120]
+17:55:00:023 CF: 000001628FC01220 = sqnc -> sqnc-psse = Paste
+17:55:00:023 UR action: Paste Events
+17:55:01:893 LeftClick  in window "MuLab : Some drums" : 1641,336 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,545]
+17:55:04:614 LeftClick  in window "MuLab : Some drums" : 227,104 -> 000001629661D478 = TLED = [217,-1960,2745,5120]
+17:55:04:698 Drag 10 evnt
+17:55:06:142 Drop on 000001629661D478 = TLED = [217,-1960,2745,5120]
+17:55:06:142 UR action: Move Notes
+17:55:07:560 LeftClick  in window "MuLab : Some drums" : 1642,316 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,545]
+17:55:09:758 LeftClick  in window "MuLab : Some drums" : 225,458 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:09:833 Drag 10 evnt
+17:55:10:493 Drop on 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:10:493 UR action: Move Notes
+17:55:15:726 LeftClick  in window "MuLab : Some drums" : 620,342 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:16:139 Chk DblClk = 0
+17:55:18:625 LeftClick  in window "MuLab : Some drums" : 415,354 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:18:665 Chk DblClk = 0
+17:55:18:984 Mouse Lasso 415,354,359,92
+17:55:20:358 LeftClick  in window "MuLab : Some drums" : 446,408 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:20:440 Drag 4 evnt
+17:55:20:732 Drop on 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:20:732 UR action: Move Notes
+17:55:21:030 LeftClick  in window "MuLab : Some drums" : 745,298 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:21:532 Chk DblClk = 0
+17:55:22:943 LeftClick  in window "MuLab : Some drums" : 579,336 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:22:964 Chk DblClk = 0
+17:55:23:172 Mouse Lasso 579,336,165,96
+17:55:24:418 LeftClick  in window "MuLab : Some drums" : 636,412 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:24:536 Drag 2 evnt
+17:55:24:843 Drop on 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:24:843 UR action: Move Notes
+17:55:25:162 LeftClick  in window "MuLab : Some drums" : 658,334 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:25:657 Chk DblClk = 0
+17:55:27:412 Key  in window "MuLab : Some drums" : Ctrl [Z] XY = 0,0 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:27:439 CF: 000001628FD0F248 = urmr -> urmr-undo = Undo
+17:55:27:439 Undo: Move Notes
+17:55:28:902 LeftClick  in window "MuLab : Some drums" : 1272,411 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:28:994 Drag 0000016297FF7070 = evnt
+17:55:29:283 Drop on 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:29:283 UR action: Move Notes
+17:55:31:142 LeftClick  in window "MuLab : Some drums" : 1327,292 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:31:642 Chk DblClk = 0
+17:55:38:951 LeftClick  in window "MuLab : Some drums" : 363,329 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:39:001 Chk DblClk = 0
+17:55:39:902 Mouse Lasso 363,329,1002,141
+17:55:41:662 LeftClick  in window "MuLab : Some drums" : 668,299 -> 000001629661D478 = TLED = [217,-2087,2745,5120]
+17:55:42:163 Chk DblClk = 0
+17:55:50:248 LeftClick  in window "MuLab : Some drums" : 292,836 -> 000001629683CB10 = MpuC = [248,824,112,18]
+17:55:50:420 Chk DblClk = 1
+17:55:51:840 LeftClick  in window "MuDrum Front Panel" : 333,296 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:55:53:496 LeftClick  in window "MuDrum Front Panel" : 622,586 -> 0000016298620230 = MpuC = [587,575,98,18]
+17:55:53:657 Chk DblClk = 1
+17:55:55:710 LeftClick  in window "Crusher Front Panel" : 259,123 -> 000001629677DE70 = SLDR = [248,104,32,32]
+17:55:56:290 UR action: Changed Crusher -> Mix Level
+17:55:56:789 LeftClick  in window "Crusher Front Panel" : 108,103 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:00:307 UR action: Changed Crusher -> Distortion
+17:56:00:791 LeftClick  in window "Crusher Front Panel" : 112,98 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:01:032 UR action: Changed Crusher -> Distortion
+17:56:01:454 LeftClick  in window "Crusher Front Panel" : 117,93 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:01:648 UR action: Changed Crusher -> Distortion
+17:56:02:758 LeftClick  in window "Crusher Front Panel" : 110,96 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:03:648 UR action: Changed Crusher -> Distortion
+17:56:04:389 LeftClick  in window "Crusher Front Panel" : 115,99 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:04:914 UR action: Changed Crusher -> Distortion
+17:56:07:238 LeftClick  in window "Crusher Front Panel" : 268,121 -> 000001629677DE70 = SLDR = [248,104,32,32]
+17:56:07:683 UR action: Changed Crusher -> Mix Level
+17:56:08:261 LeftClick  in window "Crusher Front Panel" : 104,103 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:08:684 UR action: Changed Crusher -> Distortion
+17:56:10:534 LeftClick  in window "Crusher Front Panel" : 267,173 -> 00000162984DADB0 = SLDR = [248,154,32,32]
+17:56:11:072 UR action: Changed Crusher -> Out Volume
+17:56:11:911 LeftClick  in window "Crusher Front Panel" : 266,119 -> 000001629677DE70 = SLDR = [248,104,32,32]
+17:56:12:387 UR action: Changed Crusher -> Mix Level
+17:56:15:030 LeftClick  in window "Crusher Front Panel" : 110,100 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:15:375 UR action: Changed Crusher -> Distortion
+17:56:16:270 LeftClick  in window "Crusher Front Panel" : 262,118 -> 000001629677DE70 = SLDR = [248,104,32,32]
+17:56:16:599 UR action: Changed Crusher -> Mix Level
+17:56:17:246 LeftClick  in window "Crusher Front Panel" : 108,104 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:17:463 UR action: Changed Crusher -> Distortion
+17:56:18:696 LeftClick  in window "Crusher Front Panel" : 112,103 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:56:18:825 UR action: Changed Crusher -> Distortion
+17:56:19:406 LeftClick  in window "Crusher Front Panel" : 263,122 -> 000001629677DE70 = SLDR = [248,104,32,32]
+17:56:19:604 UR action: Changed Crusher -> Mix Level
+17:56:20:286 LeftClick  in window "Crusher Front Panel" : 461,13 -> 00000162986BE088 = PSBT = [454,4,17,17] = CloseDelete
+17:56:20:358 CF: 00000162986BBB50 = MEWd -> cuwd-clos = Close
+17:56:21:483 LeftClick  in window "MuDrum Front Panel" : 757,590 -> 0000016298711230 = MpuC = [724,575,98,18]
+17:56:21:966 Chk DblClk = 0
+17:56:22:035 RwrMpu[60] RWMOpen error=100
+17:56:22:048 LeftClick  in window "" : 2,578 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:23:006 LeftClick  in window "" : 82,90 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:25:135 LeftClick  in window "" : 160,135 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:27:912 LeftClick  in window "" : 126,138 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:28:607 LeftClick  in window "" : 111,49 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:29:121 LeftClick  in window "" : 119,68 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:30:305 LeftClick  in window "" : 136,174 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:31:662 LeftClick  in window "" : 163,235 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+17:56:31:662 Popup list choice = OnBeat
+17:56:31:667 Load preset for 000001629675C020 = mufx : {AppLibrary}/Mux/Effects/Echo/OnBeat.Mux
+17:56:38:646 LeftClick  in window "OnBeat Front Panel" : 641,9 -> 0000016299CA7548 = PSBT = [627,4,17,17] = CloseDelete
+17:56:38:710 CF: 0000016299CA5010 = MEWd -> cuwd-clos = Close
+17:56:39:521 LeftClick  in window "MuDrum Front Panel" : 371,156 -> 00000162969488C8 = GUIC = [348,125,68,64]
+17:56:42:414 RightClick  in window "MuDrum Front Panel" : 625,583 -> 00000162983CD240 = MpuC = [587,575,98,18]
+17:56:44:958 RightClick  in window "MuDrum Front Panel" : 643,583 -> 00000162983CD240 = MpuC = [587,575,98,18]
+17:56:52:177 LeftClick  in window "MuDrum Front Panel" : 341,304 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:56:53:069 LeftClick  in window "MuDrum Front Panel" : 761,587 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:56:53:238 Chk DblClk = 1
+17:56:54:189 LeftClick  in window "OnBeat Front Panel" : 204,48 -> 0000016298D4F170 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+17:56:54:290 Load preset for 000001629675C020 = mufx : {AppLibrary}/Mux/Effects/Echo/Phased Delay.Mux
+17:56:54:800 LeftClick  in window "Phased Delay Front Panel" : 203,49 -> 00000162983E9470 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+17:56:54:879 Load preset for 000001629675C020 = mufx : {AppLibrary}/Mux/Effects/Echo/PingPongBeat.Mux
+17:56:57:113 LeftClick  in window "PingPongBeat Front Panel" : 278,93 -> 00000162984CE690 = SLDR = [268,78,32,32]
+17:56:57:482 UR action: Changed PingPongBeat -> Feedback
+17:56:58:182 LeftClick  in window "PingPongBeat Front Panel" : 403,20 -> 0000016299F8B3B8 = LABL = [4,4,644,19]
+17:57:01:025 LeftClick  in window "MuDrum Front Panel" : 668,554 -> 00000162967815C0 = SLDR = [655,537,32,32]
+17:57:02:716 UR action: Changed Element 2 -> VOL
+17:57:03:585 LeftClick  in window "MuDrum Front Panel" : 623,577 -> 0000016299F7C950 = MpuC = [587,575,98,18]
+17:57:03:795 Chk DblClk = 1
+17:57:04:950 LeftClick  in window "Crusher Front Panel" : 253,123 -> 000001629677DE70 = SLDR = [248,104,32,32]
+17:57:05:713 UR action: Changed Crusher -> Mix Level
+17:57:06:191 LeftClick  in window "Crusher Front Panel" : 264,173 -> 00000162984DADB0 = SLDR = [248,154,32,32]
+17:57:06:830 UR action: Changed Crusher -> Out Volume
+17:57:07:510 LeftClick  in window "Crusher Front Panel" : 465,12 -> 0000016298619558 = PSBT = [454,4,17,17] = CloseDelete
+17:57:07:592 CF: 0000016298617020 = MEWd -> cuwd-clos = Close
+17:57:08:570 LeftClick  in window "MuDrum Front Panel" : 765,586 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:57:08:729 Chk DblClk = 1
+17:57:09:687 LeftClick  in window "PingPongBeat Front Panel" : 28,95 -> 00000162984D28F0 = SLDR = [12,78,32,32]
+17:57:11:266 UR action: Changed PingPongBeat -> Echo Time
+17:57:11:861 LeftClick  in window "PingPongBeat Front Panel" : 156,94 -> 00000162984CDB80 = SLDR = [140,78,32,32]
+17:57:12:188 UR action: Changed PingPongBeat -> Right Delay Time
+17:57:16:184 LeftClick  in window "PingPongBeat Front Panel" : 408,93 -> 00000162984D3400 = SLDR = [396,78,32,32]
+17:57:16:776 UR action: Changed PingPongBeat -> Damping
+17:57:17:208 LeftClick  in window "PingPongBeat Front Panel" : 527,97 -> 00000162984CD070 = SLDR = [524,78,32,32]
+17:57:17:601 UR action: Changed PingPongBeat -> Dry/Wet
+17:57:18:344 LeftClick  in window "PingPongBeat Front Panel" : 543,89 -> 00000162984CD070 = SLDR = [524,78,32,32]
+17:57:18:635 UR action: Changed PingPongBeat -> Dry/Wet
+17:57:19:126 LeftClick  in window "PingPongBeat Front Panel" : 543,92 -> 00000162984CD070 = SLDR = [524,78,32,32]
+17:57:19:320 UR action: Changed PingPongBeat -> Dry/Wet
+17:57:21:262 LeftClick  in window "PingPongBeat Front Panel" : 282,98 -> 00000162984CE690 = SLDR = [268,78,32,32]
+17:57:21:554 UR action: Changed PingPongBeat -> Feedback
+17:57:22:479 LeftClick  in window "PingPongBeat Front Panel" : 290,99 -> 00000162984CE690 = SLDR = [268,78,32,32]
+17:57:22:727 UR action: Changed PingPongBeat -> Feedback
+17:57:23:247 LeftClick  in window "PingPongBeat Front Panel" : 290,100 -> 00000162984CE690 = SLDR = [268,78,32,32]
+17:57:23:395 UR action: Changed PingPongBeat -> Feedback
+17:57:23:911 LeftClick  in window "PingPongBeat Front Panel" : 419,98 -> 00000162984D3400 = SLDR = [396,78,32,32]
+17:57:24:169 UR action: Changed PingPongBeat -> Damping
+17:57:24:702 LeftClick  in window "PingPongBeat Front Panel" : 532,94 -> 00000162984CD070 = SLDR = [524,78,32,32]
+17:57:25:024 UR action: Changed PingPongBeat -> Dry/Wet
+17:57:27:895 LeftClick  in window "PingPongBeat Front Panel" : 150,6 -> 0000016299F8B3B8 = LABL = [4,4,644,19]
+17:57:31:160 LeftClick  in window "PingPongBeat Front Panel" : 632,9 -> 0000016299F88138 = PSBT = [627,4,17,17] = CloseDelete
+17:57:31:236 CF: 0000016299F85C00 = MEWd -> cuwd-clos = Close
+17:57:31:814 LeftClick  in window "MuLab : Some drums" : 508,49 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:57:32:522 LeftClick  in window "MuDrum Front Panel" : 331,291 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:57:33:623 LeftClick  in window "MuDrum Front Panel" : 335,291 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:57:33:882 LeftClick  in window "MuDrum Front Panel" : 335,291 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:57:34:088 LeftClick  in window "MuDrum Front Panel" : 335,291 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:57:34:741 LeftClick  in window "MuLab : Some drums" : 500,49 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:57:35:959 LeftClick  in window "MuDrum Front Panel" : 775,584 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:57:36:126 Chk DblClk = 1
+17:57:38:743 LeftClick  in window "PingPongBeat Front Panel" : 17,93 -> 00000162984CDB80 = SLDR = [12,78,32,32]
+17:57:39:319 UR action: Changed PingPongBeat -> Echo Time
+17:57:43:599 LeftClick  in window "PingPongBeat Front Panel" : 296,93 -> 00000162984D3400 = SLDR = [268,78,32,32]
+17:57:43:890 UR action: Changed PingPongBeat -> Feedback
+17:57:44:759 LeftClick  in window "PingPongBeat Front Panel" : 417,95 -> 00000162984D3F10 = SLDR = [396,78,32,32]
+17:57:45:361 UR action: Changed PingPongBeat -> Damping
+17:57:45:944 LeftClick  in window "PingPongBeat Front Panel" : 285,92 -> 00000162984D3400 = SLDR = [268,78,32,32]
+17:57:46:214 UR action: Changed PingPongBeat -> Feedback
+17:57:46:910 LeftClick  in window "PingPongBeat Front Panel" : 281,98 -> 00000162984D3400 = SLDR = [268,78,32,32]
+17:57:47:110 UR action: Changed PingPongBeat -> Feedback
+17:57:49:557 LeftClick  in window "PingPongBeat Front Panel" : 289,77 -> 0000016299948530 = GUIC = [264,74,40,40]
+17:57:49:720 Drag 0000016299947CE0 = MPME =  = [264,74,124,40]
+17:57:50:774 LeftClick  in window "PingPongBeat Front Panel" : 640,9 -> 0000016299F88138 = PSBT = [627,4,17,17] = CloseDelete
+17:57:50:852 CF: 0000016299F85C00 = MEWd -> cuwd-clos = Close
+17:57:51:888 LeftClick  in window "MuDrum Front Panel" : 711,587 -> 00000162989E7BA8 = MPBt = prcs = [709,578,12,12]
+17:57:54:191 LeftClick  in window "MuDrum Front Panel" : Ctrl 68,560 -> 0000016296418D20 = MpuC = [34,548,112,18]
+17:57:54:271 Drag 0000016296418D20 = MpuC = [34,548,112,18]
+17:57:55:187 Drop on 0000016298711230 = MpuC = [858,639,102,18]
+17:57:55:606 LeftClick  in window "MuDrum Front Panel" : 916,647 -> 0000016298711230 = MpuC = [858,639,102,18]
+17:57:55:761 Chk DblClk = 1
+17:57:57:070 LeftClick  in window "MuVerb Front Panel" : 134,127 -> 00000162984CE690 = SLDR = [63,107,156,40]
+17:57:57:615 UR action: Changed MuVerb -> Decay
+17:57:58:120 LeftClick  in window "MuVerb Front Panel" : 175,177 -> 00000162984D28F0 = SLDR = [153,159,32,32]
+17:58:00:129 UR action: Changed MuVerb -> Dry/Wet
+17:58:00:625 LeftClick  in window "MuVerb Front Panel" : 178,180 -> 00000162984D28F0 = SLDR = [153,159,32,32]
+17:58:00:841 UR action: Changed MuVerb -> Dry/Wet
+17:58:01:784 LeftClick  in window "MuVerb Front Panel" : 41,179 -> 00000162984CFCB0 = SLDR = [21,159,32,32]
+17:58:02:010 UR action: Changed MuVerb -> Damping
+17:58:03:739 LeftClick  in window "MuDrum Front Panel" : 756,679 -> 0000016296786E40 = SLDR = [733,663,32,32]
+17:58:06:301 UR action: Changed Out Mixer Strip -> VOL
+17:58:07:216 LeftClick  in window "MuVerb Front Panel" : 240,15 -> 000001629880BBB8 = LABL = [4,4,565,19]
+17:58:07:414 Chk DblClk = 0
+17:58:08:111 LeftClick  in window "MuVerb Front Panel" : 560,14 -> 0000016298808938 = PSBT = [548,4,17,17] = CloseDelete
+17:58:08:190 CF: 0000016298806400 = MEWd -> cuwd-clos = Close
+17:58:08:915 LeftClick  in window "MuDrum Front Panel" : 574,585 -> 0000016299F7C108 = MPBt = prcs = [572,578,12,12]
+17:58:11:065 LeftClick  in window "MuDrum Front Panel" : 574,583 -> 0000016299F7C108 = MPBt = prcs = [572,578,12,12]
+17:58:17:463 LeftClick  in window "MuDrum Front Panel" : 712,584 -> 00000162989E7BA8 = MPBt = prcs = [709,578,12,12]
+17:58:19:117 LeftClick  in window "MuDrum Front Panel" : 756,586 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:58:19:174 Drag 00000162989E83F0 = MpuC = [724,575,98,18]
+17:58:19:844 Drop on 00000162987197D0 = MpuC = [858,661,102,18]
+17:58:22:049 LeftClick  in window "MuDrum Front Panel" : 845,649 -> 00000162987109E8 = MPBt = prcs = [843,642,12,12]
+17:58:25:326 LeftClick  in window "MuDrum Front Panel" : 891,673 -> 00000162987197D0 = MpuC = [858,661,102,18]
+17:58:25:394 Drag 00000162987197D0 = MpuC = [858,661,102,18]
+17:58:26:351 Drop on 0000016296771270 = MpuC = [587,309,98,18]
+17:58:30:783 LeftClick  in window "MuDrum Front Panel" : 671,544 -> 00000162967815C0 = SLDR = [655,537,32,32]
+17:58:31:418 UR action: Changed Element 2 -> VOL
+17:58:32:775 LeftClick  in window "MuDrum Front Panel" : 665,293 -> 000001629677BD40 = SLDR = [655,271,32,32]
+17:58:33:498 UR action: Changed Element 1 -> VOL
+17:58:34:631 LeftClick  in window "MuDrum Front Panel" : 580,322 -> 0000016296770A28 = MPBt = prcs = [572,312,12,12]
+17:58:36:588 LeftClick  in window "MuLab : Some drums" : 488,50 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:58:37:531 LeftClick  in window "MuDrum Front Panel" : 333,299 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:37:886 LeftClick  in window "MuDrum Front Panel" : 333,299 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:38:295 LeftClick  in window "MuDrum Front Panel" : 333,297 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:38:990 LeftClick  in window "MuDrum Front Panel" : 670,283 -> 000001629677BD40 = SLDR = [655,271,32,32]
+17:58:39:213 UR action: Changed Element 1 -> VOL
+17:58:39:790 LeftClick  in window "MuDrum Front Panel" : 321,279 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:40:008 LeftClick  in window "MuDrum Front Panel" : 326,283 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:40:686 LeftClick  in window "MuDrum Front Panel" : 326,283 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:41:065 LeftClick  in window "MuDrum Front Panel" : 334,285 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:41:270 LeftClick  in window "MuDrum Front Panel" : 335,286 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:42:191 LeftClick  in window "MuDrum Front Panel" : 751,673 -> 0000016296786E40 = SLDR = [733,663,32,32]
+17:58:42:715 UR action: Changed Out Mixer Strip -> VOL
+17:58:44:327 LeftClick  in window "MuDrum Front Panel" : 320,314 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:44:671 LeftClick  in window "MuDrum Front Panel" : 333,294 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:44:887 LeftClick  in window "MuDrum Front Panel" : 333,294 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:45:056 LeftClick  in window "MuDrum Front Panel" : 333,294 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:45:693 LeftClick  in window "MuDrum Front Panel" : 574,355 -> 0000016299C032B0 = MPBt = prcs = [567,345,16,16]
+17:58:46:120 LeftClick  in window "MuDrum Front Panel" : 347,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:46:520 LeftClick  in window "MuDrum Front Panel" : 333,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:46:733 LeftClick  in window "MuDrum Front Panel" : 332,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:46:894 LeftClick  in window "MuDrum Front Panel" : 332,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:47:719 LeftClick  in window "MuDrum Front Panel" : 577,354 -> 0000016299C032B0 = MPBt = prcs = [567,345,16,16]
+17:58:48:343 LeftClick  in window "MuDrum Front Panel" : 331,290 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:48:758 LeftClick  in window "MuDrum Front Panel" : 331,290 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:49:022 LeftClick  in window "MuDrum Front Panel" : 331,290 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:49:205 LeftClick  in window "MuDrum Front Panel" : 331,290 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:49:405 LeftClick  in window "MuDrum Front Panel" : 331,291 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:50:646 LeftClick  in window "MuDrum Front Panel" : 629,578 -> 0000016299F7C950 = MpuC = [587,575,98,18]
+17:58:50:849 Chk DblClk = 1
+17:58:52:286 LeftClick  in window "Crusher Front Panel" : 108,99 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:58:52:611 UR action: Changed Crusher -> Distortion
+17:58:53:697 LeftClick  in window "MuDrum Front Panel" : 343,294 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:54:052 LeftClick  in window "MuDrum Front Panel" : 337,294 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:54:245 LeftClick  in window "MuDrum Front Panel" : 337,294 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:54:867 LeftClick  in window "Crusher Front Panel" : 117,101 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:58:55:098 UR action: Changed Crusher -> Distortion
+17:58:55:705 LeftClick  in window "MuDrum Front Panel" : 343,297 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:56:263 LeftClick  in window "MuDrum Front Panel" : 333,299 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:56:479 LeftClick  in window "MuDrum Front Panel" : 333,299 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:57:234 LeftClick  in window "Crusher Front Panel" : 114,95 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:58:57:577 UR action: Changed Crusher -> Distortion
+17:58:58:321 LeftClick  in window "MuDrum Front Panel" : 323,297 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:58:656 LeftClick  in window "MuDrum Front Panel" : 323,297 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:58:58:839 LeftClick  in window "MuDrum Front Panel" : 323,297 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:01:427 LeftClick  in window "Crusher Front Panel" : 51,140 -> 000001629403DAB0 = UFBC = [4,70,471,166]
+17:59:01:975 LeftClick  in window "Crusher Front Panel" : 115,96 -> 00000162984DB8C0 = SLDR = [98,84,32,32]
+17:59:02:304 UR action: Changed Crusher -> Distortion
+17:59:03:304 LeftClick  in window "MuDrum Front Panel" : 338,288 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:03:487 LeftClick  in window "MuDrum Front Panel" : 338,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:03:680 LeftClick  in window "MuDrum Front Panel" : 338,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:04:867 LeftClick  in window "MuDrum Front Panel" : 338,275 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:05:055 LeftClick  in window "MuDrum Front Panel" : 338,275 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:05:390 LeftClick  in window "MuDrum Front Panel" : 338,275 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:05:624 LeftClick  in window "MuDrum Front Panel" : 338,275 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:06:255 LeftClick  in window "MuDrum Front Panel" : 575,359 -> 0000016299C032B0 = MPBt = prcs = [567,345,16,16]
+17:59:06:655 LeftClick  in window "MuDrum Front Panel" : 329,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:06:901 LeftClick  in window "MuDrum Front Panel" : 329,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:07:134 LeftClick  in window "MuDrum Front Panel" : 329,284 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:07:896 LeftClick  in window "MuDrum Front Panel" : 577,361 -> 000001629885FFF0 = GpFm = MSP2 = [560,340,427,262]
+17:59:08:390 LeftClick  in window "MuDrum Front Panel" : 575,353 -> 0000016299C032B0 = MPBt = prcs = [567,345,16,16]
+17:59:08:888 LeftClick  in window "MuDrum Front Panel" : 342,277 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:09:071 LeftClick  in window "MuDrum Front Panel" : 340,278 -> 00000162969570B8 = GUIC = [297,258,68,64]
+17:59:09:783 LeftClick  in window "MuLab : Some drums" : 476,55 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+17:59:15:163 LeftClick  in window "MuDrum Front Panel" : 578,314 -> 0000016296770A28 = MPBt = prcs = [572,312,12,12]
+17:59:17:526 LeftClick  in window "MuDrum Front Panel" : 632,317 -> 0000016296771270 = MpuC = [587,309,98,18]
+17:59:17:598 Drag 0000016296771270 = MpuC = [587,309,98,18]
+17:59:18:240 Drop on 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:23:041 LeftClick  in window "Crusher Front Panel" : 48,155 -> 000001629403DAB0 = UFBC = [4,70,471,166]
+17:59:24:695 LeftClick  in window "Crusher Front Panel" : 465,18 -> 000001629A204548 = PSBT = [454,4,17,17] = CloseDelete
+17:59:24:781 CF: 000001629A202010 = MEWd -> cuwd-clos = Close
+17:59:25:588 LeftClick  in window "MuDrum Front Panel" : 764,587 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:25:769 Chk DblClk = 1
+17:59:26:630 LeftClick  in window "PingPongBeat Front Panel" : 29,99 -> 00000162984CDB80 = SLDR = [12,78,32,32]
+17:59:26:835 UR action: Changed PingPongBeat -> Echo Time
+17:59:27:135 LeftClick  in window "PingPongBeat Front Panel" : 29,92 -> 00000162984CDB80 = SLDR = [12,78,32,32]
+17:59:27:478 UR action: Changed PingPongBeat -> Echo Time
+17:59:30:552 LeftClick  in window "PingPongBeat Front Panel" : 283,101 -> 00000162984D3400 = SLDR = [268,78,32,32]
+17:59:30:994 UR action: Changed PingPongBeat -> Feedback
+17:59:31:622 LeftClick  in window "PingPongBeat Front Panel" : 416,74 -> 000001629A0A4520 = GUIC = [392,74,40,40]
+17:59:31:662 Drag 000001629A0A3CD0 = MPME =  = [392,74,124,40]
+17:59:32:362 LeftClick  in window "PingPongBeat Front Panel" : 417,97 -> 00000162984CD070 = SLDR = [396,78,32,32]
+17:59:32:756 UR action: Changed PingPongBeat -> Damping
+17:59:33:190 LeftClick  in window "PingPongBeat Front Panel" : 547,90 -> 00000162984CFCB0 = SLDR = [524,78,32,32]
+17:59:33:620 UR action: Changed PingPongBeat -> Dry/Wet
+17:59:34:942 LeftClick  in window "PingPongBeat Front Panel" : 637,9 -> 000001629A204548 = PSBT = [627,4,17,17] = CloseDelete
+17:59:35:044 CF: 000001629A202010 = MEWd -> cuwd-clos = Close
+17:59:37:657 LeftClick  in window "MuDrum Front Panel" : 763,584 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:37:831 Chk DblClk = 1
+17:59:38:528 LeftClick  in window "PingPongBeat Front Panel" : 536,94 -> 00000162984D3400 = SLDR = [524,78,32,32]
+17:59:39:032 UR action: Changed PingPongBeat -> Dry/Wet
+17:59:39:784 LeftClick  in window "PingPongBeat Front Panel" : 419,96 -> 00000162984D28F0 = SLDR = [396,78,32,32]
+17:59:40:088 UR action: Changed PingPongBeat -> Damping
+17:59:40:949 LeftClick  in window "PingPongBeat Front Panel" : 26,45 -> 00000162999A80D0 = MPBt = [12,32,28,28]
+17:59:43:216 LeftClick  in window "PingPongBeat Front Panel" : 26,45 -> 00000162999A80D0 = MPBt = [12,32,28,28]
+17:59:46:176 LeftClick  in window "PingPongBeat Front Panel" : 634,12 -> 000001629A204548 = PSBT = [627,4,17,17] = CloseDelete
+17:59:46:270 CF: 000001629A202010 = MEWd -> cuwd-clos = Close
+17:59:48:529 LeftClick  in window "MuDrum Front Panel" : 775,585 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:48:826 Drag 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:49:071 LeftClick  in window "MuDrum Front Panel" : 775,585 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:49:503 Chk DblClk = 1
+17:59:49:674 LeftClick  in window "MuDrum Front Panel" : 774,586 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:49:878 Chk DblClk = 0
+17:59:50:400 LeftClick  in window "MuDrum Front Panel" : 738,589 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:50:563 Chk DblClk = 1
+17:59:51:144 LeftClick  in window "MuDrum Front Panel" : 761,583 -> 00000162989E83F0 = MpuC = [724,575,98,18]
+17:59:51:290 Chk DblClk = 1
+17:59:52:269 LeftClick  in window "PingPongBeat Front Panel" : 413,95 -> 00000162984D3400 = SLDR = [396,78,32,32]
+17:59:52:856 UR action: Changed PingPongBeat -> Damping
+17:59:55:128 LeftClick  in window "PingPongBeat Front Panel" : 289,95 -> 00000162984CE690 = SLDR = [268,78,32,32]
+17:59:55:335 UR action: Changed PingPongBeat -> Feedback
+17:59:56:070 LeftClick  in window "PingPongBeat Front Panel" : 21,44 -> 00000162999ADF00 = MPBt = [12,32,28,28]
+17:59:58:298 LeftClick  in window "PingPongBeat Front Panel" : 22,44 -> 00000162999ADF00 = MPBt = [12,32,28,28]
+18:00:00:253 LeftClick  in window "PingPongBeat Front Panel" : 415,92 -> 00000162984D3400 = SLDR = [396,78,32,32]
+18:00:00:721 UR action: Changed PingPongBeat -> Damping
+18:00:01:255 LeftClick  in window "PingPongBeat Front Panel" : 635,8 -> 000001629A204548 = PSBT = [627,4,17,17] = CloseDelete
+18:00:01:331 CF: 000001629A202010 = MEWd -> cuwd-clos = Close
+18:00:02:130 LeftClick  in window "MuLab : Some drums" : 493,45 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:00:02:762 LeftClick  in window "MuDrum Front Panel" : 328,288 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:03:126 LeftClick  in window "MuDrum Front Panel" : 328,288 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:04:045 LeftClick  in window "MuDrum Front Panel" : 715,582 -> 00000162989E7BA8 = MPBt = prcs = [709,578,12,12]
+18:00:04:928 LeftClick  in window "MuDrum Front Panel" : 329,286 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:05:302 LeftClick  in window "MuDrum Front Panel" : 329,286 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:06:329 LeftClick  in window "MuDrum Front Panel" : 583,587 -> 0000016299F7C108 = MPBt = prcs = [572,578,12,12]
+18:00:07:087 LeftClick  in window "MuDrum Front Panel" : 331,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:07:375 LeftClick  in window "MuDrum Front Panel" : 331,290 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:07:975 LeftClick  in window "MuDrum Front Panel" : 331,290 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:08:871 LeftClick  in window "MuDrum Front Panel" : 710,586 -> 00000162989E7BA8 = MPBt = prcs = [709,578,12,12]
+18:00:09:581 LeftClick  in window "MuDrum Front Panel" : 326,292 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:09:917 LeftClick  in window "MuDrum Front Panel" : 326,292 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:10:686 LeftClick  in window "MuDrum Front Panel" : 577,585 -> 0000016299F7C108 = MPBt = prcs = [572,578,12,12]
+18:00:11:408 LeftClick  in window "MuDrum Front Panel" : 327,280 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:11:807 LeftClick  in window "MuDrum Front Panel" : 327,280 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:12:425 LeftClick  in window "MuDrum Front Panel" : 332,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:12:631 LeftClick  in window "MuDrum Front Panel" : 332,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:12:815 LeftClick  in window "MuDrum Front Panel" : 332,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:13:022 LeftClick  in window "MuDrum Front Panel" : 332,289 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:13:632 LeftClick  in window "MuDrum Front Panel" : 210,298 -> 0000016296952368 = GUIC = [195,258,68,64]
+18:00:13:894 LeftClick  in window "MuDrum Front Panel" : 231,298 -> 0000016296952368 = GUIC = [195,258,68,64]
+18:00:14:085 LeftClick  in window "MuDrum Front Panel" : 232,298 -> 0000016296952368 = GUIC = [195,258,68,64]
+18:00:14:559 LeftClick  in window "MuDrum Front Panel" : 334,308 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:14:774 LeftClick  in window "MuDrum Front Panel" : 336,292 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:00:15:464 LeftClick  in window "MuLab : Some drums" : 504,42 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:00:18:626 LeftClick  in window "MuDrum Front Panel" : 367,148 -> 00000162969488C8 = GUIC = [348,125,68,64]
+18:00:19:760 LeftClick  in window "MuDrum Front Panel" : 568,582 -> 00000162983FDDA0 = GpFm = MSP2 = [560,340,427,262]
+18:00:20:094 LeftClick  in window "MuDrum Front Panel" : 579,589 -> 00000162986AC9E8 = MPBt = prcs = [572,578,12,12]
+18:00:35:670 LeftClick  in window "MuDrum Front Panel" : 124,286 -> 000001629694D618 = GUIC = [93,258,68,64]
+18:00:43:206 LeftClick  in window "MuDrum Front Panel" : 371,152 -> 00000162969488C8 = GUIC = [348,125,68,64]
+18:00:44:248 LeftClick  in window "MuDrum Front Panel" : 583,584 -> 000001629A1A4A08 = MPBt = prcs = [572,578,12,12]
+18:00:45:391 LeftClick  in window "MuDrum Front Panel" : 124,288 -> 000001629694D618 = GUIC = [93,258,68,64]
+18:00:45:919 LeftClick  in window "MuDrum Front Panel" : 81,141 -> 000001629693C020 = MDPE = [4,23,987,691]
+18:01:04:350 LeftClick  in window "MuDrum Front Panel" : 755,285 -> 000001629677A720 = SLDR = [737,271,32,32]
+18:01:04:965 UR action: Changed Element 1 -> VS
+18:01:05:791 LeftClick  in window "MuDrum Front Panel" : 741,553 -> 0000016296784200 = SLDR = [737,537,32,32]
+18:01:06:350 UR action: Changed Element 2 -> VS
+18:01:47:135 LeftClick  in window "MuDrum Front Panel" : 530,15 -> 00000162988577C8 = LABL = [4,4,987,19]
+18:02:12:881 LeftClick  in window "MuLab : Some drums" : 227,53 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+18:02:13:950 RightClick  in window "MuLab : Some drums" : 87,152 -> 0000016298A90450 = LABL = [80,144,42,12]
+18:02:14:750 LeftClick  in window "" : 23,32 -> 00000012263607F0 = TREL = PULs = [0,0,168,288]
+18:02:14:750 Popup list choice = Delete
+18:02:14:753 CF: 0000016298196DC0 = trac -> wobj-delt = Delete
+18:02:14:754 UR action: Delete Track
+18:02:15:278 LeftClick  in window "MuLab : Some drums" : 96,116 -> 0000016295EE9930 = LABL = [72,108,50,12]
+18:02:15:622 Chk DblClk = 0
+18:02:18:878 LeftClick  in window "MuLab : Some drums" : 494,50 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:02:19:233 LeftClick  in window "MuLab : Some drums" : 560,48 -> 0000016295FE26A8 = TGBT = rewd = [539,33,30,30] = Rewind
+18:02:19:511 LeftClick  in window "MuLab : Some drums" : 560,48 -> 0000016295FE26A8 = TGBT = rewd = [539,33,30,30] = Rewind
+18:02:20:104 LeftClick  in window "MuLab : Some drums" : 640,47 -> 0000016295FE00C8 = TLBT = [605,33,60,30] = Record
+18:02:29:958 LeftClick  in window "MuLab : Some drums" : 644,41 -> 0000016295FE00C8 = TLBT = [605,33,60,30] = Record
+18:02:32:038 LeftClick  in window "MuLab" : 64,136 -> 000000122635DCD0 = PSBT = btn1 = [20,119,71,31] = "Merge"
+18:02:32:149 New Recording, Exisiting Part => Merge
+18:02:32:149 UR action: Recording
+18:02:32:926 LeftClick  in window "MuLab : Some drums" : 253,130 -> 000001628FE7B030 = SPtC = [137,96,164,36]
+18:02:33:100 Chk DblClk = 1
+18:02:34:370 LeftClick  in window "MuDrum Front Panel" : 962,9 -> 00000162988551E8 = PSBT = [949,4,17,17] = HideWindow
+18:02:34:453 CF: 0000016298852010 = MEWd -> cuwd-hide = Hide
+18:02:35:704 LeftClick  in window "MuLab : Some drums" : 1642,332 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,545]
+18:02:36:846 LeftClick  in window "MuLab : Some drums" : 1360,455 -> 000001629661D478 = TLED = [217,-1770,2745,5120]
+18:02:36:902 Chk DblClk = 0
+18:02:37:285 Mouse Lasso 53,174,1307,281
+18:02:38:454 LeftClick  in window "MuLab : Some drums" : 1646,299 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,545]
+18:02:40:758 LeftClick  in window "MuLab : Some drums" : 243,164 -> 000001629661D478 = TLED = [217,-1938,2745,5120]
+18:02:40:832 Drag 10 evnt
+18:02:49:414 LeftClick  in window "MuLab : Some drums" : 1642,321 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,545]
+18:02:52:847 LeftClick  in window "MuLab : Some drums" : 238,116 -> 000001629661D478 = TLED = [217,-1981,2745,5120]
+18:02:52:897 Drag 10 evnt
+18:02:53:773 Drop on 000001629661D478 = TLED = [217,-1981,2745,5120]
+18:02:53:773 UR action: Move Notes
+18:02:59:127 LeftClick  in window "MuLab : Some drums" : 1649,321 -> 0000016296617C50 = SBAR = vsbr = [1638,96,12,545]
+18:03:05:326 LeftClick  in window "MuLab : Some drums" : 279,376 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:05:495 Chk DblClk = 0
+18:03:05:895 LeftClick  in window "MuLab : Some drums" : 250,392 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:05:919 Chk DblClk = 0
+18:03:06:482 Mouse Lasso 219,392,31,72
+18:03:11:502 Key  in window "MuLab : Some drums" : [Delete] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:11:504 UR action: Delete Event(s)
+18:03:13:230 LeftClick  in window "MuLab : Some drums" : 806,410 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:13:291 Chk DblClk = 0
+18:03:13:646 Mouse Lasso 806,410,39,45
+18:03:13:797 Key  in window "MuLab : Some drums" : [Delete] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:13:798 UR action: Delete Event(s)
+18:03:14:279 LeftClick  in window "MuLab : Some drums" : 1104,425 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:14:329 Chk DblClk = 0
+18:03:14:477 Mouse Lasso 1104,425,30,26
+18:03:14:605 Key  in window "MuLab : Some drums" : [Delete] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:14:606 UR action: Delete Event(s)
+18:03:18:734 Key  in window "MuLab : Some drums" : Ctrl [Z] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:18:763 CF: 000001628FD0F248 = urmr -> urmr-undo = Undo
+18:03:18:763 Undo: Delete Event(s)
+18:03:19:132 Key  in window "MuLab : Some drums" : Ctrl [Z] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:19:160 CF: 000001628FD0F248 = urmr -> urmr-undo = Undo
+18:03:19:160 Undo: Delete Event(s)
+18:03:19:604 Key  in window "MuLab : Some drums" : Ctrl [Z] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:19:636 CF: 000001628FD0F248 = urmr -> urmr-undo = Undo
+18:03:19:636 Undo: Delete Event(s)
+18:03:20:081 LeftClick  in window "MuLab : Some drums" : 952,249 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:20:577 Chk DblClk = 0
+18:03:23:447 LeftClick  in window "MuLab : Some drums" : 273,489 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:23:496 Chk DblClk = 0
+18:03:23:719 Mouse Lasso 228,489,45,7
+18:03:24:127 LeftClick  in window "MuLab : Some drums" : 166,500 -> 000001629660FCF0 = PKYB = [137,-2128,80,5120]
+18:03:26:390 LeftClick  in window "MuLab : Some drums" : 100,403 -> 00000162960688D8 = THVW = [4,96,126,713]
+18:03:26:895 Chk DblClk = 0
+18:03:32:191 LeftClick  in window "MuLab : Some drums" : 252,412 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:32:687 Chk DblClk = 0
+18:03:34:343 LeftClick  in window "MuLab : Some drums" : 1299,440 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:34:425 Chk DblClk = 0
+18:03:35:712 Mouse Lasso 191,440,1108,15
+18:03:48:629 Key  in window "MuLab : Some drums" : [Delete] XY = 0,0 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:48:646 UR action: Delete Event(s)
+18:03:53:534 LeftClick  in window "MuLab : Some drums" : 335,458 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:03:53:676 Chk DblClk = 1
+18:03:53:754 Mouse Lasso 330,432,19,40
+18:03:53:754 UR action: Add Event
+18:04:02:702 LeftClick  in window "MuLab : Some drums" : 938,451 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:02:868 Chk DblClk = 1
+18:04:02:950 Mouse Lasso 933,432,19,40
+18:04:02:950 UR action: Add Event
+18:04:11:110 LeftClick  in window "MuLab : Some drums" : 716,460 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:11:271 Chk DblClk = 1
+18:04:11:367 Mouse Lasso 707,432,19,40
+18:04:11:367 UR action: Add Event
+18:04:19:801 LeftClick  in window "MuLab : Some drums" : 1389,451 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:19:968 Chk DblClk = 1
+18:04:20:047 Mouse Lasso 1385,432,19,40
+18:04:20:047 UR action: Add Event
+18:04:23:471 LeftClick  in window "MuLab : Some drums" : 1488,429 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:23:522 Chk DblClk = 0
+18:04:28:128 Mouse Lasso 1435,325,53,104
+18:04:28:936 LeftClick  in window "MuLab : Some drums" : 279,448 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:28:952 Chk DblClk = 0
+18:04:29:176 Mouse Lasso 279,448,134,6
+18:04:30:286 LeftClick  in window "MuLab : Some drums" : 333,677 -> 0000016296629808 = TLED = [217,660,2745,100]
+18:04:30:834 Mouse Lasso 330,677,8,83
+18:04:30:834 UR action: Edit Event Value 2
+18:04:31:326 LeftClick  in window "MuLab : Some drums" : 689,425 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:31:345 Chk DblClk = 0
+18:04:31:472 Mouse Lasso 689,425,69,45
+18:04:33:326 LeftClick  in window "MuLab : Some drums" : 908,440 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:33:360 Chk DblClk = 0
+18:04:33:514 Mouse Lasso 908,440,51,16
+18:04:34:655 LeftClick  in window "MuLab : Some drums" : 938,674 -> 0000016296629808 = TLED = [217,660,2745,100]
+18:04:35:450 Mouse Lasso 933,686,8,74
+18:04:35:450 UR action: Edit Event Value 2
+18:04:36:022 LeftClick  in window "MuLab : Some drums" : 1361,436 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:36:044 Chk DblClk = 0
+18:04:36:163 Mouse Lasso 1361,436,73,40
+18:04:36:990 LeftClick  in window "MuLab : Some drums" : 1389,678 -> 0000016296629808 = TLED = [217,660,2745,100]
+18:04:37:657 Mouse Lasso 1385,677,8,83
+18:04:37:657 UR action: Edit Event Value 2
+18:04:38:213 LeftClick  in window "MuLab : Some drums" : 1397,349 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:38:465 Chk DblClk = 0
+18:04:40:480 LeftClick  in window "MuLab : Some drums" : 214,51 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+18:04:41:551 LeftClick  in window "MuLab : Some drums" : 124,43 -> 0000016295FD96A0 = TGBT = [86,33,66,30] = "PROJECT"
+18:04:42:791 LeftClick  in window "MuLab : Some drums" : 205,122 -> 000001629031A400 = SPtC = [137,96,164,36]
+18:04:42:952 Chk DblClk = 1
+18:04:45:702 LeftClick  in window "MuLab : Some drums" : 1378,779 -> 0000016298D461C0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:04:45:879 LeftClick  in window "MuLab : Some drums" : 1378,779 -> 0000016298D461C0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:04:46:070 LeftClick  in window "MuLab : Some drums" : 1378,779 -> 0000016298D461C0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:04:46:592 LeftClick  in window "MuLab : Some drums" : 1391,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:46:774 LeftClick  in window "MuLab : Some drums" : 1391,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:46:934 LeftClick  in window "MuLab : Some drums" : 1391,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:47:112 LeftClick  in window "MuLab : Some drums" : 1391,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:47:270 LeftClick  in window "MuLab : Some drums" : 1391,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:47:441 LeftClick  in window "MuLab : Some drums" : 1391,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:49:111 LeftClick  in window "MuLab : Some drums" : 1393,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:49:272 LeftClick  in window "MuLab : Some drums" : 1393,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:50:347 LeftClick  in window "MuLab : Some drums" : 1383,774 -> 0000016298D461C0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:04:51:070 LeftClick  in window "MuLab : Some drums" : 1381,779 -> 0000016298D461C0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:04:52:207 LeftClick  in window "MuLab : Some drums" : 713,459 -> 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:52:519 Drag 000001629A28B910 = evnt
+18:04:53:922 Drop on 000001629661D478 = TLED = [217,-2128,2745,5120]
+18:04:55:759 LeftClick  in window "MuLab : Some drums" : 1398,779 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:04:58:168 LeftClick  in window "MuLab : Some drums" : 558,448 -> 000001629661D478 = TLED = [-416,-2128,5331,5120]
+18:04:58:381 Drag 000001629A28B910 = evnt
+18:04:58:946 Drop on 000001629661D478 = TLED = [-416,-2128,5331,5120]
+18:04:58:946 UR action: Move Notes
+18:05:01:014 LeftClick  in window "MuLab : Some drums" : 782,454 -> 000001629661D478 = TLED = [-687,-2128,3423,5120]
+18:05:01:263 Drag 000001629A2896F0 = evnt
+18:05:01:806 Drop on 000001629661D478 = TLED = [-687,-2128,3423,5120]
+18:05:01:806 UR action: Move Notes
+18:05:03:614 LeftClick  in window "MuLab : Some drums" : 278,450 -> 000001629661D478 = TLED = [217,-2128,1421,5120]
+18:05:04:111 Chk DblClk = 0
+18:05:05:102 LeftClick  in window "MuLab : Some drums" : 265,448 -> 000001629661D478 = TLED = [-36,-2128,6655,5120]
+18:05:05:174 Drag 000001629A28C7B0 = evnt
+18:05:05:931 Drop on 000001629661D478 = TLED = [-36,-2128,6655,5120]
+18:05:05:931 UR action: Move Notes
+18:05:08:434 LeftClick  in window "MuLab : Some drums" : 207,38 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+18:05:09:590 LeftClick  in window "MuLab : Some drums" : 406,123 -> 000001628FE7B030 = SPtC = [137,96,375,36]
+18:05:09:758 Chk DblClk = 1
+18:05:11:778 LeftClick  in window "MuLab : Some drums" : 744,647 -> 0000016296613230 = SBAR = hsbr = [217,641,1421,12]
+18:05:13:550 LeftClick  in window "MuLab : Some drums" : 1393,776 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:13:806 LeftClick  in window "MuLab : Some drums" : 1393,776 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:14:386 LeftClick  in window "MuLab : Some drums" : 1375,773 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:14:614 LeftClick  in window "MuLab : Some drums" : 1370,773 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:14:985 LeftClick  in window "MuLab : Some drums" : 1370,773 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:15:278 LeftClick  in window "MuLab : Some drums" : 1370,773 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:15:719 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:15:903 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:16:104 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:16:463 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:16:894 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:17:357 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:17:688 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:18:078 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:18:337 LeftClick  in window "MuLab : Some drums" : 1393,775 -> 0000016298D47BE0 = TRBT =  inc = [1386,767,18,18] = ArrowRight
+18:05:18:886 LeftClick  in window "MuLab : Some drums" : 1365,775 -> 00000162966305A0 = LABL = [1296,767,72,18]
+18:05:19:131 LeftClick  in window "" : 69,83 -> 0000001226367E50 = TREL = PULs = [0,0,70,348]
+18:05:19:131 Popup list choice = Beat
+18:05:19:886 LeftClick  in window "MuLab : Some drums" : 1373,779 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:20:062 LeftClick  in window "MuLab : Some drums" : 1376,779 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:20:222 LeftClick  in window "MuLab : Some drums" : 1376,779 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:20:389 LeftClick  in window "MuLab : Some drums" : 1376,779 -> 0000016298D46ED0 = TRBT =  dec = [1368,767,18,18] = ArrowLeft
+18:05:20:974 LeftClick  in window "MuLab : Some drums" : 1344,774 -> 00000162966305A0 = LABL = [1296,767,72,18]
+18:05:23:449 LeftClick  in window "" : 43,136 -> 0000001226367E50 = TREL = PULs = [0,0,70,348]
+18:05:23:449 Popup list choice = 1/16th
+18:05:25:368 LeftClick  in window "MuLab : Some drums" : 805,645 -> 0000016296613230 = SBAR = hsbr = [217,641,1421,12]
+18:05:29:958 LeftClick  in window "MuLab : Some drums" : 849,271 -> 000001629661D478 = TLED = [217,-2128,2202,5120]
+18:05:29:995 Chk DblClk = 0
+18:05:30:624 Mouse Lasso 849,266,36,5
+18:05:32:040 LeftClick  in window "MuLab : Some drums" : 373,282 -> 000001629661D478 = TLED = [217,-2128,2202,5120]
+18:05:32:079 Chk DblClk = 0
+18:05:32:782 Mouse Lasso 373,282,737,95
+18:05:33:759 LeftClick  in window "MuLab : Some drums" : 579,693 -> 0000016296629808 = TLED = [217,660,2202,100]
+18:05:34:633 Mouse Lasso 576,701,8,59
+18:05:35:559 LeftClick  in window "MuLab" : 153,124 -> 0000001226360AA0 = PSBT = btn2 = [115,119,79,31] = "Relative"
+18:05:35:686 Change Value 2 => Relative
+18:05:35:687 UR action: Edit Event Value 2
+18:05:37:374 LeftClick  in window "MuLab : Some drums" : 578,706 -> 0000016296629808 = TLED = [217,660,2202,100]
+18:05:38:251 Mouse Lasso 576,717,8,43
+18:05:39:345 LeftClick  in window "MuLab" : 165,133 -> 0000001226360AA0 = PSBT = btn2 = [115,119,79,31] = "Relative"
+18:05:39:430 Change Value 2 => Relative
+18:05:39:432 UR action: Edit Event Value 2
+18:05:46:712 LeftClick  in window "MuLab : Some drums" : 583,717 -> 0000016296629808 = TLED = [217,660,2202,100]
+18:05:47:259 Mouse Lasso 576,704,8,56
+18:05:48:295 LeftClick  in window "MuLab" : 172,134 -> 0000001226360AA0 = PSBT = btn2 = [115,119,79,31] = "Relative"
+18:05:48:377 Change Value 2 => Relative
+18:05:48:377 UR action: Edit Event Value 2
+18:05:49:326 LeftClick  in window "MuLab : Some drums" : 301,833 -> 0000016296251D20 = MpuC = [248,824,112,18]
+18:05:49:492 Chk DblClk = 1
+18:05:50:726 LeftClick  in window "MuDrum Front Panel" : 330,291 -> 00000162969570B8 = GUIC = [297,258,68,64]
+18:05:53:702 LeftClick  in window "MuDrum Front Panel" : 745,283 -> 00000162984D6040 = SLDR = [737,271,32,32]
+18:05:55:020 UR action: Changed Element 1 -> VS
+18:05:55:819 LeftClick  in window "MuDrum Front Panel" : 744,550 -> 000001629677A720 = SLDR = [737,537,32,32]
+18:05:58:106 UR action: Changed Element 2 -> VS
+18:06:05:951 LeftClick  in window "MuDrum Front Panel" : 979,11 -> 0000016298854548 = PSBT = [970,4,17,17] = CloseDelete
+18:06:06:039 CF: 0000016298852010 = MEWd -> cuwd-clos = Close
+18:06:07:129 LeftClick  in window "MuLab : Some drums" : 334,211 -> 000001629661D478 = TLED = [217,-2128,2202,5120]
+18:06:07:629 Chk DblClk = 0
+18:06:08:567 LeftClick  in window "MuLab : Some drums" : 207,47 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+18:06:17:280 LeftClick  in window "MuLab : Some drums" : 420,125 -> 000001629031A400 = SPtC = [137,96,375,36]
+18:06:17:457 Chk DblClk = 1
+18:06:19:078 LeftClick  in window "MuLab : Some drums" : 206,48 -> 0000016295FDABF0 = TLBT = [168,33,71,30] = "COMPOSE"
+18:06:21:399 LeftClick  in window "MuLab : Some drums" : 291,833 -> 0000016298A119E0 = MpuC = [248,824,112,18]
+18:06:21:572 Chk DblClk = 1
+18:06:23:614 LeftClick  in window "MuDrum Front Panel" : 446,290 -> 0000016296B67DF8 = GUIC = [399,258,68,64]
+18:06:26:359 LeftClick  in window "MuDrum Front Panel" : 566,14 -> 00000162988577C8 = LABL = [4,4,987,19]
+18:06:27:817 LeftClick  in window "MuLab : Some drums" : 1681,210 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:32:542 LeftClick  in window "MuLab : Some drums" : 1697,387 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:33:000 LeftClick  in window "MuLab : Some drums" : 1756,408 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:33:108 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:33:121 File[94] fn=Rim.Xml, ec=2
+18:06:33:121 File[94] fn=Rim.Xml, ec=2
+18:06:33:495 LeftClick  in window "MuLab : Some drums" : 1759,427 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:33:605 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim808.Ogg
+18:06:33:617 File[94] fn=Rim808.Xml, ec=2
+18:06:33:617 File[94] fn=Rim808.Xml, ec=2
+18:06:33:976 LeftClick  in window "MuLab : Some drums" : 1761,455 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:34:089 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/RimCr78.Ogg
+18:06:34:099 File[94] fn=RimCr78.Xml, ec=2
+18:06:34:099 File[94] fn=RimCr78.Xml, ec=2
+18:06:34:494 LeftClick  in window "MuLab : Some drums" : 1758,490 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:34:609 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:35:022 LeftClick  in window "MuLab : Some drums" : 1759,461 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:35:125 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/RimCr78.Ogg
+18:06:35:399 LeftClick  in window "MuLab : Some drums" : 1761,443 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:35:488 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim909.Ogg
+18:06:35:508 File[94] fn=Rim909.Xml, ec=2
+18:06:35:508 File[94] fn=Rim909.Xml, ec=2
+18:06:35:743 LeftClick  in window "MuLab : Some drums" : 1761,425 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:35:847 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim808.Ogg
+18:06:36:320 LeftClick  in window "MuLab : Some drums" : 1761,425 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:36:428 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim808.Ogg
+18:06:36:887 LeftClick  in window "MuLab : Some drums" : 1748,405 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:36:998 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:37:559 LeftClick  in window "MuLab : Some drums" : 1748,423 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:37:676 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim808.Ogg
+18:06:37:974 LeftClick  in window "MuLab : Some drums" : 1746,455 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:38:077 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/RimCr78.Ogg
+18:06:38:632 LeftClick  in window "MuLab : Some drums" : 1744,442 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:38:767 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim909.Ogg
+18:06:39:270 LeftClick  in window "MuLab : Some drums" : 1743,485 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:39:393 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:40:471 LeftClick  in window "MuLab : Some drums" : 497,62 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:06:41:471 LeftClick  in window "MuLab : Some drums" : 1752,488 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:41:560 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:41:934 LeftClick  in window "MuLab : Some drums" : 1752,488 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:42:032 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:42:398 LeftClick  in window "MuLab : Some drums" : 1743,406 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:42:501 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:42:506 File[94] fn=Rim.Xml, ec=2
+18:06:42:506 File[94] fn=Rim.Xml, ec=2
+18:06:42:974 LeftClick  in window "MuLab : Some drums" : 1740,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:43:107 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:43:518 LeftClick  in window "MuLab : Some drums" : 1763,490 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:43:610 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:43:752 LeftClick  in window "MuLab : Some drums" : 1763,490 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:43:840 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:43:958 LeftClick  in window "MuLab : Some drums" : 1763,490 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:44:042 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:44:166 LeftClick  in window "MuLab : Some drums" : 1763,490 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:44:245 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Sticks.Ogg
+18:06:44:606 LeftClick  in window "MuLab : Some drums" : 1747,420 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:44:700 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim808.Ogg
+18:06:44:704 File[94] fn=Rim808.Xml, ec=2
+18:06:44:704 File[94] fn=Rim808.Xml, ec=2
+18:06:44:927 LeftClick  in window "MuLab : Some drums" : 1740,410 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:45:018 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:45:110 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:45:183 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:45:286 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:45:359 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:45:462 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:45:558 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:45:646 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:45:741 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:45:837 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:45:918 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:46:014 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:46:101 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:46:182 LeftClick  in window "MuLab : Some drums" : 1739,409 -> 00000162902422C0 = TREL = [1665,191,242,569]
+18:06:46:250 Project Browser Preview {AppLibrary}/Sample/Drums/RimSticks/Rim.Ogg
+18:06:47:111 LeftClick  in window "MuLab : Some drums" : 502,56 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:06:54:923 LeftClick  in window "MuDrum Front Panel" : 289,44 -> 0000016298D4B020 = PSBT = flsa = [279,31,31,31] = FileSaveAs
+18:06:57:391 LeftClick  in window "Save MuDrum as..." : 272,49 -> 00000012263635C8 = PSBT = favf = [259,31,38,38] = FavoriteFolder
+18:06:58:665 LeftClick  in window "" : 58,10 -> 00000012263426D0 = TREL = PULs = [0,0,149,68]
+18:06:58:665 Popup list choice = Goto Favorite Folder
+18:07:02:539 LeftClick  in window "" : 81,53 -> 0000001226349110 = TREL = PULs = [0,20,285,128]
+18:07:02:539 Popup list choice = User Library
+18:07:06:344 LeftClick  in window "Save MuDrum as..." : 123,271 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:07:534 LeftClick  in window "Save MuDrum as..." : 140,296 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:09:671 LeftClick  in window "Save MuDrum as..." : 137,296 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:11:049 LeftClick  in window "Save MuDrum as..." : 133,317 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:12:191 LeftClick  in window "Save MuDrum as..." : 118,266 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:13:550 LeftClick  in window "Save MuDrum as..." : 111,151 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:14:320 LeftClick  in window "Save MuDrum as..." : 119,170 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:15:030 LeftClick  in window "Save MuDrum as..." : 102,140 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:15:486 LeftClick  in window "Save MuDrum as..." : 105,151 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:16:071 LeftClick  in window "Save MuDrum as..." : 106,151 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:23:320 LeftClick  in window "Save MuDrum as..." : 124,208 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:23:848 LeftClick  in window "Save MuDrum as..." : 124,208 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:24:710 LeftClick  in window "Save MuDrum as..." : 124,251 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:25:351 LeftClick  in window "Save MuDrum as..." : 124,251 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:25:694 LeftClick  in window "Save MuDrum as..." : 122,267 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:27:045 LeftClick  in window "Save MuDrum as..." : 175,294 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:29:103 LeftClick  in window "Save MuDrum as..." : 147,296 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:29:846 LeftClick  in window "Save MuDrum as..." : 146,312 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:30:358 LeftClick  in window "Save MuDrum as..." : 141,312 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:30:737 LeftClick  in window "Save MuDrum as..." : 138,333 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:32:135 LeftClick  in window "Save MuDrum as..." : 156,354 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:32:623 LeftClick  in window "Save MuDrum as..." : 156,354 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:32:927 LeftClick  in window "Save MuDrum as..." : 157,327 -> 0000001226353258 = FLST = [12,77,600,600]
+18:07:34:087 LeftClick  in window "Save MuDrum as..." : 160,696 -> 0000001226360348 = PSBT = NEWF = [109,685,66,31] = "New File"
+18:07:35:724 Key  in window "New File Name" : Shift [D] XY = 0,0 -> 0000016295EFB5E0 = STVL = [12,31,400,22]
+18:07:35:924 Key  in window "New File Name" : [R] XY = 0,0 -> 0000016295EFB5E0 = STVL = [12,31,400,22]
+18:07:36:060 Key  in window "New File Name" : [U] XY = 0,0 -> 0000016295EFB5E0 = STVL = [12,31,400,22]
+18:07:36:277 Key  in window "New File Name" : [M] XY = 0,0 -> 0000016295EFB5E0 = STVL = [12,31,400,22]
+18:07:36:445 Key  in window "New File Name" : [S] XY = 0,0 -> 0000016295EFB5E0 = STVL = [12,31,400,22]
+18:07:36:764 Key  in window "New File Name" : [Return] XY = 0,0 -> 0000016295EFB5E0 = STVL = [12,31,400,22]
+18:07:40:742 LeftClick  in window "Drums Front Panel" : 296,42 -> 0000016298D4B020 = PSBT = flsa = [279,31,31,31] = FileSaveAs
+18:07:43:734 LeftClick  in window "Save Drums as..." : 493,701 -> 0000001226361C88 = PSBT = CNCL = [449,685,66,31] = "Cancel"
+18:07:53:321 LeftClick  in window "Drums Front Panel" : 975,9 -> 0000016298854548 = PSBT = [970,4,17,17] = CloseDelete
+18:07:53:366 CF: 0000016298852010 = MEWd -> cuwd-clos = Close
+18:07:54:415 LeftClick  in window "MuLab : Some drums" : 72,146 -> 0000016298D47BE0 = PSBT = +TRK = [4,132,126,21] = "+"
+18:07:55:481 LeftClick  in window "" : 73,13 -> 0000001226366A30 = TREL = PULs = [0,0,125,88]
+18:07:55:481 Popup list choice = Add Instrument Track
+18:07:55:484 CF: 000001628FEBFBE0 = comp -> comp-+Itr = Add Instrument Track
+18:07:56:534 LeftClick  in window "Choose Instrument" : 124,122 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:07:57:784 LeftClick  in window "Choose Instrument" : 140,147 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:08:01:046 LeftClick  in window "Choose Instrument" : 211,202 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:08:01:233 Chk DblClk = 1
+18:08:01:251 Load preset for 00000162986AB010 = mufx : {UserLibrary}/Mux/Audio Generators/SynthHost.Mux
+18:08:03:806 LeftClick  in window "SynthHost Front Panel" : 78,143 -> 0000016296E589E0 = MpuC = [41,133,112,18]
+18:08:03:978 Chk DblClk = 1
+18:08:05:074 LeftClick  in window "Oscilator Front Panel" : 718,13 -> 0000016298C21688 = PSBT = [709,4,17,17] = CloseDelete
+18:08:05:178 CF: 0000016298C1F150 = MEWd -> cuwd-clos = Close
+18:08:05:919 LeftClick  in window "SynthHost Front Panel" : 585,13 -> 0000016298D3A1D8 = PSBT = [570,4,17,17] = CloseDelete
+18:08:06:002 CF: 0000016298D37CA0 = MEWd -> cuwd-clos = Close
+18:08:06:655 RightClick  in window "MuLab : Some drums" : 509,839 -> 000001629683CB10 = MpuC = [466,824,112,18]
+18:08:07:551 LeftClick  in window "" : 94,72 -> 0000001226366B50 = TREL = PULs = [0,0,178,628]
+18:08:07:551 Popup list choice = Delete
+18:08:07:556 CF: 00000162986AB010 = mufx -> wobj-delt = Delete
+18:08:07:568 UR action: Delete MUX Modular "SynthHost"
+18:08:09:285 LeftClick  in window "MuLab : Some drums" : 538,831 -> 000001629683CB10 = MpuC = [466,824,112,18]
+18:08:09:473 Chk DblClk = 1
+18:08:09:544 RwrMpu[65] Not retrying failed rewire startup
+18:08:11:942 RightClick  in window "MuLab : Some drums" : 81,152 -> 000001629A1A3940 = LABL = [72,144,50,12]
+18:08:12:495 LeftClick  in window "" : 20,45 -> 00000012263607F0 = TREL = PULs = [0,0,168,288]
+18:08:12:798 LeftClick  in window "" : 21,42 -> 00000012263607F0 = TREL = PULs = [0,0,168,288]
+18:08:12:798 Popup list choice = Delete
+18:08:12:803 CF: 0000016296E4B8C0 = trac -> wobj-delt = Delete
+18:08:12:810 UR action: Delete Track "Rack 3"
+18:08:13:234 LeftClick  in window "MuLab : Some drums" : 74,141 -> 0000016298711790 = PSBT = +TRK = [4,132,126,21] = "+"
+18:08:14:574 LeftClick  in window "" : 82,22 -> 0000001226366A30 = TREL = PULs = [0,0,125,88]
+18:08:14:574 Popup list choice = Add Instrument Track
+18:08:14:580 CF: 000001628FEBFBE0 = comp -> comp-+Itr = Add Instrument Track
+18:08:15:430 LeftClick  in window "Choose Instrument" : 130,119 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:08:16:335 LeftClick  in window "Choose Instrument" : 138,144 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:08:18:599 LeftClick  in window "Choose Instrument" : 219,165 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:08:19:096 Chk DblClk = 0
+18:08:19:124 Load preset for 0000016298C29290 = mufx : {UserLibrary}/Mux/Audio Generators/DudCo Oscilator.Mux
+18:08:19:538 LeftClick  in window "Choose Instrument" : 233,166 -> 00000012263518D8 = TREL = [112,70,238,400]
+18:08:19:737 Chk DblClk = 1
+18:08:19:757 Load preset for 000001629B35A010 = mufx : {UserLibrary}/Mux/Audio Generators/DudCo Oscilator.Mux
+18:08:40:641 LeftClick  in window "DudCo Oscilator Front Panel" : 487,178 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:08:42:063 RightClick  in window "DudCo Oscilator Front Panel" : 461,145 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:08:43:136 LeftClick  in window "" : 60,112 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:08:43:136 Popup list choice = Randomize
+18:08:43:140 CF: 000001629B1C5358 =  wft ->  wft-rand = Randomize
+18:08:46:848 LeftClick  in window "MuLab" : 64,137 -> 000000122635FD10 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+18:08:46:987  => Randomize
+18:08:49:070 LeftClick  in window "MuLab" : 61,137 -> 000000122635FD10 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+18:08:49:214  => Randomize
+18:08:55:216 LeftClick  in window "MuLab" : 177,138 -> 00000012263609B0 = PSBT = btn2 = [117,119,81,31] = "Done"
+18:08:55:317  => Done
+18:08:55:320 UR action: Randomize WaveForm
+18:08:55:928 LeftClick  in window "MuLab : Some drums" : 504,45 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:08:57:525 RightClick  in window "DudCo Oscilator Front Panel" : 483,177 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:09:02:135 LeftClick  in window "" : 79,119 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:09:02:135 Popup list choice = Randomize
+18:09:02:138 CF: 000001629B1C5358 =  wft ->  wft-rand = Randomize
+18:09:08:219 LeftClick  in window "MuLab" : 70,132 -> 000000122635FD10 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+18:09:08:317  => Randomize
+18:09:10:270 LeftClick  in window "MuLab" : 70,132 -> 000000122635FD10 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+18:09:10:383  => Randomize
+18:09:12:263 LeftClick  in window "MuLab" : 70,132 -> 000000122635FD10 = PSBT = btn1 = [20,119,81,31] = "Randomize"
+18:09:12:387  => Randomize
+18:09:24:160 LeftClick  in window "MuLab" : 163,140 -> 00000012263609B0 = PSBT = btn2 = [117,119,81,31] = "Done"
+18:09:24:249  => Done
+18:09:24:251 UR action: Randomize WaveForm
+18:09:24:978 RightClick  in window "DudCo Oscilator Front Panel" : 471,172 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:09:31:354 RightClick  in window "DudCo Oscilator Front Panel" : 479,174 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:09:36:526 LeftClick  in window "" : 76,42 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:09:36:526 Popup list choice = Copy
+18:09:36:529 CF: 000001629B1C5358 =  wft -> wobj-copy = Copy
+18:09:36:825 RightClick  in window "DudCo Oscilator Front Panel" : 470,150 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:09:39:494 LeftClick  in window "" : 64,115 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:09:39:494 Popup list choice = Randomize
+18:09:39:498 CF: 000001629B1C5358 =  wft ->  wft-rand = Randomize
+18:09:43:478 LeftClick  in window "MuLab" : 164,144 -> 00000012263609B0 = PSBT = btn2 = [117,119,81,31] = "Done"
+18:09:43:587  => Done
+18:09:43:589 UR action: Randomize WaveForm
+18:09:43:892 RightClick  in window "DudCo Oscilator Front Panel" : 480,197 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:09:48:097 LeftClick  in window "" : 87,72 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:09:48:097 Popup list choice = Append
+18:09:48:100 CF: 000001629B1C5358 =  wft ->  wft-ApCB = Append Clipboard
+18:09:48:105 UR action: Append Clipboard
+18:09:52:400 RightClick  in window "DudCo Oscilator Front Panel" : 535,174 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:09:54:622 LeftClick  in window "" : 78,192 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:09:54:622 Popup list choice = Lowpass
+18:09:54:627 CF: 000001629B1C5358 =  wft ->  wft-lwps = Lowpass
+18:09:56:391 LeftClick  in window "Octaves" : 29,74 -> 0000016298711790 = PSBT = O.K. = [7,61,56,31] = "OK"
+18:09:56:500 UR action: Lowpass WaveForm
+18:10:00:683 RightClick  in window "DudCo Oscilator Front Panel" : 507,165 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:10:03:062 LeftClick  in window "" : 73,37 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:10:03:062 Popup list choice = Copy
+18:10:03:066 CF: 000001629B1C5358 =  wft -> wobj-copy = Copy
+18:10:03:598 RightClick  in window "DudCo Oscilator Front Panel" : 484,162 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:10:04:775 LeftClick  in window "" : 79,110 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:10:04:775 Popup list choice = Randomize
+18:10:04:780 CF: 000001629B1C5358 =  wft ->  wft-rand = Randomize
+18:10:09:528 LeftClick  in window "MuLab" : 161,140 -> 00000012263609B0 = PSBT = btn2 = [117,119,81,31] = "Done"
+18:10:09:631  => Done
+18:10:09:633 UR action: Randomize WaveForm
+18:10:09:970 RightClick  in window "DudCo Oscilator Front Panel" : 492,171 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:10:16:319 LeftClick  in window "" : 92,51 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:10:16:319 Popup list choice = Paste
+18:10:16:323 CF: 000001629B1C5358 =  wft -> wobj-past = Paste
+18:10:18:197 LeftClick  in window "Paste Waveform" : 44,96 -> 00000162987131B0 = PSBT = O.K. = [11,83,56,31] = "OK"
+18:10:18:324 UR action: Paste Waveform
+18:10:42:057 LeftClick  in window "DudCo Oscilator Front Panel" : 29,415 -> 00000162984DA2A0 = SLDR = [19,399,32,32]
+18:10:42:380 UR action: Changed ADSR Envelope -> Attack Time
+18:10:44:544 LeftClick  in window "DudCo Oscilator Front Panel" : 37,414 -> 00000162984DA2A0 = SLDR = [19,399,32,32]
+18:10:44:772 UR action: Changed ADSR Envelope -> Attack Time
+18:10:47:356 LeftClick  in window "DudCo Oscilator Front Panel" : 32,422 -> 00000162984DA2A0 = SLDR = [19,399,32,32]
+18:10:47:817 UR action: Changed ADSR Envelope -> Attack Time
+18:10:48:982 LeftClick  in window "DudCo Oscilator Front Panel" : 39,417 -> 00000162984DA2A0 = SLDR = [19,399,32,32]
+18:10:49:167 UR action: Changed ADSR Envelope -> Attack Time
+18:10:50:856 LeftClick  in window "DudCo Oscilator Front Panel" : 33,471 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:10:51:016 UR action: Changed ADSR Envelope -> Release Time
+18:10:52:826 LeftClick  in window "DudCo Oscilator Front Panel" : 36,465 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:10:53:012 UR action: Changed ADSR Envelope -> Release Time
+18:10:54:903 LeftClick  in window "DudCo Oscilator Front Panel" : 33,470 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:10:55:054 UR action: Changed ADSR Envelope -> Release Time
+18:10:56:953 LeftClick  in window "DudCo Oscilator Front Panel" : 39,464 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:10:57:144 UR action: Changed ADSR Envelope -> Release Time
+18:10:57:607 LeftClick  in window "DudCo Oscilator Front Panel" : 33,310 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:10:57:866 UR action: Changed ADSR Envelope -> Decay Level
+18:11:07:391 LeftClick  in window "DudCo Oscilator Front Panel" : 42,318 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:11:07:642 UR action: Changed ADSR Envelope -> Decay Level
+18:11:09:626 LeftClick  in window "DudCo Oscilator Front Panel" : 41,315 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:11:09:844 UR action: Changed ADSR Envelope -> Decay Level
+18:11:11:623 LeftClick  in window "DudCo Oscilator Front Panel" : 39,316 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:11:11:875 UR action: Changed ADSR Envelope -> Decay Level
+18:11:15:128 LeftClick  in window "DudCo Oscilator Front Panel" : 36,317 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:11:15:390 UR action: Changed ADSR Envelope -> Decay Level
+18:11:17:056 LeftClick  in window "DudCo Oscilator Front Panel" : 44,316 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:11:17:322 UR action: Changed ADSR Envelope -> Decay Level
+18:11:19:606 LeftClick  in window "DudCo Oscilator Front Panel" : 34,311 -> 00000162984D6B50 = SLDR = [19,299,32,32]
+18:11:19:924 UR action: Changed ADSR Envelope -> Decay Level
+18:11:25:073 LeftClick  in window "DudCo Oscilator Front Panel" : 41,470 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:11:25:265 UR action: Changed ADSR Envelope -> Release Time
+18:11:28:063 LeftClick  in window "DudCo Oscilator Front Panel" : 37,376 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:11:28:684 UR action: Changed ADSR Envelope -> Sustain
+18:11:28:684 Error MtOp[74]
+18:11:34:638 LeftClick  in window "DudCo Oscilator Front Panel" : 32,363 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:11:34:904 UR action: Changed ADSR Envelope -> Sustain
+18:11:39:513 LeftClick  in window "DudCo Oscilator Front Panel" : 32,470 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:11:39:850 UR action: Changed ADSR Envelope -> Release Time
+18:11:41:387 LeftClick  in window "DudCo Oscilator Front Panel" : 34,451 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:11:41:635 UR action: Changed ADSR Envelope -> Release Time
+18:11:52:048 LeftClick  in window "DudCo Oscilator Front Panel" : 28,364 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:11:52:308 UR action: Changed ADSR Envelope -> Sustain
+18:11:53:935 LeftClick  in window "DudCo Oscilator Front Panel" : 31,359 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:11:54:330 UR action: Changed ADSR Envelope -> Sustain
+18:11:56:903 LeftClick  in window "DudCo Oscilator Front Panel" : 36,368 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:11:57:088 UR action: Changed ADSR Envelope -> Sustain
+18:11:58:936 LeftClick  in window "DudCo Oscilator Front Panel" : 32,358 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:11:59:120 UR action: Changed ADSR Envelope -> Sustain
+18:12:00:646 LeftClick  in window "DudCo Oscilator Front Panel" : 34,369 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:12:01:022 UR action: Changed ADSR Envelope -> Sustain
+18:12:01:702 LeftClick  in window "DudCo Oscilator Front Panel" : 38,379 -> 00000162984D07C0 = SLDR = [19,349,32,32]
+18:12:02:616 UR action: Changed ADSR Envelope -> Sustain
+18:13:23:384 LeftClick  in window "DudCo Oscilator Front Panel" : 26,228 -> 00000162984D6040 = SLDR = [19,209,32,32]
+18:13:30:473 UR action: Changed Oscillator -> Volume
+18:13:31:327 LeftClick  in window "DudCo Oscilator Front Panel" : 268,163 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:13:31:513 Chk DblClk = 1
+18:13:31:583 RwrMpu[65] Not retrying failed rewire startup
+18:13:32:575 LeftClick  in window "" : 82,99 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:13:34:703 LeftClick  in window "" : 147,132 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:13:43:716 LeftClick  in window "" : 172,592 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:13:43:716 Popup list choice = Resonator
+18:13:46:758 LeftClick  in window "Resonator" : 220,22 -> 00000162988577C8 = LABL = [4,4,404,19]
+18:13:48:433 LeftClick  in window "Resonator" : 29,94 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:13:56:148 UR action: Changed Resonator -> Pitch
+18:13:57:294 LeftClick  in window "Resonator" : 303,92 -> 00000162984CD070 = SLDR = [280,82,32,32]
+18:14:00:048 UR action: Changed Resonator -> Damping
+18:14:01:469 LeftClick  in window "Resonator" : 150,136 -> 0000016298719A30 = PSBT = list = [148,126,18,18] = ArrowDown
+18:14:04:952 LeftClick  in window "Resonator" : 171,102 -> 00000162984D1DE0 = SLDR = [148,82,32,32]
+18:14:05:831 UR action: Changed Resonator -> Decay Time
+18:14:07:356 LeftClick  in window "Resonator" : 167,103 -> 00000162984D1DE0 = SLDR = [148,82,32,32]
+18:14:07:739 UR action: Changed Resonator -> Decay Time
+18:14:09:027 LeftClick  in window "Resonator" : 169,96 -> 00000162984D1DE0 = SLDR = [148,82,32,32]
+18:14:09:351 UR action: Changed Resonator -> Decay Time
+18:14:10:928 LeftClick  in window "Resonator" : 38,96 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:14:16:281 UR action: Changed Resonator -> Pitch
+18:14:17:158 LeftClick  in window "Resonator" : 31,102 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:14:17:499 UR action: Changed Resonator -> Pitch
+18:14:19:892 LeftClick  in window "Resonator" : 25,49 -> 000001629AC03A10 = MPBt = [12,32,28,28]
+18:14:21:598 LeftClick  in window "Resonator" : 397,13 -> 0000016298854548 = PSBT = [387,4,17,17] = CloseDelete
+18:14:21:717 CF: 0000016298852010 = MEWd -> cuwd-clos = Close
+18:14:22:283 RightClick  in window "DudCo Oscilator Front Panel" : 243,160 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:14:23:446 LeftClick  in window "" : 75,78 -> 0000001226366D90 = TREL = PULs = [0,0,168,368]
+18:14:23:446 Popup list choice = Delete
+18:14:23:450 CF: 000001629B0FA610 = TnEc -> wobj-delt = Delete
+18:14:23:451 UR action: Delete Resonator "Resonator"
+18:14:24:182 LeftClick  in window "DudCo Oscilator Front Panel" : 634,289 -> 0000016298D3C558 = PSBT = [595,275,75,20] = "LAYERS"
+18:14:25:439 LeftClick  in window "Oscillator Layer Setup" : 195,15 -> 000001629A7D87C8 = LABL = [4,4,461,19]
+18:14:26:295 LeftClick  in window "Oscillator Layer Setup" : 40,40 -> 000001629B104A28 = RDBT = [12,31,74,31] = "Quick Edit"
+18:14:36:919 LeftClick  in window "Oscillator Layer Setup" : 213,12 -> 000001629A7D5548 = PSBT = [204,4,17,17] = CloseDelete
+18:14:37:018 CF: 000001629A7D3010 = flwd -> cuwd-clos = Close
+18:14:38:353 LeftClick  in window "DudCo Oscilator Front Panel" : 274,160 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:14:38:504 Chk DblClk = 1
+18:14:38:576 RwrMpu[65] Not retrying failed rewire startup
+18:14:40:168 LeftClick  in window "" : 103,61 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:14:41:430 LeftClick  in window "" : 103,56 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:14:41:862 LeftClick  in window "" : 101,91 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:14:43:039 LeftClick  in window "" : 165,129 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:15:01:423 LeftClick  in window "" : 160,189 -> 0000001226361490 = TREL = PULs = [0,0,285,944]
+18:15:01:423 Popup list choice = Amp. Distortion
+18:15:02:280 LeftClick  in window "Amp. Distortion" : 216,19 -> 000001629673CC38 = LABL = [4,4,558,19]
+18:15:06:715 LeftClick  in window "Amp. Distortion" : 38,102 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:15:08:060 UR action: Changed Amp. Distortion -> Input Gain
+18:15:08:559 LeftClick  in window "Amp. Distortion" : 32,145 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:10:727 UR action: Changed Amp. Distortion -> Output Gain
+18:15:12:371 LeftClick  in window "Amp. Distortion" : 39,99 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:15:12:752 UR action: Changed Amp. Distortion -> Input Gain
+18:15:18:047 LeftClick  in window "Amp. Distortion" : 32,100 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:15:20:301 UR action: Changed Amp. Distortion -> Input Gain
+18:15:20:666 LeftClick  in window "Amp. Distortion" : 37,151 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:22:265 UR action: Changed Amp. Distortion -> Output Gain
+18:15:22:720 LeftClick  in window "Amp. Distortion" : 37,97 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:15:31:283 UR action: Changed Amp. Distortion -> Input Gain
+18:15:33:886 LeftClick  in window "Amp. Distortion" : 250,125 -> 000001629A32DD30 = LABL = [230,112,34,18]
+18:15:36:391 LeftClick  in window "Amp. Distortion" : 335,97 -> 0000016298719A30 = PSBT = list = [327,86,18,18] = ArrowDown
+18:15:37:231 LeftClick  in window "" : 70,158 -> 0000016298A8D100 = TREL = PULs = [0,0,97,288]
+18:15:37:231 Popup list choice = Saw Down Wave
+18:15:42:734 LeftClick  in window "Amp. Distortion" : 264,125 -> 000001629A32DD30 = LABL = [239,112,40,18]
+18:15:47:822 LeftClick  in window "Amp. Distortion" : 27,94 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:15:49:300 UR action: Changed Amp. Distortion -> Input Gain
+18:15:50:422 LeftClick  in window "Amp. Distortion" : 34,100 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:15:50:680 UR action: Changed Amp. Distortion -> Input Gain
+18:15:51:639 LeftClick  in window "Amp. Distortion" : 30,151 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:52:960 UR action: Changed Amp. Distortion -> Output Gain
+18:15:53:887 LeftClick  in window "Amp. Distortion" : 39,149 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:54:540 UR action: Changed Amp. Distortion -> Output Gain
+18:15:55:592 LeftClick  in window "Amp. Distortion" : 36,151 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:55:914 UR action: Changed Amp. Distortion -> Output Gain
+18:15:56:469 LeftClick  in window "Amp. Distortion" : 37,149 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:57:043 UR action: Changed Amp. Distortion -> Output Gain
+18:15:57:673 LeftClick  in window "Amp. Distortion" : 27,150 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:15:57:849 UR action: Changed Amp. Distortion -> Output Gain
+18:15:58:592 LeftClick  in window "Amp. Distortion" : 339,99 -> 0000016298719A30 = PSBT = list = [336,86,18,18] = ArrowDown
+18:15:59:625 LeftClick  in window "" : 61,114 -> 0000016298A8D100 = TREL = PULs = [0,0,97,288]
+18:15:59:626 Popup list choice = Block Wave
+18:16:01:983 LeftClick  in window "Amp. Distortion" : 344,95 -> 0000016298719A30 = PSBT = list = [336,86,18,18] = ArrowDown
+18:16:02:926 LeftClick  in window "" : 82,142 -> 0000016298A8D100 = TREL = PULs = [0,0,97,288]
+18:16:02:927 Popup list choice = Saw Up Wave
+18:16:05:076 LeftClick  in window "Amp. Distortion" : 35,103 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:16:05:910 UR action: Changed Amp. Distortion -> Input Gain
+18:16:06:418 LeftClick  in window "Amp. Distortion" : 35,98 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:16:07:568 UR action: Changed Amp. Distortion -> Input Gain
+18:16:07:823 LeftClick  in window "Amp. Distortion" : 31,144 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:16:08:902 UR action: Changed Amp. Distortion -> Output Gain
+18:16:10:087 LeftClick  in window "Amp. Distortion" : 31,143 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:16:10:368 UR action: Changed Amp. Distortion -> Output Gain
+18:16:10:999 LeftClick  in window "Amp. Distortion" : 27,102 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:16:11:276 UR action: Changed Amp. Distortion -> Input Gain
+18:16:11:731 LeftClick  in window "Amp. Distortion" : 29,104 -> 00000162984D12D0 = SLDR = [16,82,32,32]
+18:16:11:916 UR action: Changed Amp. Distortion -> Input Gain
+18:16:12:352 LeftClick  in window "Amp. Distortion" : 25,139 -> 00000162984CD070 = SLDR = [16,130,32,32]
+18:16:12:635 UR action: Changed Amp. Distortion -> Output Gain
+18:16:26:765 LeftClick  in window "DudCo Oscilator Front Panel" : 28,468 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:16:26:989 UR action: Changed ADSR Envelope -> Release Time
+18:16:27:513 LeftClick  in window "DudCo Oscilator Front Panel" : 32,473 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:16:27:688 UR action: Changed ADSR Envelope -> Release Time
+18:16:29:032 LeftClick  in window "DudCo Oscilator Front Panel" : 37,471 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:16:29:302 UR action: Changed ADSR Envelope -> Release Time
+18:16:29:975 LeftClick  in window "DudCo Oscilator Front Panel" : 35,464 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:16:30:172 UR action: Changed ADSR Envelope -> Release Time
+18:16:30:719 LeftClick  in window "DudCo Oscilator Front Panel" : 35,461 -> 00000162984DC3D0 = SLDR = [19,449,32,32]
+18:16:31:035 UR action: Changed ADSR Envelope -> Release Time
+18:16:36:483 LeftClick  in window "Amp. Distortion" : 167,206 -> 0000016298A8C8B8 = XCEd = [144,78,410,177]
+18:16:39:215 LeftClick  in window "Amp. Distortion" : 264,120 -> 000001629A32DD30 = LABL = [239,112,40,18]
+18:16:41:047 LeftClick  in window "Amp. Distortion" : 272,115 -> 000001629A32DD30 = LABL = [239,112,40,18]
+18:16:43:810 LeftClick  in window "Amp. Distortion" : 555,18 -> 00000162967399B8 = PSBT = [541,4,17,17] = CloseDelete
+18:16:43:924 CF: 0000016296737480 = MEWd -> cuwd-clos = Close
+18:16:44:697 RightClick  in window "DudCo Oscilator Front Panel" : 265,162 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:16:45:854 LeftClick  in window "" : 73,50 -> 0000001226366D90 = TREL = PULs = [0,0,168,368]
+18:16:45:854 Popup list choice = Replace
+18:16:45:858 CF: 0000016299B8ECE0 = tnhd ->  mpu-rplc = Replace
+18:16:45:933 RwrMpu[65] Not retrying failed rewire startup
+18:16:47:056 LeftClick  in window "" : 119,57 -> 00000012263354D0 = TREL = PULs = [0,0,285,944]
+18:16:47:911 LeftClick  in window "" : 128,69 -> 00000012263354D0 = TREL = PULs = [0,0,285,944]
+18:16:49:023 LeftClick  in window "" : 142,144 -> 00000012263354D0 = TREL = PULs = [0,0,285,944]
+18:16:52:136 LeftClick  in window "" : 141,146 -> 00000012263354D0 = TREL = PULs = [0,0,285,944]
+18:16:52:590 LeftClick  in window "" : 142,177 -> 00000012263354D0 = TREL = PULs = [0,0,285,944]
+18:16:53:853 LeftClick  in window "" : 162,289 -> 00000012263354D0 = TREL = PULs = [0,0,285,944]
+18:16:53:853 Popup list choice = Sat Repeats
+18:16:53:858 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Echo/Sat Repeats.Mux
+18:16:56:604 LeftClick  in window "Sat Repeats Front Panel" : 252,16 -> 000001629A7D87C8 = LABL = [4,4,590,19]
+18:16:59:455 LeftClick  in window "Sat Repeats Front Panel" : 204,47 -> 0000016298719A30 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:16:59:605 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Echo/Scope-A-Lay.Mux
+18:17:00:330 LeftClick  in window "Scope-A-Lay Front Panel" : 200,47 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:00:479 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Echo/Vintage Echo 1.Mux
+18:17:08:479 LeftClick  in window "Vintage Echo 1 Front Panel" : 199,53 -> 0000016298D447A0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:08:612 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Echo/Vintage Echo 2.Mux
+18:17:09:607 LeftClick  in window "Vintage Echo 2 Front Panel" : 199,50 -> 0000016298D4B020 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:09:746 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Echo/Wacky Filtered Echo.Mux
+18:17:10:527 LeftClick  in window "Wacky Filtered Echo Front Panel" : 198,50 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:10:644 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Event FX/Basic Step Sequencer.Mux
+18:17:12:952 LeftClick  in window "Basic Step Sequencer Front Panel" : 85,171 -> 000001629AB00188 = GUIC = [74,160,897,337]
+18:17:12:998 UR action: Edit Pattern
+18:17:13:730 LeftClick  in window "Basic Step Sequencer Front Panel" : 85,171 -> 000001629AB00188 = GUIC = [74,160,897,337]
+18:17:13:831 UR action: Edit Pattern
+18:17:17:607 LeftClick  in window "Basic Step Sequencer Front Panel" : 581,166 -> 000001629875EB50 = GUIC = [544,139,70,51]
+18:17:19:207 LeftClick  in window "Basic Step Sequencer Front Panel" : 581,166 -> 000001629875EB50 = GUIC = [544,139,70,51]
+18:17:20:414 LeftClick  in window "Basic Step Sequencer Front Panel" : 201,44 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:20:560 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Experimental Units/Filter with Multi-FX.Mux
+18:17:39:752 LeftClick  in window "Filter with Multi-FX Front Panel" : 192,42 -> 0000016298D447A0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:39:878 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Experimental Units/Live Effects.Mux
+18:17:41:048 LeftClick  in window "Live Effects Front Panel" : 201,46 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:41:184 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Experimental Units/Multiband Gater-Effects Unit.Mux
+18:17:42:431 LeftClick  in window "Multiband Gater-Effects Unit Front Panel" : 201,46 -> 0000016298D4B020 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:42:592 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Experimental Units/Stutter.Mux
+18:17:44:742 LeftClick  in window "Stutter Front Panel" : 56,120 -> 000001629875EB50 = GUIC = [44,99,40,41]
+18:17:57:975 LeftClick  in window "Stutter Front Panel" : 196,44 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:17:58:058 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Experimental Units/The Spiral Echo.Mux
+18:18:06:079 LeftClick  in window "The Spiral Echo Front Panel" : 341,110 -> 000001629677FFA0 = SLDR = [326,84,32,32]
+18:18:06:565 UR action: Changed The Spiral Echo -> Down/Up
+18:18:11:511 LeftClick  in window "The Spiral Echo Front Panel" : 347,90 -> 000001629677FFA0 = SLDR = [326,84,32,32]
+18:18:12:179 UR action: Changed The Spiral Echo -> Down/Up
+18:18:13:546 LeftClick  in window "The Spiral Echo Front Panel" : 344,96 -> 000001629677FFA0 = SLDR = [326,84,32,32]
+18:18:14:137 UR action: Changed The Spiral Echo -> Down/Up
+18:18:16:264 LeftClick  in window "The Spiral Echo Front Panel" : 199,51 -> 0000016298D4B020 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:18:16:369 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Filters/2 Band EQ.Mux
+18:18:17:842 LeftClick  in window "2 Band EQ Front Panel" : 199,51 -> 0000016298D447A0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:18:17:978 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Filters/4 Band EQ.Mux
+18:18:18:726 LeftClick  in window "4 Band EQ Front Panel" : 135,35 -> 0000016296268A60 = Mebc = [4,23,522,47]
+18:18:19:054 LeftClick  in window "4 Band EQ Front Panel" : 130,44 -> 000001629A29C2A0 = LABL = PNam = [66,37,125,18]
+18:18:20:087 LeftClick  in window "" : 104,211 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:20:929 LeftClick  in window "" : 126,227 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:21:375 LeftClick  in window "" : 126,227 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:21:809 LeftClick  in window "" : 135,257 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:22:328 LeftClick  in window "" : 135,261 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:22:719 LeftClick  in window "" : 133,270 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:23:646 LeftClick  in window "" : 132,271 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:24:295 LeftClick  in window "" : 125,293 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:26:034 LeftClick  in window "" : 122,307 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:18:26:034 Popup list choice = Crazy
+18:18:26:040 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Others/Crazy.Mux
+18:18:30:217 LeftClick  in window "Crazy Front Panel" : 195,46 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:18:30:331 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Others/Kanzaar.Mux
+18:18:35:264 LeftClick  in window "Kanzaar Front Panel" : 370,47 -> 000001629626B8D8 = PSBT = [358,31,31,31] = Modular
+18:18:38:372 LeftClick  in window "Kanzaar Modular Area" : 633,181 -> 000001629CFAE338 = SBAR = vsbr = [624,146,12,337]
+18:18:39:359 LeftClick  in window "Kanzaar Modular Area" : 339,239 -> 000001628EF86820 = MEMC = [292,222,101,20]
+18:18:39:527 Chk DblClk = 1
+18:18:40:794 LeftClick  in window "Kanzaar Modular Area" : 344,17 -> 000001629673CC38 = LABL = [4,4,640,19]
+18:18:43:258 LeftClick  in window "Mono Echo (Short)" : 193,10 -> 000001629A9917D8 = LABL = [4,4,272,19]
+18:18:43:412 Chk DblClk = 0
+18:18:46:417 LeftClick  in window "Kanzaar Front Panel" : 108,98 -> 00000162984CD070 = SLDR = [98,84,32,32]
+18:19:02:030 UR action: Changed Kanzaar -> Delay.Time
+18:19:02:639 LeftClick  in window "Kanzaar Front Panel" : 248,100 -> 00000162984D1DE0 = SLDR = [228,84,32,32]
+18:19:03:272 UR action: Changed Kanzaar -> Feedback
+18:19:03:943 LeftClick  in window "Kanzaar Front Panel" : 110,96 -> 00000162984CD070 = SLDR = [98,84,32,32]
+18:19:18:640 UR action: Changed Kanzaar -> Delay.Time
+18:19:19:864 LeftClick  in window "Kanzaar Front Panel" : 28,44 -> 0000016296C67390 = MPBt = [12,32,28,28]
+18:19:21:313 LeftClick  in window "Mono Echo (Short)" : 266,12 -> 000001629A98E558 = PSBT = [255,4,17,17] = CloseDelete
+18:19:21:405 CF: 000001629A98C020 = MEWd -> cuwd-clos = Close
+18:19:22:080 LeftClick  in window "Kanzaar Front Panel" : 467,12 -> 000001629A7D5548 = PSBT = [454,4,17,17] = CloseDelete
+18:19:22:210 CF: 000001629A7D3010 = MEWd -> cuwd-clos = Close
+18:19:23:157 LeftClick  in window "Kanzaar Modular Area" : 139,43 -> 000001629A29DF50 = LABL = PNam = [66,37,125,18]
+18:19:25:042 LeftClick  in window "" : 140,348 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:19:25:042 Popup list choice = Octaved Resonator
+18:19:25:049 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Others/Octaved Resonator.Mux
+18:19:27:255 LeftClick  in window "Octaved Resonator Modular Area" : 378,6 -> 000001629673CC38 = LABL = [4,4,640,19]
+18:19:28:232 LeftClick  in window "Octaved Resonator Modular Area" : 629,11 -> 00000162967399B8 = PSBT = [623,4,17,17] = CloseDelete
+18:19:28:337 CF: 0000016296737480 = MEWd -> cuwd-clos = Close
+18:19:29:049 LeftClick  in window "DudCo Oscilator Front Panel" : 251,168 -> 000001629AD17EB0 = VMEd = [165,165,289,34]
+18:19:29:118 RwrMpu[65] Not retrying failed rewire startup
+18:19:29:219 LeftClick  in window "" : 0,345 -> 00000012263614F0 = TREL = PULs = [0,0,285,944]
+18:19:30:545 LeftClick  in window "DudCo Oscilator Front Panel" : 231,157 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:19:30:730 Chk DblClk = 1
+18:19:32:874 LeftClick  in window "Octaved Resonator Front Panel" : 197,47 -> 0000016298719A30 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:32:987 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Others/Play FX.Mux
+18:19:34:231 LeftClick  in window "Play FX Front Panel" : 197,47 -> 0000016298D4FE80 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:34:367 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Others/RingModSynth.Mux
+18:19:36:335 LeftClick  in window "RingModSynth Front Panel" : 346,229 -> 000001629677BD40 = SLDR = [304,108,80,240]
+18:19:36:765 UR action: Changed RingModSynth -> Tune
+18:19:37:496 LeftClick  in window "RingModSynth Front Panel" : 348,119 -> 000001629677BD40 = SLDR = [304,108,80,240]
+18:19:37:867 UR action: Changed RingModSynth -> Tune
+18:19:38:750 LeftClick  in window "RingModSynth Front Panel" : 204,48 -> 0000016298D454B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:38:878 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Phaser/Phaser.Mux
+18:19:40:798 LeftClick  in window "Phaser Front Panel" : 205,48 -> 0000016298D447A0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:40:923 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Pitch Shifter/Pitch Shifter.Mux
+18:19:42:343 LeftClick  in window "Pitch Shifter Front Panel" : 204,48 -> 0000016298D4B020 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:42:469 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Reverb/Cave.Mux
+18:19:43:886 LeftClick  in window "Cave Front Panel" : 131,49 -> 000001629C12E5B0 = LABL = PNam = [66,37,125,18]
+18:19:45:618 LeftClick  in window "" : 107,358 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:19:46:184 LeftClick  in window "" : 109,375 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:19:46:837 LeftClick  in window "" : 109,375 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:19:48:823 LeftClick  in window "" : 151,130 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:19:51:403 LeftClick  in window "" : 160,149 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:19:51:403 Popup list choice = Amp SIM 30
+18:19:51:411 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Distortion/Amp SIM 30.Mux
+18:19:54:247 LeftClick  in window "Amp SIM 30 Front Panel" : 197,47 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:54:391 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Distortion/Amp SIM Metal.Mux
+18:19:55:761 LeftClick  in window "Amp SIM Metal Front Panel" : 198,48 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:19:55:862 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Distortion/Crusher.Mux
+18:19:57:373 LeftClick  in window "Crusher Front Panel" : 111,106 -> 00000162967836F0 = SLDR = [98,84,32,32]
+18:19:57:859 UR action: Changed Crusher -> Distortion
+18:19:58:278 LeftClick  in window "Crusher Front Panel" : 249,6 -> 000001629673CC38 = LABL = [4,4,471,19]
+18:19:59:544 LeftClick  in window "Crusher Front Panel" : 109,103 -> 00000162967836F0 = SLDR = [98,84,32,32]
+18:19:59:863 UR action: Changed Crusher -> Distortion
+18:20:01:496 LeftClick  in window "Crusher Front Panel" : 262,164 -> 0000016296782BE0 = SLDR = [248,154,32,32]
+18:20:02:110 UR action: Changed Crusher -> Out Volume
+18:20:02:343 LeftClick  in window "Crusher Front Panel" : 261,109 -> 000001629677D360 = SLDR = [248,104,32,32]
+18:20:05:285 UR action: Changed Crusher -> Mix Level
+18:20:05:921 LeftClick  in window "Crusher Front Panel" : 363,44 -> 000001629A57FE88 = PSBT = [358,31,31,31] = Modular
+18:20:07:809 LeftClick  in window "Crusher Modular Area" : 664,11 -> 000001629A98E558 = PSBT = [650,4,17,17] = CloseDelete
+18:20:07:927 CF: 000001629A98C020 = MEWd -> cuwd-clos = Close
+18:20:08:809 LeftClick  in window "DudCo Oscilator Front Panel" : 181,162 -> 000001629A7E6ED8 = MPBt = prcs = [176,156,12,12]
+18:20:10:670 LeftClick  in window "DudCo Oscilator Front Panel" : 181,162 -> 000001629A7E6ED8 = MPBt = prcs = [176,156,12,12]
+18:20:12:392 LeftClick  in window "Crusher Front Panel" : 118,99 -> 00000162967836F0 = SLDR = [98,84,32,32]
+18:20:14:099 UR action: Changed Crusher -> Distortion
+18:20:15:295 LeftClick  in window "Crusher Front Panel" : 103,104 -> 00000162967836F0 = SLDR = [98,84,32,32]
+18:20:15:566 UR action: Changed Crusher -> Distortion
+18:20:19:247 LeftClick  in window "Crusher Front Panel" : 63,45 -> 0000016298D4A310 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+18:20:19:389 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Distortion/Amp SIM Metal.Mux
+18:20:22:500 LeftClick  in window "Amp SIM Metal Front Panel" : 59,48 -> 000001629871A740 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+18:20:22:602 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Distortion/Amp SIM 30.Mux
+18:20:25:567 LeftClick  in window "Amp SIM 30 Front Panel" : 59,48 -> 0000016298D488F0 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+18:20:25:690 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Delay/Chaoszilator.Mux
+18:20:28:979 LeftClick  in window "Chaoszilator Front Panel" : 165,48 -> 000001629A29C2A0 = LABL = PNam = [66,37,125,18]
+18:20:30:166 LeftClick  in window "" : 106,109 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:20:30:825 LeftClick  in window "" : 127,140 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:20:31:648 LeftClick  in window "" : 159,225 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:20:31:648 Popup list choice = Multi-Band Crunch
+18:20:31:656 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Distortion/Multi-Band Crunch.Mux
+18:20:38:649 LeftClick  in window "Multi-Band Crunch Front Panel" : 204,50 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:20:38:725 Load preset for 0000016296745CB0 = mufx : {AppLibrary}/Mux/Effects/Echo/ElectroShock.Mux
+18:20:40:058 LeftClick  in window "ElectroShock Front Panel" : 138,40 -> 000001629A29E8E0 = LABL = PNam = [66,37,125,18]
+18:20:40:991 LeftClick  in window "" : 130,148 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:20:41:304 LeftClick  in window "" : 132,139 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:20:48:982 LeftClick  in window "ElectroShock Front Panel" : 35,39 -> 0000016296C5D970 = MPBt = [12,32,28,28]
+18:20:49:783 LeftClick  in window "ElectroShock Front Panel" : 635,16 -> 00000162967399B8 = PSBT = [627,4,17,17] = CloseDelete
+18:20:49:896 CF: 0000016296737480 = MEWd -> cuwd-clos = Close
+18:20:52:459 RightClick  in window "DudCo Oscilator Front Panel" : 254,162 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:20:53:095 LeftClick  in window "" : 53,71 -> 0000001226366D90 = TREL = PULs = [0,0,178,548]
+18:20:53:095 Popup list choice = Delete
+18:20:53:099 CF: 0000016296745CB0 = mufx -> wobj-delt = Delete
+18:20:53:100 UR action: Delete MUX Modular "ElectroShock"
+18:21:03:279 LeftClick  in window "DudCo Oscilator Front Panel" : Ctrl 301,110 -> 000001629AFC3810 = MpuC = [241,103,156,18]
+18:21:03:333 Drag 000001629AFC3810 = MpuC = [241,103,156,18]
+18:21:04:069 Drop on 000001629A7E7720 = MpuC = [191,153,201,18]
+18:21:04:391 LeftClick  in window "DudCo Oscilator Front Panel" : 277,161 -> 000001629A7E7720 = MpuC = [191,153,201,18]
+18:21:04:559 Chk DblClk = 1
+18:21:05:479 LeftClick  in window "MultiMode Filter" : 162,86 -> 0000016298D488F0 = PSBT = list = [156,78,18,18] = ArrowDown
+18:21:06:743 LeftClick  in window "" : 48,135 -> 00000162963CF8C8 = TREL = PULs = [0,0,75,168]
+18:21:06:743 Popup list choice = Peak
+18:21:08:015 LeftClick  in window "MultiMode Filter" : 294,127 -> 00000162984CF1A0 = SLDR = [280,108,32,32]
+18:21:08:517 UR action: Changed MultiMode Filter -> Gain
+18:21:09:202 LeftClick  in window "MultiMode Filter" : 313,17 -> 000001629673CC38 = LABL = [4,4,536,19]
+18:21:10:687 LeftClick  in window "MultiMode Filter" : 160,125 -> 00000162984CD070 = SLDR = [148,108,32,32]
+18:21:11:408 UR action: Changed MultiMode Filter -> Q Factor
+18:21:12:103 LeftClick  in window "MultiMode Filter" : 298,128 -> 00000162984CF1A0 = SLDR = [280,108,32,32]
+18:21:12:468 UR action: Changed MultiMode Filter -> Gain
+18:21:13:504 LeftClick  in window "MultiMode Filter" : 158,128 -> 00000162984CD070 = SLDR = [148,108,32,32]
+18:21:14:717 UR action: Changed MultiMode Filter -> Q Factor
+18:21:15:480 LeftClick  in window "MultiMode Filter" : 36,131 -> 00000162984D12D0 = SLDR = [16,108,32,32]
+18:21:18:837 UR action: Changed MultiMode Filter -> Frequency
+18:21:25:178 LeftClick  in window "MultiMode Filter" : 292,125 -> 00000162984CF1A0 = SLDR = [280,108,32,32]
+18:21:28:451 UR action: Changed MultiMode Filter -> Gain
+18:21:29:436 LeftClick  in window "MultiMode Filter" : 166,126 -> 00000162984CD070 = SLDR = [148,108,32,32]
+18:21:31:952 UR action: Changed MultiMode Filter -> Q Factor
+18:21:32:393 LeftClick  in window "MultiMode Filter" : 307,130 -> 00000162984CF1A0 = SLDR = [280,108,32,32]
+18:21:32:962 UR action: Changed MultiMode Filter -> Gain
+18:21:34:375 LeftClick  in window "MultiMode Filter" : 294,133 -> 00000162984CF1A0 = SLDR = [280,108,32,32]
+18:21:34:714 UR action: Changed MultiMode Filter -> Gain
+18:21:36:247 LeftClick  in window "MultiMode Filter" : 173,127 -> 00000162984CD070 = SLDR = [148,108,32,32]
+18:21:38:193 UR action: Changed MultiMode Filter -> Q Factor
+18:21:38:774 LeftClick  in window "MultiMode Filter" : 25,131 -> 00000162984D12D0 = SLDR = [16,108,32,32]
+18:21:44:222 UR action: Changed MultiMode Filter -> Frequency
+18:21:47:991 LeftClick  in window "MultiMode Filter" : 34,129 -> 00000162984D12D0 = SLDR = [16,108,32,32]
+18:21:57:039 UR action: Changed MultiMode Filter -> Frequency
+18:21:57:515 LeftClick  in window "MultiMode Filter" : 34,49 -> 0000016296C56190 = MPBt = [12,32,28,28]
+18:21:59:683 LeftClick  in window "MultiMode Filter" : 528,6 -> 00000162967399B8 = PSBT = [519,4,17,17] = CloseDelete
+18:21:59:770 CF: 0000016296737480 = MEWd -> cuwd-clos = Close
+18:22:05:173 LeftClick  in window "DudCo Oscilator Front Panel" : 529,140 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:05:368 UR action: Draw WaveForm
+18:22:05:606 LeftClick  in window "DudCo Oscilator Front Panel" : 536,139 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:05:793 UR action: Draw WaveForm
+18:22:05:991 LeftClick  in window "DudCo Oscilator Front Panel" : 541,139 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:06:172 UR action: Draw WaveForm
+18:22:06:287 LeftClick  in window "DudCo Oscilator Front Panel" : 550,139 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:06:406 UR action: Draw WaveForm
+18:22:06:491 LeftClick  in window "DudCo Oscilator Front Panel" : 562,143 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:06:580 UR action: Draw WaveForm
+18:22:06:651 LeftClick  in window "DudCo Oscilator Front Panel" : 564,150 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:06:740 UR action: Draw WaveForm
+18:22:06:823 LeftClick  in window "DudCo Oscilator Front Panel" : 572,162 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:06:922 UR action: Draw WaveForm
+18:22:06:989 LeftClick  in window "DudCo Oscilator Front Panel" : 579,165 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:07:114 UR action: Draw WaveForm
+18:22:08:247 LeftClick  in window "DudCo Oscilator Front Panel" : 528,167 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:08:455 LeftClick  in window "DudCo Oscilator Front Panel" : 528,174 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:08:559 UR action: Draw WaveForm
+18:22:08:639 LeftClick  in window "DudCo Oscilator Front Panel" : 528,180 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:08:728 UR action: Draw WaveForm
+18:22:08:826 LeftClick  in window "DudCo Oscilator Front Panel" : 516,173 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:08:960 UR action: Draw WaveForm
+18:22:09:035 LeftClick  in window "DudCo Oscilator Front Panel" : 505,171 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:09:122 UR action: Draw WaveForm
+18:22:09:218 LeftClick  in window "DudCo Oscilator Front Panel" : 519,164 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:09:320 UR action: Draw WaveForm
+18:22:09:403 LeftClick  in window "DudCo Oscilator Front Panel" : 519,138 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:09:503 UR action: Draw WaveForm
+18:22:09:899 LeftClick  in window "DudCo Oscilator Front Panel" : 505,231 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:10:009 UR action: Draw WaveForm
+18:22:10:104 LeftClick  in window "DudCo Oscilator Front Panel" : 518,256 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:10:298 LeftClick  in window "DudCo Oscilator Front Panel" : 503,256 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:10:377 UR action: Draw WaveForm
+18:22:10:447 LeftClick  in window "DudCo Oscilator Front Panel" : 472,252 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:10:562 UR action: Draw WaveForm
+18:22:10:639 LeftClick  in window "DudCo Oscilator Front Panel" : 448,251 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:10:731 UR action: Draw WaveForm
+18:22:10:967 LeftClick  in window "DudCo Oscilator Front Panel" : 439,233 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:11:060 UR action: Draw WaveForm
+18:22:11:152 LeftClick  in window "DudCo Oscilator Front Panel" : 417,150 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:11:279 UR action: Draw WaveForm
+18:22:11:352 LeftClick  in window "DudCo Oscilator Front Panel" : 421,125 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:11:435 UR action: Draw WaveForm
+18:22:11:527 LeftClick  in window "DudCo Oscilator Front Panel" : 407,111 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:11:716 LeftClick  in window "DudCo Oscilator Front Panel" : 416,127 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:11:820 UR action: Draw WaveForm
+18:22:11:916 LeftClick  in window "DudCo Oscilator Front Panel" : 415,167 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:12:026 UR action: Draw WaveForm
+18:22:12:100 LeftClick  in window "DudCo Oscilator Front Panel" : 406,223 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:12:202 UR action: Draw WaveForm
+18:22:12:263 LeftClick  in window "DudCo Oscilator Front Panel" : 406,263 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:12:362 UR action: Draw WaveForm
+18:22:12:464 LeftClick  in window "DudCo Oscilator Front Panel" : 404,272 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:12:551 UR action: Draw WaveForm
+18:22:12:654 LeftClick  in window "DudCo Oscilator Front Panel" : 391,257 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:12:887 LeftClick  in window "DudCo Oscilator Front Panel" : 400,257 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:12:980 UR action: Draw WaveForm
+18:22:13:078 LeftClick  in window "DudCo Oscilator Front Panel" : 405,237 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:13:163 UR action: Draw WaveForm
+18:22:13:418 LeftClick  in window "DudCo Oscilator Front Panel" : 399,128 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:13:534 UR action: Draw WaveForm
+18:22:13:600 LeftClick  in window "DudCo Oscilator Front Panel" : 405,115 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:13:719 UR action: Draw WaveForm
+18:22:15:778 RightClick  in window "DudCo Oscilator Front Panel" : 487,123 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:16:856 LeftClick  in window "" : 52,189 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:22:16:856 Popup list choice = Lowpass
+18:22:16:860 CF: 000001629B1C5358 =  wft ->  wft-lwps = Lowpass
+18:22:17:604 LeftClick  in window "Octaves" : 42,74 -> 0000016298D42D80 = PSBT = O.K. = [7,61,56,31] = "OK"
+18:22:17:711 UR action: Lowpass WaveForm
+18:22:19:735 LeftClick  in window "DudCo Oscilator Front Panel" : 460,256 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:19:988 UR action: Draw WaveForm
+18:22:21:281 LeftClick  in window "DudCo Oscilator Front Panel" : 478,114 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:21:594 UR action: Draw WaveForm
+18:22:23:496 LeftClick  in window "DudCo Oscilator Front Panel" : 393,147 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:23:796 UR action: Draw WaveForm
+18:22:24:718 LeftClick  in window "DudCo Oscilator Front Panel" : 539,138 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:24:934 UR action: Draw WaveForm
+18:22:25:760 LeftClick  in window "DudCo Oscilator Front Panel" : 474,235 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:25:997 UR action: Draw WaveForm
+18:22:26:855 LeftClick  in window "DudCo Oscilator Front Panel" : 500,99 -> 0000016296970C90 = GpFm = [384,70,420,230]
+18:22:26:922 Drag 000001629AD7B588 = MPEP = [4,70,798,419]
+18:22:27:423 LeftClick  in window "DudCo Oscilator Front Panel" : 511,129 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:22:27:571 UR action: Draw WaveForm
+18:22:29:165 LeftClick  in window "DudCo Oscilator Front Panel" : 502,286 -> 000001629AD13A18 = LABL = [425,275,121,20]
+18:22:30:264 LeftClick  in window "" : 89,136 -> 00007FF73F7131A0 = TREL = PULs = [0,0,178,944]
+18:22:30:264 Popup list choice = Block-50
+18:22:30:295 UR action: Load WaveForm
+18:22:32:794 LeftClick  in window "DudCo Oscilator Front Panel" : 416,290 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:22:33:735 LeftClick  in window "DudCo Oscilator Front Panel" : 416,290 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:22:34:466 LeftClick  in window "DudCo Oscilator Front Panel" : 415,291 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:22:43:231 LeftClick  in window "DudCo Oscilator Front Panel" : 644,290 -> 0000016298D3C558 = PSBT = [595,275,75,20] = "LAYERS"
+18:22:44:318 LeftClick  in window "Oscillator Layer Setup" : 102,76 -> 0000016298BFF340 = LABL = [87,70,28,18]
+18:22:46:207 LeftClick  in window "Oscillator Layer Setup" : 99,76 -> 0000016298BFF340 = LABL = [87,70,28,18]
+18:22:47:434 LeftClick  in window "Oscillator Layer Setup" : 97,77 -> 0000016298BFF340 = LABL = [87,70,28,18]
+18:22:48:704 LeftClick  in window "Oscillator Layer Setup" : 112,84 -> 0000016298BFF340 = LABL = [87,70,28,18]
+18:22:49:678 LeftClick  in window "Oscillator Layer Setup" : 103,102 -> 0000016298C01950 = LABL = [87,96,32,18]
+18:22:54:529 LeftClick  in window "Oscillator Layer Setup" : 105,110 -> 0000016298C01950 = LABL = [87,96,32,18]
+18:22:55:327 LeftClick  in window "Oscillator Layer Setup" : 103,111 -> 0000016298C01950 = LABL = [87,96,32,18]
+18:23:11:599 LeftClick  in window "Oscillator Layer Setup" : 109,109 -> 0000016298C01950 = LABL = [87,96,32,18]
+18:23:17:876 LeftClick  in window "DudCo Oscilator Front Panel" : 412,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:23:18:639 LeftClick  in window "DudCo Oscilator Front Panel" : 412,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:23:19:330 LeftClick  in window "DudCo Oscilator Front Panel" : 412,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:23:20:291 LeftClick  in window "DudCo Oscilator Front Panel" : 412,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:23:23:328 LeftClick  in window "DudCo Oscilator Front Panel" : 421,284 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:23:26:853 LeftClick  in window "DudCo Oscilator Front Panel" : 419,282 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:23:50:235 LeftClick  in window "MuLab : Some drums" : 1376,55 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:51:697 LeftClick  in window "MuLab : Some drums" : 1241,55 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:51:903 LeftClick  in window "MuLab : Some drums" : 1241,55 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:52:105 LeftClick  in window "MuLab : Some drums" : 1241,55 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:52:406 LeftClick  in window "MuLab : Some drums" : 1359,55 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:53:152 LeftClick  in window "MuLab : Some drums" : 1481,56 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:53:356 LeftClick  in window "MuLab : Some drums" : 1489,56 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:53:544 LeftClick  in window "MuLab : Some drums" : 1554,46 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:53:779 LeftClick  in window "MuLab : Some drums" : 1641,44 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:54:005 LeftClick  in window "MuLab : Some drums" : 1681,47 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:56:159 LeftClick  in window "MuLab : Some drums" : 1338,52 -> 0000016295FF8680 = PKYB = [890,33,1280,30]
+18:23:59:328 LeftClick  in window "DudCo Oscilator Front Panel" : Ctrl 300,135 -> 000001629AFCBDB0 = MpuC = [241,123,156,18]
+18:23:59:415 Drag 000001629AFCBDB0 = MpuC = [241,123,156,18]
+18:23:59:803 Drop on 000001629AD1A0D0 = MpuC = [191,173,201,18]
+18:24:01:729 LeftClick  in window "DudCo Oscilator Front Panel" : 229,188 -> 000001629AD1A0D0 = MpuC = [191,173,201,18]
+18:24:02:225 Chk DblClk = 0
+18:24:02:227 LeftClick  in window "DudCo Oscilator Front Panel" : 229,190 -> 000001629AD1A0D0 = MpuC = [191,173,201,18]
+18:24:02:294 Chk DblClk = 1
+18:24:02:447 LeftClick  in window "Chebyshev II Filter" : 102,145 -> 000001629C29B8C0 = FRPl = [12,130,527,263]
+18:24:03:547 LeftClick  in window "Chebyshev II Filter" : 181,106 -> 00000162984CD070 = SLDR = [155,82,32,32]
+18:24:04:025 UR action: Changed Chebyshev II Filter -> Frequency
+18:24:04:935 LeftClick  in window "Chebyshev II Filter" : 166,106 -> 00000162984CD070 = SLDR = [155,82,32,32]
+18:24:06:617 UR action: Changed Chebyshev II Filter -> Frequency
+18:24:13:956 LeftClick  in window "Chebyshev II Filter" : 175,101 -> 00000162984CD070 = SLDR = [155,82,32,32]
+18:24:15:545 UR action: Changed Chebyshev II Filter -> Frequency
+18:24:16:255 LeftClick  in window "Chebyshev II Filter" : 275,16 -> 000001629AFD78E8 = LABL = [4,4,543,19]
+18:24:18:355 LeftClick  in window "Chebyshev II Filter" : 184,93 -> 00000162984CD070 = SLDR = [155,82,32,32]
+18:24:19:049 UR action: Changed Chebyshev II Filter -> Frequency
+18:24:21:071 LeftClick  in window "Chebyshev II Filter" : 28,46 -> 000001629C62CD30 = MPBt = [12,32,28,28]
+18:24:22:599 LeftClick  in window "Chebyshev II Filter" : 533,9 -> 000001629AFD4668 = PSBT = [526,4,17,17] = CloseDelete
+18:24:22:712 CF: 000001629AFD2130 = MEWd -> cuwd-clos = Close
+18:24:25:099 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:29:201 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:30:409 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:32:520 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:33:558 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:34:607 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:35:856 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:37:092 LeftClick  in window "DudCo Oscilator Front Panel" : 417,288 -> 000001629AD15010 = PSBT = [405,275,20,20] = ArrowRight
+18:24:38:463 RightClick  in window "DudCo Oscilator Front Panel" : 488,213 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:24:39:497 LeftClick  in window "" : 89,103 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:24:39:497 Popup list choice = Edit Harmonics
+18:24:39:500 CF: 000001629B1C5358 =  wft ->  wft-EdHx = Edit Harmonics
+18:24:41:008 LeftClick  in window "AKWF_0147" : 453,311 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:24:41:982 LeftClick  in window "" : 29,35 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:24:41:982 Popup list choice = Zero
+18:24:43:615 LeftClick  in window "AKWF_0147" : 469,15 -> 00000162983D07D8 = LABL = [4,4,912,19]
+18:24:44:980 LeftClick  in window "AKWF_0147" : 438,278 -> 00000162965AF880 = SLDR =  = [432,47,14,240]
+18:24:46:498 LeftClick  in window "AKWF_0147" : 436,123 -> 00000162965AF880 = SLDR =  = [432,47,14,240]
+18:24:47:719 LeftClick  in window "AKWF_0147" : 27,272 -> 00000162984D3F10 = SLDR =  = [26,47,14,240]
+18:24:50:079 LeftClick  in window "AKWF_0147" : 30,134 -> 00000162984D3F10 = SLDR =  = [26,47,14,240]
+18:24:50:855 LeftClick  in window "AKWF_0147" : 14,273 -> 00000162984CD070 = SLDR = [12,47,14,240]
+18:24:54:325 LeftClick  in window "AKWF_0147" : 319,278 -> 0000016296786330 = SLDR =  = [306,47,14,240]
+18:24:56:651 LeftClick  in window "AKWF_0147" : 311,126 -> 0000016296786330 = SLDR =  = [306,47,14,240]
+18:24:58:173 LeftClick  in window "AKWF_0147" : 794,273 -> 000001629A2BA8D0 = SLDR =  = [782,47,14,240]
+18:24:59:871 LeftClick  in window "AKWF_0147" : 791,177 -> 000001629A2BA8D0 = SLDR =  = [782,47,14,240]
+18:25:00:906 LeftClick  in window "AKWF_0147" : 782,101 -> 000001629A2BA8D0 = SLDR =  = [782,47,14,240]
+18:25:03:416 LeftClick  in window "AKWF_0147" : 805,279 -> 000001629A2BB3E0 = SLDR =  = [796,47,14,240]
+18:25:04:752 LeftClick  in window "AKWF_0147" : 805,193 -> 000001629A2BB3E0 = SLDR =  = [796,47,14,240]
+18:25:07:239 LeftClick  in window "AKWF_0147" : 805,10 -> 00000162983D07D8 = LABL = [4,4,912,19]
+18:25:09:454 LeftClick  in window "AKWF_0147" : 815,274 -> 0000016296E34690 = SLDR =  = [810,47,14,240]
+18:25:10:358 LeftClick  in window "AKWF_0147" : 802,62 -> 000001629A2BB3E0 = SLDR =  = [796,47,14,240]
+18:25:12:245 LeftClick  in window "AKWF_0147" : 818,126 -> 0000016296E34690 = SLDR =  = [810,47,14,240]
+18:25:13:328 LeftClick  in window "AKWF_0147" : 771,271 -> 000001629A2B92B0 = SLDR =  = [768,47,14,240]
+18:25:14:902 LeftClick  in window "AKWF_0147" : 403,274 -> 00000162965AED70 = SLDR =  = [390,47,14,240]
+18:25:18:664 LeftClick  in window "AKWF_0147" : 189,272 -> 000001629677FFA0 = SLDR =  = [180,47,14,240]
+18:25:20:465 LeftClick  in window "AKWF_0147" : 30,277 -> 00000162984D3F10 = SLDR =  = [26,47,14,240]
+18:25:24:574 LeftClick  in window "AKWF_0147" : 36,59 -> 00000162984D3F10 = SLDR =  = [26,47,14,240]
+18:25:26:592 LeftClick  in window "AKWF_0147" : 42,278 -> 00000162984D1DE0 = SLDR =  = [40,47,14,240]
+18:25:29:720 LeftClick  in window "AKWF_0147" : 60,275 -> 00000162984CDB80 = SLDR =  = [54,47,14,240]
+18:25:33:007 LeftClick  in window "AKWF_0147" : 73,273 -> 00000162984CF1A0 = SLDR =  = [68,47,14,240]
+18:25:35:839 LeftClick  in window "AKWF_0147" : 454,309 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:25:36:902 LeftClick  in window "" : 24,17 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:25:36:902 Popup list choice = Variate
+18:25:38:702 LeftClick  in window "AKWF_0147" : 414,278 -> 00000162965ACC40 = SLDR =  = [404,47,14,240]
+18:25:42:903 LeftClick  in window "AKWF_0147" : 275,270 -> 0000016296785820 = SLDR =  = [264,47,14,240]
+18:25:45:954 RightClick  in window "DudCo Oscilator Front Panel" : 510,161 -> 000001629AD175F0 = WFTD = [385,105,201,170]
+18:25:47:807 LeftClick  in window "" : 80,191 -> 0000001226366940 = TREL = PULs = [0,0,138,348]
+18:25:47:807 Popup list choice = Lowpass
+18:25:47:810 CF: 000001629B1C5358 =  wft ->  wft-lwps = Lowpass
+18:25:48:369 LeftClick  in window "Octaves" : 45,65 -> 0000016298D4B020 = PSBT = O.K. = [7,61,56,31] = "OK"
+18:25:48:479 UR action: Lowpass WaveForm
+18:25:51:596 LeftClick  in window "Waveform" : 788,57 -> 000001629A2BA8D0 = SLDR =  = [782,47,14,240]
+18:25:52:935 LeftClick  in window "Waveform" : 807,92 -> 000001629A2BB3E0 = SLDR =  = [796,47,14,240]
+18:25:55:743 LeftClick  in window "Waveform" : 116,277 -> 00000162984D12D0 = SLDR =  = [110,47,14,240]
+18:25:57:415 LeftClick  in window "Waveform" : 114,202 -> 00000162984D12D0 = SLDR =  = [110,47,14,240]
+18:25:59:543 LeftClick  in window "Waveform" : 70,282 -> 00000162984CF1A0 = SLDR =  = [68,47,14,240]
+18:26:01:423 LeftClick  in window "Waveform" : 99,135 -> 00000162984D7660 = SLDR =  = [96,47,14,240]
+18:26:02:312 LeftClick  in window "Waveform" : 60,272 -> 00000162984CDB80 = SLDR =  = [54,47,14,240]
+18:26:03:044 LeftClick  in window "Waveform" : 76,139 -> 00000162984CF1A0 = SLDR =  = [68,47,14,240]
+18:26:03:876 LeftClick  in window "Waveform" : 85,273 -> 00000162984D4A20 = SLDR =  = [82,47,14,240]
+18:26:05:060 LeftClick  in window "Waveform" : 104,271 -> 00000162984D7660 = SLDR =  = [96,47,14,240]
+18:26:07:630 LeftClick  in window "Waveform" : 89,180 -> 00000162984D4A20 = SLDR =  = [82,47,14,240]
+18:26:08:318 LeftClick  in window "Waveform" : 72,147 -> 00000162984CF1A0 = SLDR =  = [68,47,14,240]
+18:26:08:996 LeftClick  in window "Waveform" : 65,150 -> 00000162984CDB80 = SLDR =  = [54,47,14,240]
+18:26:10:046 LeftClick  in window "Waveform" : 100,273 -> 00000162984D7660 = SLDR =  = [96,47,14,240]
+18:26:11:519 LeftClick  in window "Waveform" : 135,274 -> 00000162984D8170 = SLDR =  = [124,47,14,240]
+18:26:13:231 LeftClick  in window "Waveform" : 144,278 -> 000001629677F490 = SLDR =  = [138,47,14,240]
+18:26:16:857 LeftClick  in window "Waveform" : 157,275 -> 000001629677D360 = SLDR =  = [152,47,14,240]
+18:26:18:711 LeftClick  in window "Waveform" : 168,273 -> 0000016296779100 = SLDR =  = [166,47,14,240]
+18:26:20:175 LeftClick  in window "Waveform" : 187,275 -> 000001629677FFA0 = SLDR =  = [180,47,14,240]
+18:26:22:760 LeftClick  in window "Waveform" : 203,274 -> 0000016296780AB0 = SLDR =  = [194,47,14,240]
+18:26:26:759 LeftClick  in window "Waveform" : 212,271 -> 00000162967815C0 = SLDR =  = [208,47,14,240]
+18:26:30:672 LeftClick  in window "Waveform" : 230,272 -> 00000162967820D0 = SLDR =  = [222,47,14,240]
+18:26:36:391 LeftClick  in window "Waveform" : 214,155 -> 00000162967815C0 = SLDR =  = [208,47,14,240]
+18:26:38:120 LeftClick  in window "Waveform" : 208,125 -> 00000162967815C0 = SLDR =  = [208,47,14,240]
+18:26:38:991 LeftClick  in window "Waveform" : 199,117 -> 0000016296780AB0 = SLDR =  = [194,47,14,240]
+18:26:40:160 LeftClick  in window "Waveform" : 246,273 -> 000001629677BD40 = SLDR =  = [236,47,14,240]
+18:26:41:056 LeftClick  in window "Waveform" : 257,272 -> 0000016296782BE0 = SLDR =  = [250,47,14,240]
+18:26:42:679 LeftClick  in window "Waveform" : 272,271 -> 0000016296785820 = SLDR =  = [264,47,14,240]
+18:26:43:762 LeftClick  in window "Waveform" : 288,270 -> 0000016296784D10 = SLDR =  = [278,47,14,240]
+18:26:44:959 LeftClick  in window "Waveform" : 303,276 -> 0000016296784200 = SLDR =  = [292,47,14,240]
+18:26:45:763 LeftClick  in window "Waveform" : 311,276 -> 0000016296786330 = SLDR =  = [306,47,14,240]
+18:26:46:880 LeftClick  in window "Waveform" : 329,276 -> 00000162967836F0 = SLDR =  = [320,47,14,240]
+18:26:50:166 LeftClick  in window "Waveform" : 316,231 -> 0000016296786330 = SLDR =  = [306,47,14,240]
+18:26:50:984 LeftClick  in window "Waveform" : 324,125 -> 00000162967836F0 = SLDR =  = [320,47,14,240]
+18:26:51:815 LeftClick  in window "Waveform" : 339,274 -> 0000016296786E40 = SLDR =  = [334,47,14,240]
+18:26:56:955 LeftClick  in window "Waveform" : 462,314 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:26:57:824 LeftClick  in window "" : 25,21 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:26:57:824 Popup list choice = Variate
+18:26:59:567 LeftClick  in window "Waveform" : 475,310 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:27:00:126 LeftClick  in window "" : 20,8 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:27:00:126 Popup list choice = Variate
+18:27:00:511 LeftClick  in window "Waveform" : 464,314 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:27:01:094 LeftClick  in window "" : 17,9 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:27:01:094 Popup list choice = Variate
+18:27:01:359 LeftClick  in window "Waveform" : 462,298 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:27:01:791 LeftClick  in window "" : 17,22 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:27:01:791 Popup list choice = Variate
+18:27:05:059 LeftClick  in window "Waveform" : 518,273 -> 00000162963F5090 = SLDR =  = [516,47,14,240]
+18:27:05:824 LeftClick  in window "Waveform" : 537,271 -> 00000162963FA910 = SLDR =  = [530,47,14,240]
+18:27:06:248 LeftClick  in window "Waveform" : 551,261 -> 00000162963F71C0 = SLDR =  = [544,47,14,240]
+18:27:06:576 LeftClick  in window "Waveform" : 557,273 -> 00000162963F71C0 = SLDR =  = [544,47,14,240]
+18:27:06:958 LeftClick  in window "Waveform" : 489,274 -> 00000162965B3AE0 = SLDR =  = [488,47,14,240]
+18:27:07:716 LeftClick  in window "Waveform" : 615,272 -> 00000162963F9E00 = SLDR =  = [614,47,14,240]
+18:27:09:271 LeftClick  in window "Waveform" : 796,273 -> 000001629A2BB3E0 = SLDR =  = [796,47,14,240]
+18:27:09:638 LeftClick  in window "Waveform" : 731,272 -> 000001629A2B7C90 = SLDR =  = [726,47,14,240]
+18:27:09:983 LeftClick  in window "Waveform" : 682,268 -> 000001629A2BE020 = SLDR =  = [670,47,14,240]
+18:27:10:342 LeftClick  in window "Waveform" : 657,277 -> 000001629A2BBEF0 = SLDR =  = [656,47,14,240]
+18:27:10:719 LeftClick  in window "Waveform" : 638,271 -> 00000162963FBF30 = SLDR =  = [628,47,14,240]
+18:27:11:276 LeftClick  in window "Waveform" : 456,265 -> 00000162965B19B0 = SLDR =  = [446,47,14,240]
+18:27:11:624 LeftClick  in window "Waveform" : 425,270 -> 00000162965B0EA0 = SLDR =  = [418,47,14,240]
+18:27:12:151 LeftClick  in window "Waveform" : 396,277 -> 00000162965AED70 = SLDR =  = [390,47,14,240]
+18:27:12:501 LeftClick  in window "Waveform" : 367,274 -> 00000162965B24C0 = SLDR =  = [362,47,14,240]
+18:27:12:911 LeftClick  in window "Waveform" : 364,278 -> 00000162965B24C0 = SLDR =  = [362,47,14,240]
+18:27:13:291 LeftClick  in window "Waveform" : 397,267 -> 00000162965AED70 = SLDR =  = [390,47,14,240]
+18:27:13:575 LeftClick  in window "Waveform" : 441,266 -> 00000162965AF880 = SLDR =  = [432,47,14,240]
+18:27:13:838 LeftClick  in window "Waveform" : 457,269 -> 00000162965B19B0 = SLDR =  = [446,47,14,240]
+18:27:14:214 LeftClick  in window "Waveform" : 469,277 -> 00000162965B2FD0 = SLDR =  = [460,47,14,240]
+18:27:14:562 LeftClick  in window "Waveform" : 569,264 -> 00000162963F5BA0 = SLDR =  = [558,47,14,240]
+18:27:14:935 LeftClick  in window "Waveform" : 580,273 -> 00000162963F66B0 = SLDR =  = [572,47,14,240]
+18:27:15:353 LeftClick  in window "Waveform" : 596,269 -> 00000162963F87E0 = SLDR =  = [586,47,14,240]
+18:27:16:159 LeftClick  in window "Waveform" : 768,285 -> 000001629A2B92B0 = SLDR =  = [768,47,14,240]
+18:27:16:559 LeftClick  in window "Waveform" : 842,275 -> 0000016296E351A0 = SLDR =  = [838,47,14,240]
+18:27:16:894 LeftClick  in window "Waveform" : 873,260 -> 0000016296E39400 = SLDR =  = [866,47,14,240]
+18:27:17:224 LeftClick  in window "Waveform" : 883,275 -> 0000016296E33070 = SLDR =  = [880,47,14,240]
+18:27:19:096 LeftClick  in window "Waveform" : 700,277 -> 000001629A2B9DC0 = SLDR =  = [698,47,14,240]
+18:27:19:879 LeftClick  in window "Waveform" : 685,275 -> 000001629A2BCA00 = SLDR =  = [684,47,14,240]
+18:27:21:047 LeftClick  in window "DudCo Oscilator Front Panel" : 620,280 -> 0000016298D3C558 = PSBT = [595,275,75,20] = "LAYERS"
+18:27:24:151 LeftClick  in window "Oscillator Layer Setup" : 218,8 -> 0000016298854548 = PSBT = [204,4,17,17] = CloseDelete
+18:27:24:239 CF: 0000016298852010 = flwd -> cuwd-clos = Close
+18:27:24:762 LeftClick  in window "Waveform" : 434,307 -> 0000016298D4A310 = PSBT = Optn = [429,295,61,31] = "Options"
+18:27:25:623 LeftClick  in window "" : 28,19 -> 00000012263668D0 = TREL = PULs = [0,0,52,48]
+18:27:25:623 Popup list choice = Variate
+18:27:27:622 LeftClick  in window "Waveform" : 862,277 -> 0000016296E388F0 = SLDR =  = [852,47,14,240]
+18:27:28:139 LeftClick  in window "Waveform" : 811,278 -> 0000016296E34690 = SLDR =  = [810,47,14,240]
+18:27:28:592 LeftClick  in window "Waveform" : 840,276 -> 0000016296E351A0 = SLDR =  = [838,47,14,240]
+18:27:29:353 LeftClick  in window "Waveform" : 808,259 -> 000001629A2BB3E0 = SLDR =  = [796,47,14,240]
+18:27:31:171 LeftClick  in window "Waveform" : 903,272 -> 0000016296E35CB0 = SLDR =  = [894,47,14,240]
+18:27:33:295 LeftClick  in window "Waveform" : 904,212 -> 0000016296E35CB0 = SLDR =  = [894,47,14,240]
+18:27:34:407 LeftClick  in window "DudCo Oscilator Front Panel" : 187,181 -> 000001629AD19888 = MPBt = prcs = [176,176,12,12]
+18:27:35:951 LeftClick  in window "DudCo Oscilator Front Panel" : 183,181 -> 000001629AD19888 = MPBt = prcs = [176,176,12,12]
+18:27:54:767 LeftClick  in window "DudCo Oscilator Front Panel" : 163,41 -> 000001629A29F270 = LABL = PNam = [66,37,125,18]
+18:27:56:024 LeftClick  in window "" : 16,60 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:56:374 LeftClick  in window "" : 20,41 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:56:952 LeftClick  in window "" : 60,59 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:57:488 LeftClick  in window "" : 63,59 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:57:847 LeftClick  in window "" : 96,75 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:58:685 LeftClick  in window "" : 114,97 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:59:871 LeftClick  in window "" : 117,112 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:27:59:871 Popup list choice = Aliasing
+18:27:59:877 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bass/Aliasing.Mux
+18:28:02:664 LeftClick  in window "Aliasing Front Panel" : 199,47 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:02:794 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bass/AMPed Bass1.Mux
+18:28:04:055 LeftClick  in window "AMPed Bass1 Front Panel" : 199,47 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:04:164 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bass/AMPed Bass2.Mux
+18:28:05:199 LeftClick  in window "AMPed Bass2 Front Panel" : 199,47 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:05:323 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bass/Analog Wobblebass.Mux
+18:28:10:167 LeftClick  in window "Analog Wobblebass Front Panel" : 198,47 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:10:299 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bass/Autobahn Bass.Mux
+18:28:12:071 LeftClick  in window "Autobahn Bass Front Panel" : 140,41 -> 000001629A29AF80 = LABL = PNam = [66,37,125,18]
+18:28:13:087 LeftClick  in window "" : 50,93 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:28:13:759 LeftClick  in window "" : 87,118 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:28:15:167 LeftClick  in window "" : 112,154 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:28:15:167 Popup list choice = CyBell
+18:28:15:175 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bells/CyBell.Mux
+18:28:16:799 LeftClick  in window "CyBell Front Panel" : 191,46 -> 00000162987131B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:16:907 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bells/Digital Metallic1.Mux
+18:28:18:039 LeftClick  in window "Digital Metallic1 Front Panel" : 193,45 -> 000001629870F060 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:18:138 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bells/Electric Gong.Mux
+18:28:19:215 LeftClick  in window "Electric Gong Front Panel" : 198,45 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:19:310 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bells/Fantasy Bell.Mux
+18:28:20:423 LeftClick  in window "Fantasy Bell Front Panel" : 198,45 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:20:529 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bells/Glockenspiel.Mux
+18:28:52:055 LeftClick  in window "Glockenspiel Front Panel" : 203,47 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:52:135 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Bells/Heaveny Bells.Mux
+18:28:52:584 LeftClick  in window "Heaveny Bells Front Panel" : 143,49 -> 000001629A2A0590 = LABL = PNam = [66,37,125,18]
+18:28:53:663 LeftClick  in window "" : 98,113 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:28:54:319 LeftClick  in window "" : 106,157 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:28:55:400 LeftClick  in window "" : 124,183 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:28:55:400 Popup list choice = Accordion
+18:28:55:408 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Accordion.Mux
+18:28:59:417 LeftClick  in window "Accordion Front Panel" : 199,56 -> 000001629CCE9380 = Mebc = [4,23,471,47]
+18:28:59:815 LeftClick  in window "Accordion Front Panel" : 197,50 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:28:59:943 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Ambient Piano.Mux
+18:29:01:896 LeftClick  in window "Ambient Piano Front Panel" : 197,50 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:01:995 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Bell Keys.Mux
+18:29:03:472 LeftClick  in window "Bell Keys Front Panel" : 197,50 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:03:586 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Classic Piano.Mux
+18:29:05:151 LeftClick  in window "Classic Piano Front Panel" : 197,50 -> 00000162987131B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:05:277 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/DX71.Mux
+18:29:07:064 LeftClick  in window "DX71 Front Panel" : 50,50 -> 00000162987124A0 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+18:29:07:164 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Classic Piano.Mux
+18:29:20:321 LeftClick  in window "Classic Piano Front Panel" : 199,45 -> 0000016298714BD0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:20:416 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/DX71.Mux
+18:29:22:039 LeftClick  in window "DX71 Front Panel" : 199,45 -> 000001629870F060 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:22:144 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/DX72.Mux
+18:29:23:655 LeftClick  in window "DX72 Front Panel" : 200,45 -> 0000016298717300 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:23:772 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/EPianoGT.Mux
+18:29:25:278 LeftClick  in window "EPianoGT Front Panel" : 200,45 -> 0000016298714BD0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:25:377 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/FM Keys.Mux
+18:29:26:046 LeftClick  in window "FM Keys Front Panel" : 148,45 -> 000001629A29B910 = LABL = PNam = [66,37,125,18]
+18:29:29:415 LeftClick  in window "" : 53,153 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:29:30:088 LeftClick  in window "" : 81,182 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:29:31:103 LeftClick  in window "" : 125,171 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:29:32:482 LeftClick  in window "" : 109,154 -> 00000012263609C0 = TREL = PULs = [0,0,270,944]
+18:29:42:479 LeftClick  in window "FM Keys Front Panel" : 200,46 -> 00000162987165F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:29:42:590 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Harp Piano.Mux
+18:30:55:959 LeftClick  in window "Harp Piano Front Panel" : 195,43 -> 00000162987131B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:30:56:062 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Harp-Bell Keys.Mux
+18:31:00:471 LeftClick  in window "Harp-Bell Keys Front Panel" : 53,44 -> 0000016298711790 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+18:31:00:555 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Harp Piano.Mux
+18:31:41:232 LeftClick  in window "Harp Piano Front Panel" : 63,43 -> 00000162987131B0 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+18:31:41:341 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/FM Keys.Mux
+18:31:42:415 LeftClick  in window "FM Keys Front Panel" : 205,46 -> 0000016298714BD0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:42:525 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Harp Piano.Mux
+18:31:42:687 LeftClick  in window "Harp Piano Front Panel" : 202,45 -> 000001629870F060 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:42:797 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Harp-Bell Keys.Mux
+18:31:44:255 LeftClick  in window "Harp-Bell Keys Front Panel" : 201,45 -> 00000162987158E0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:44:366 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Piano Bar.Mux
+18:31:45:319 LeftClick  in window "Piano Bar Front Panel" : 197,47 -> 0000016298711790 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:45:428 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Space Clavi.Mux
+18:31:46:802 LeftClick  in window "Space Clavi Front Panel" : 194,47 -> 00000162987131B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:46:901 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Spinettar.Mux
+18:31:47:936 LeftClick  in window "Spinettar Front Panel" : 192,48 -> 000001629870F060 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:48:040 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Toy Piano.Mux
+18:31:49:207 LeftClick  in window "Toy Piano Front Panel" : 192,48 -> 00000162987131B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:49:304 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Wire Piano.Mux
+18:31:50:635 LeftClick  in window "Wire Piano Front Panel" : 191,48 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:50:721 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Keys/Wurly.Mux
+18:31:51:871 LeftClick  in window "Wurly Front Panel" : 191,48 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:51:958 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/A Space Journey.Mux
+18:31:53:152 LeftClick  in window "A Space Journey Front Panel" : 190,48 -> 000001629A29C2A0 = LABL = PNam = [66,37,125,18]
+18:31:56:095 LeftClick  in window "A Space Journey Front Panel" : 204,47 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:31:56:187 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Alien Voice.Mux
+18:31:58:106 LeftClick  in window "MuLab : Some drums" : 491,47 -> 0000016295FDF428 = TLBT = [473,33,60,30] = Play
+18:32:02:235 LeftClick  in window "Alien Voice Front Panel" : 199,46 -> 0000016298711790 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:02:321 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Analog Trance.Mux
+18:32:04:623 LeftClick  in window "Analog Trance Front Panel" : 198,46 -> 0000016298714BD0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:04:737 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/AvB Rain Style (use MW).Mux
+18:32:06:433 LeftClick  in window "AvB Rain Style (use MW) Front Panel" : 198,46 -> 0000016298D447A0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:06:532 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Bajonas.Mux
+18:32:08:735 LeftClick  in window "Bajonas Front Panel" : 198,46 -> 0000016298D42D80 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:08:847 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Botnic.Mux
+18:32:12:615 LeftClick  in window "Botnic Front Panel" : 198,46 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:12:730 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Casius 991.Mux
+18:32:14:592 LeftClick  in window "Casius 991 Front Panel" : 198,46 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:14:678 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Casius 992.Mux
+18:32:15:279 LeftClick  in window "Casius 992 Front Panel" : 198,46 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:15:361 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Casius 993.Mux
+18:32:16:097 LeftClick  in window "Casius 993 Front Panel" : 198,46 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:16:223 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Classic Saw.Mux
+18:32:18:361 LeftClick  in window "Classic Saw Front Panel" : 198,46 -> 0000016298D454B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:18:445 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Darun.Mux
+18:32:32:792 LeftClick  in window "Darun Front Panel" : 198,47 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:32:899 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/DigiTrance.Mux
+18:32:50:173 LeftClick  in window "DigiTrance Front Panel" : 376,9 -> 000001629B3157C8 = LABL = [4,4,884,19]
+18:32:50:446 Chk DblClk = 0
+18:32:51:463 LeftClick  in window "DigiTrance Front Panel" : 201,48 -> 0000016298718010 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:32:51:562 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Dirty Barry.Mux
+18:33:00:496 LeftClick  in window "Dirty Barry Front Panel" : 201,48 -> 0000016298714BD0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:33:00:593 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Dirty Lead.Mux
+18:33:26:267 LeftClick  in window "Dirty Lead Front Panel" : 200,48 -> 00000162987165F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:33:26:389 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Dreamer.Mux
+18:33:26:438 MuSynth preset 'Dreamer': Updated Filter LFO Amplitude to 100
+18:33:28:975 LeftClick  in window "Dreamer Front Panel" : 198,49 -> 0000016298711790 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:33:29:066 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Duck Talk.Mux
+18:34:14:914 LeftClick  in window "Duck Talk Front Panel" : 191,67 -> 000001629A7D7030 = Mebc = [4,23,884,47]
+18:34:15:633 LeftClick  in window "Duck Talk Front Panel" : 196,55 -> 000001629A7D7030 = Mebc = [4,23,884,47]
+18:34:16:065 LeftClick  in window "Duck Talk Front Panel" : 198,52 -> 0000016298D47BE0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:16:171 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Eighty Synth.Mux
+18:34:16:215 MuSynth preset 'Eighty Synth': Updated Pitch LFO Amplitude to 100
+18:34:19:009 LeftClick  in window "Eighty Synth Front Panel" : 198,55 -> 000001629C8FB060 = Mebc = [4,23,884,47]
+18:34:19:521 LeftClick  in window "Eighty Synth Front Panel" : 198,52 -> 0000016298D42D80 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:19:630 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Euro Dance.Mux
+18:34:23:183 LeftClick  in window "Euro Dance Front Panel" : 198,52 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:23:287 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Extensive.Mux
+18:34:25:385 LeftClick  in window "Extensive Front Panel" : 198,52 -> 0000016298D454B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:25:480 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Fair Syn Vox.Mux
+18:34:27:089 LeftClick  in window "Fair Syn Vox Front Panel" : 198,52 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:27:202 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Flute808.Mux
+18:34:27:240 MuSynth preset 'Flute808': Updated Pitch LFO Amplitude to 100
+18:34:27:248 Error MuSynth[639]
+18:34:29:008 LeftClick  in window "Flute808 Front Panel" : 198,52 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:29:114 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Follow me.Mux
+18:34:30:921 LeftClick  in window "Follow me Front Panel" : 198,52 -> 0000016298D42D80 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:31:026 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Formant Lead.Mux
+18:34:32:703 LeftClick  in window "Formant Lead Front Panel" : 198,52 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:32:809 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Girls School.Mux
+18:34:34:929 LeftClick  in window "Girls School Front Panel" : 190,102 -> 000001629E81B470 = SLDR = [181,84,32,32]
+18:34:35:185 UR action: Changed Girls School -> Cutoff
+18:34:36:328 LeftClick  in window "Girls School Front Panel" : 194,113 -> 000001629E81B470 = SLDR = [181,84,32,32]
+18:34:38:285 UR action: Changed Girls School -> Cutoff
+18:34:42:984 LeftClick  in window "Girls School Front Panel" : 196,45 -> 00000162987165F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:43:077 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Glossy.Mux
+18:34:45:043 LeftClick  in window "Glossy Front Panel" : 195,46 -> 0000016298714BD0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:45:145 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/GTR PowerChords.Mux
+18:34:47:264 LeftClick  in window "GTR PowerChords Front Panel" : 195,46 -> 0000016298D42D80 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:47:390 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/GTR PowerSolo.Mux
+18:34:49:352 LeftClick  in window "GTR PowerSolo Front Panel" : 195,46 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:49:469 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Hard Sync Lead (Mono).Mux
+18:34:50:711 LeftClick  in window "Hard Sync Lead (Mono) Front Panel" : 195,46 -> 0000016298D488F0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:50:825 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Hard Sync Lead (Poly).Mux
+18:34:51:951 LeftClick  in window "Hard Sync Lead (Poly) Front Panel" : 197,47 -> 0000016298D4A310 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:52:053 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Harmute.Mux
+18:34:54:232 LeftClick  in window "Harmute Front Panel" : 195,47 -> 0000016298D43A90 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+18:34:54:353 Load preset for 000001629B35A010 = mufx : {AppLibrary}/Mux/Instruments/Leads/Hunna.Mux
+18:34:56:503 LeftClick  in window "Hunna Front Panel" : 461,2 -> 000001629B3106B0 = IWCC = [0,0,479,184]
+18:34:57:009 LeftClick  in window "Hunna Front Panel" : 451,7 -> 000001629B3157C8 = LABL = [4,4,471,19]
+18:34:57:246 Chk DblClk = 0
+18:34:57:991 LeftClick  in window "Hunna Front Panel" : 470,11 -> 000001629B312548 = PSBT = [454,4,17,17] = CloseDelete
+18:34:58:115 CF: 000001629B310010 = MEWd -> cuwd-clos = Close
+18:34:59:041 RightClick  in window "MuLab : Some drums" : 510,835 -> 000001629683CB10 = MpuC = [466,824,112,18]
+18:34:59:938 LeftClick  in window "" : 95,79 -> 0000001226366B50 = TREL = PULs = [0,0,178,628]
+18:34:59:938 Popup list choice = Delete
+18:34:59:941 CF: 000001629B35A010 = mufx -> wobj-delt = Delete
+18:34:59:950 UR action: Delete MUX Modular "Hunna"
+18:35:01:952 LeftClick  in window "MuLab : Some drums" : 1899,11 -> 0000016295F03458 = PSBT = [1895,4,17,17] = CloseDelete
+18:35:02:033 CF: 0000016295F00F20 = MSEW -> cuwd-clos = Close
+18:35:03:168 LeftClick  in window "MuLab" : 194,138 -> 000000122635E7B0 = PSBT = btn2 = [151,119,115,31] = "Save before Quit"
+18:35:03:265 Are you sure to close Some drums and quit? => Save before Quit
+18:35:03:450 IWindow[414]
+18:35:03:451 Gonna shutdown ASIO engine

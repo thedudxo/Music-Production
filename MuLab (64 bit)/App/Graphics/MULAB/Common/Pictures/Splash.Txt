@@ -1,0 +1,7 @@
+PictureScale=166.6666667
+CoordsScale=100
+InfoTextRectangle=0,412,660,12
+InfoTextColor=192,255,248,240
+VersionRectangle=0,412,660,12
+VersionAlign=Center
+VersionColor=192,255,248,240

@@ -1,0 +1,73 @@
+<?xml version='1.0'?>
+<Shortcuts>
+  <Application>
+    <Shortcut>
+      <Key>Ctrl+Q</Key>
+      <Function1>Quit</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+O</Key>
+      <Function1>MuLab Project-&gt;Open</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+S</Key>
+      <Function1>MuLab Project-&gt;Save</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Shift+Ctrl+S</Key>
+      <Function1>MuLab Project-&gt;Save As...</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+Z</Key>
+      <Function1>Undo</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Shift+Ctrl+Z</Key>
+      <Function1>Redo</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+Y</Key>
+      <Function1>Redo</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+A</Key>
+      <Function1>Select All</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Space</Key>
+      <Function1>Play/Stop</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>*</Key>
+      <Function1>Start/Stop Recording</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Left</Key>
+      <Function1>Rewind</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Right</Key>
+      <Function1>Forward</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+V</Key>
+      <Function1>Paste</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+X</Key>
+      <Function1>Cut</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Ctrl+C</Key>
+      <Function1>Copy</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Delete</Key>
+      <Function1>Delete</Function1>
+    </Shortcut>
+    <Shortcut>
+      <Key>Alt+R</Key>
+      <Function1>Repeat Last Context Function</Function1>
+    </Shortcut>
+  </Application>
+</Shortcuts>

@@ -1,0 +1,6 @@
+PictureType=Repaintable
+TopHeight=1
+LeftWidth=1
+RightWidth=1
+BottomHeight=1
+NumStates=1

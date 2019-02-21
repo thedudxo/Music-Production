@@ -1,0 +1,5 @@
+TopHeight=1
+BottomHeight=14
+LeftWidth=0
+RightWidth=14
+PictureType=BlackRepaintableWhite

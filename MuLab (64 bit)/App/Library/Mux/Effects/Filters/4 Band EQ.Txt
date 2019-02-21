@@ -1,0 +1,22 @@
+The "4 Band EQ" is an equalizer module containing a low shelve band, two bell shaped bands and a high shelve band.
+
+Each band shows the usual controls of Frequency, Q and Gain.
+
+The frequency of the bands can span over the entire frequenct range.
+
+The Q factor is restricted to the value of 2 for the shelver and to 4 for the bell shaped bands.
+For the shelvers the lowest value of 0.5 results in a smooth increase even below/above the set frequency. 
+At a Q factor of 2 the shelves begin to under- and over-shoot around the set frequency and the increase in level is quite steep.
+The two bell shaped bands have a bell width of around 3 octaves at Q=0.5 and is around 1/3 of an octave at Q=4.
+
+Gain for all bands can range from -24dB to +24dB.
+
+In the Global Control section you can set the output level, bypass the EQ and shift the entire EQ up or down the frequency range.
+With the Bypass EQ you not only can compare against the unaffected signal but you can automate this parameter.
+This way you can gradually blend the EQ in or out.
+The Frequency Shift allows you to move the entire frequency setup up or down without the need to adjust 
+each bands frequency control.
+
+
+Modules with "Saturation" in their name contain a saturation stage that add small amounts 
+of (odd) harmonics when the EQ is driven hard.

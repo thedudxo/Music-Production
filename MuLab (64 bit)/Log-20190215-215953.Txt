@@ -1,0 +1,124 @@
+21:59:52:405 OpSys=Windows
+21:59:52:405 MuLab 7.7.4 64 bit
+21:59:52:406 Delta UTC = -13
+21:59:52:406 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+21:59:52:406 BStf[92] Desktop=/C:/Users/isaac/Desktop
+21:59:52:452 BStf[124] Graphics={Application}/App/Graphics
+21:59:52:463 Num screens = 2
+21:59:52:463 Screen 1 = 0,0,1920,1040
+21:59:52:463 Screen 2 = -1920,0,1920,1080
+21:59:52:471 File[94] fn=MidiControllerNames.Txt, ec=2
+21:59:52:473 File[94] fn=UKD.Txt, ec=2
+21:59:52:663 Gonna startup audio engine
+21:59:52:676 Gonna startup ASIO engine
+21:59:52:677 ASIO4ALL v2
+21:59:53:090 ASIOGetChannels OK. inputs: 2, outputs: 16
+21:59:53:090 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+21:59:53:090 ASIOGetSampleRate = 44100.000000
+21:59:53:090 ASIOOutputReady() - Not supported
+21:59:53:090 input chan 0 data type = 18
+21:59:53:090 input chan 1 data type = 18
+21:59:53:090 output chan 0 data type = 18
+21:59:53:090 output chan 1 data type = 18
+21:59:53:090 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+21:59:53:090 ASIOGetLatencies OK: InLat=764, OutLat=544
+21:59:53:090 ASIOStart OK
+21:59:53:492 Started the audio engine
+21:59:53:492 MIE[32] 0 Midi Input Ports:
+21:59:53:492 MOE[31] 1 Midi Output Ports:
+21:59:53:492 MOE[41] 0=Microsoft GS Wavetable Synth
+21:59:53:501 Started the MIDI engine
+21:59:53:543 App[669]
+21:59:54:540 LeftClick  in window "Open Project" : 51,54 -> 00000238395E8E10 = PSBT = [20,39,77,31] = "Voice"
+22:00:48:106 LeftClick  in window "MuLab : Voice" : 70,267 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:00:48:190 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+22:00:49:435 LeftClick  in window "MuLab : Voice" : 87,267 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:00:49:525 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+22:16:38:472 LeftClick  in window "MuLab : Voice" : 80,303 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:38:542 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+22:16:39:773 LeftClick  in window "MuLab : Voice" : 90,277 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:39:854 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+22:16:40:349 LeftClick  in window "MuLab : Voice" : 88,261 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:40:450 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+22:16:42:541 LeftClick  in window "MuLab : Voice" : 113,360 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:42:612 Project Browser Preview {UserLibrary}/Soundboard/Yeah Sounds Good.Wav
+22:16:42:623 File[94] fn=Yeah Sounds Good.Xml, ec=2
+22:16:42:623 File[94] fn=Yeah Sounds Good.Xml, ec=2
+22:16:43:492 LeftClick  in window "MuLab : Voice" : 80,329 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:43:588 Project Browser Preview {UserLibrary}/Soundboard/Nawhh Sheeeit.Wav
+22:16:44:021 LeftClick  in window "MuLab : Voice" : 76,301 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:44:114 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+22:16:55:149 LeftClick  in window "MuLab : Voice" : 69,382 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:55:261 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:16:56:133 LeftClick  in window "MuLab : Voice" : 70,347 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:56:229 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:16:59:573 LeftClick  in window "MuLab : Voice" : 70,348 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:16:59:687 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:01:621 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:01:729 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:04:069 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:04:162 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:04:254 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:04:347 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:04:414 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:04:526 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:04:581 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:04:686 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:04:766 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:04:891 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:04:966 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:05:084 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:05:149 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:05:254 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:05:813 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:05:891 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:06:244 LeftClick  in window "MuLab : Voice" : 71,349 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:06:331 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:06:893 LeftClick  in window "MuLab : Voice" : 80,352 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:06:971 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:07:092 LeftClick  in window "MuLab : Voice" : 80,352 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:07:182 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:07:260 LeftClick  in window "MuLab : Voice" : 80,352 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:07:359 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:07:461 LeftClick  in window "MuLab : Voice" : 80,352 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:07:552 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:08:493 LeftClick  in window "MuLab : Voice" : 88,383 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:08:560 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:08:647 LeftClick  in window "MuLab : Voice" : 88,383 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:08:747 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:08:835 LeftClick  in window "MuLab : Voice" : 88,383 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:08:934 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:09:020 LeftClick  in window "MuLab : Voice" : 88,383 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:09:119 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:09:205 LeftClick  in window "MuLab : Voice" : 88,383 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:09:291 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:10:293 LeftClick  in window "MuLab : Voice" : 88,333 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:10:352 Project Browser Preview {UserLibrary}/Soundboard/Nawhh Sheeeit.Wav
+22:17:10:885 LeftClick  in window "MuLab : Voice" : 71,344 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:10:966 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:13:669 LeftClick  in window "MuLab : Voice" : 75,384 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:13:759 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:13:965 LeftClick  in window "MuLab : Voice" : 79,347 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:14:051 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:14:653 LeftClick  in window "MuLab : Voice" : 57,394 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:14:724 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:14:973 LeftClick  in window "MuLab : Voice" : 67,348 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:15:067 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:16:533 LeftClick  in window "MuLab : Voice" : 67,368 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:16:616 Project Browser Preview {UserLibrary}/Soundboard/Yeah Sounds Good.Wav
+22:17:16:812 LeftClick  in window "MuLab : Voice" : 70,347 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:16:897 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:18:157 LeftClick  in window "MuLab : Voice" : 61,364 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:18:232 Project Browser Preview {UserLibrary}/Soundboard/Yeah Sounds Good.Wav
+22:17:18:381 LeftClick  in window "MuLab : Voice" : 55,386 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:18:453 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:18:693 LeftClick  in window "MuLab : Voice" : 59,347 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:18:784 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:17:19:613 LeftClick  in window "MuLab : Voice" : 63,389 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:19:684 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+22:17:19:885 LeftClick  in window "MuLab : Voice" : 57,356 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:19:987 Project Browser Preview {UserLibrary}/Soundboard/Yeah Sounds Good.Wav
+22:17:20:165 LeftClick  in window "MuLab : Voice" : 58,342 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:17:20:254 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+22:21:05:859 LeftClick  in window "MuLab : Voice" : 73,385 -> 0000023839B722C0 = TREL = [21,191,242,607]
+22:21:05:945 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav

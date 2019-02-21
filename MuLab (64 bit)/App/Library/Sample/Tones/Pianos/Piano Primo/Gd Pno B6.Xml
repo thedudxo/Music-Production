@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<AudioFileMetaData Version="1">
+  <RootKey>B7</RootKey>
+  <Markers>
+    <Marker>
+      <Name>Start</Name>
+      <Time>0</Time>
+    </Marker>
+    <Marker>
+      <Name>LoopStart</Name>
+      <Time>21147</Time>
+    </Marker>
+    <Marker>
+      <Name>LoopEnd</Name>
+      <Time>21477</Time>
+    </Marker>
+    <Marker>
+      <Name>End</Name>
+      <Time>25603</Time>
+    </Marker>
+  </Markers>
+</AudioFileMetaData>

@@ -1,0 +1,10 @@
+TopHeight=4
+LeftWidth=0
+RightWidth=0
+BottomHeight=0
+TopMargin=4
+LeftMargin=4
+RightMargin=4
+BottomMargin=4
+ForeColor1=128,128,128
+NumStates=1

@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<AudioFileMetaData Version="1">
+  <RootKey>C#3</RootKey>
+  <Markers>
+    <Marker>
+      <Name>Start</Name>
+      <Time>0</Time>
+    </Marker>
+    <Marker>
+      <Name>LoopStart</Name>
+      <Time>84656</Time>
+    </Marker>
+    <Marker>
+      <Name>LoopEnd</Name>
+      <Time>84973</Time>
+    </Marker>
+    <Marker>
+      <Name>End</Name>
+      <Time>105789</Time>
+    </Marker>
+  </Markers>
+</AudioFileMetaData>

@@ -1,0 +1,855 @@
+14:13:43:389 OpSys=Windows
+14:13:43:389 MuLab 7.7.4 64 bit
+14:13:43:390 Delta UTC = -13
+14:13:43:390 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+14:13:43:390 BStf[92] Desktop=/C:/Users/isaac/Desktop
+14:13:43:404 BStf[124] Graphics={Application}/App/Graphics
+14:13:43:409 Num screens = 2
+14:13:43:409 Screen 1 = 0,0,1920,1040
+14:13:43:409 Screen 2 = -1920,0,1920,1080
+14:13:43:415 File[94] fn=MidiControllerNames.Txt, ec=2
+14:13:43:416 File[94] fn=UKD.Txt, ec=2
+14:13:43:554 Gonna startup audio engine
+14:13:43:555 Gonna startup MME engine
+14:13:43:610 Started MME audio engine:
+14:13:43:610   num headers=8
+14:13:43:610   header size=2048
+14:13:43:610   samplerate=44100
+14:13:43:653 Started the audio engine
+14:13:43:653 MIE[32] 0 Midi Input Ports:
+14:13:43:653 MOE[31] 1 Midi Output Ports:
+14:13:43:653 MOE[41] 0=Microsoft GS Wavetable Synth
+14:13:43:653 File[94] fn=MidiSetup.Txt, ec=2
+14:13:43:653 MOE[87] Couldn't read MidiSetup.Txt
+14:13:43:653 Started the MIDI engine
+14:13:43:682 App[669]
+14:13:47:461 LeftClick  in window "Open Project" : 94,172 -> 000001F449A4DE20 = PSBT = NEW! = [20,156,118,31] = "New"
+14:14:06:126 RightClick  in window "MuLab : MuLab Project" : 88,151 -> 000001F449FF44D0 = TRHD = [4,96,126,100]
+14:14:06:667 LeftClick  in window "" : 17,25 -> 000000DB32CD0F40 = TREL = PULs = [0,0,168,288]
+14:14:06:667 Popup list choice = Delete
+14:14:06:672 CF: 000001F4499D29A0 = trac -> wobj-delt = Delete
+14:14:06:680 UR action: Delete Track "Basic Synth Rack"
+14:14:07:074 LeftClick  in window "MuLab : MuLab Project" : 90,112 -> 000001F44C341E30 = PSBT = +TRK = [4,96,126,21] = "+"
+14:14:07:802 LeftClick  in window "" : 79,17 -> 000000DB32CD7120 = TREL = PULs = [0,0,125,88]
+14:14:07:802 Popup list choice = Add Instrument Track
+14:14:07:808 CF: 000001F449FE3050 = comp -> comp-+Itr = Add Instrument Track
+14:14:09:163 LeftClick  in window "Choose Instrument" : 118,120 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:09:580 LeftClick  in window "Choose Instrument" : 118,120 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:09:866 LeftClick  in window "Choose Instrument" : 142,88 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:10:379 LeftClick  in window "Choose Instrument" : 137,83 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:10:699 LeftClick  in window "Choose Instrument" : 135,94 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:11:401 LeftClick  in window "Choose Instrument" : 154,126 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:14:130 LeftClick  in window "Choose Instrument" : 186,245 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:17:130 LeftClick  in window "Choose Instrument" : 195,284 -> 000000DB32CC1FC8 = TREL = [112,70,238,400]
+14:14:17:277 Chk DblClk = 1
+14:14:17:293 Load preset for 000001F44C90F020 = mufx : {AppLibrary}/Mux/Instruments/MuDrum/909 Kit.Mux
+14:14:19:003 LeftClick  in window "909 Kit Front Panel" : 193,168 -> 000001F4506D2E18 = GUIC = [144,125,68,64]
+14:14:19:171 LeftClick  in window "909 Kit Front Panel" : 288,163 -> 000001F4506D7B68 = GUIC = [246,125,68,64]
+14:14:20:263 LeftClick  in window "909 Kit Front Panel" : 193,152 -> 000001F4506D2E18 = GUIC = [144,125,68,64]
+14:14:20:577 LeftClick  in window "909 Kit Front Panel" : 216,267 -> 000001F4506E6358 = GUIC = [195,258,68,64]
+14:14:21:507 LeftClick  in window "909 Kit Front Panel" : 196,429 -> 000001F4506F9898 = GUIC = [144,391,68,64]
+14:14:21:674 LeftClick  in window "909 Kit Front Panel" : 89,421 -> 000001F4506F4B48 = GUIC = [42,391,68,64]
+14:14:22:469 LeftClick  in window "909 Kit Front Panel" : 297,424 -> 000001F4506FE5E8 = GUIC = [246,391,68,64]
+14:14:22:658 LeftClick  in window "909 Kit Front Panel" : 187,425 -> 000001F4506F9898 = GUIC = [144,391,68,64]
+14:14:23:930 LeftClick  in window "909 Kit Front Panel" : 59,49 -> 000001F450589100 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+14:14:24:020 Load preset for 000001F44C90F020 = mufx : {AppLibrary}/Mux/Instruments/MuDrum/808 Kit.Mux
+14:14:24:986 LeftClick  in window "808 Kit Front Panel" : 279,429 -> 000001F451FAF5C8 = GUIC = [246,391,68,64]
+14:14:25:178 LeftClick  in window "808 Kit Front Panel" : 127,423 -> 000001F451F80FF0 = MDPE = [4,23,987,691]
+14:14:25:546 LeftClick  in window "808 Kit Front Panel" : 172,427 -> 000001F451FAA878 = GUIC = [144,391,68,64]
+14:14:26:284 LeftClick  in window "808 Kit Front Panel" : 202,47 -> 000001F44E5380B0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+14:14:26:371 Load preset for 000001F44C90F020 = mufx : {AppLibrary}/Mux/Instruments/MuDrum/909 Kit.Mux
+14:14:26:818 LeftClick  in window "909 Kit Front Panel" : 202,47 -> 000001F44E536690 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+14:14:26:928 Load preset for 000001F44C90F020 = mufx : {AppLibrary}/Mux/Instruments/MuDrum/Ethnic Kit.Mux
+14:14:27:692 LeftClick  in window "Ethnic Kit Front Panel" : 202,47 -> 000001F44E538DC0 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+14:14:27:809 Load preset for 000001F44C90F020 = mufx : {AppLibrary}/Mux/Instruments/MuDrum/Rock Kit.Mux
+14:14:29:095 LeftClick  in window "Rock Kit Front Panel" : 274,428 -> 000001F4507FE5E8 = GUIC = [246,391,68,64]
+14:14:29:298 LeftClick  in window "Rock Kit Front Panel" : 164,417 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:30:275 LeftClick  in window "Rock Kit Front Panel" : 209,429 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:30:434 LeftClick  in window "Rock Kit Front Panel" : 85,414 -> 000001F4507F4B48 = GUIC = [42,391,68,64]
+14:14:31:413 LeftClick  in window "Rock Kit Front Panel" : 175,416 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:31:603 LeftClick  in window "Rock Kit Front Panel" : 48,413 -> 000001F4507F4B48 = GUIC = [42,391,68,64]
+14:14:32:026 LeftClick  in window "Rock Kit Front Panel" : 344,148 -> 000001F4507D0010 = MDPE = [4,23,987,691]
+14:14:32:086 Drag 000001F4507D0010 = MDPE = [4,23,987,691]
+14:14:32:357 LeftClick  in window "Rock Kit Front Panel" : 376,158 -> 000001F4507DC8B8 = GUIC = [348,125,68,64]
+14:14:33:084 LeftClick  in window "Rock Kit Front Panel" : 161,436 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:33:253 LeftClick  in window "Rock Kit Front Panel" : 69,411 -> 000001F4507F4B48 = GUIC = [42,391,68,64]
+14:14:33:679 LeftClick  in window "Rock Kit Front Panel" : 141,270 -> 000001F4507E1608 = GUIC = [93,258,68,64]
+14:14:34:213 LeftClick  in window "Rock Kit Front Panel" : 201,431 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:34:403 LeftClick  in window "Rock Kit Front Panel" : 51,384 -> 000001F4507F41F0 = LABL = [42,372,68,19]
+14:14:34:510 Chk DblClk = 0
+14:14:35:059 LeftClick  in window "Rock Kit Front Panel" : 181,414 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:35:275 LeftClick  in window "Rock Kit Front Panel" : 5,407 -> 000001F4507D0010 = MDPE = [4,23,987,691]
+14:14:36:010 LeftClick  in window "Rock Kit Front Panel" : 179,412 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:36:283 LeftClick  in window "Rock Kit Front Panel" : 69,398 -> 000001F4507F4B48 = GUIC = [42,391,68,64]
+14:14:36:786 LeftClick  in window "Rock Kit Front Panel" : 218,278 -> 000001F4507E6358 = GUIC = [195,258,68,64]
+14:14:37:949 LeftClick  in window "Rock Kit Front Panel" : 180,415 -> 000001F4507F9898 = GUIC = [144,391,68,64]
+14:14:38:204 LeftClick  in window "Rock Kit Front Panel" : 97,418 -> 000001F4507F4B48 = GUIC = [42,391,68,64]
+14:14:38:668 LeftClick  in window "Rock Kit Front Panel" : 226,297 -> 000001F4507E6358 = GUIC = [195,258,68,64]
+14:14:39:846 LeftClick  in window "MuLab : MuLab Project" : 142,115 -> 000001F44BD755F8 = COPE = [137,96,1501,693]
+14:14:39:994 Chk DblClk = 1
+14:14:40:326 Mouse Lasso 137,96,83,36
+14:14:40:350 UR action: Add Part
+14:14:40:610 LeftClick  in window "MuLab : MuLab Project" : 178,120 -> 000001F44E16D0A0 = SPtC = [137,96,82,36]
+14:14:40:766 Chk DblClk = 1
+14:14:43:794 LeftClick  in window "MuLab : MuLab Project" : 225,277 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:43:930 Chk DblClk = 1
+14:14:44:005 Mouse Lasso 217,257,43,43
+14:14:44:005 UR action: Add Event
+14:14:45:218 LeftClick  in window "MuLab : MuLab Project" : 319,326 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:45:370 Chk DblClk = 1
+14:14:45:458 Mouse Lasso 304,300,43,43
+14:14:45:458 UR action: Add Event
+14:14:46:674 LeftClick  in window "MuLab : MuLab Project" : 176,241 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:14:47:600 LeftClick  in window "MuLab : MuLab Project" : 185,183 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:14:48:403 LeftClick  in window "MuLab : MuLab Project" : 177,150 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:14:49:310 LeftClick  in window "Rock Kit Front Panel" : 201,6 -> 000001F4514A5E28 = LABL = [4,4,987,19]
+14:14:50:095 LeftClick  in window "MuLab : MuLab Project" : 420,152 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:50:238 Chk DblClk = 1
+14:14:50:305 Mouse Lasso 391,128,43,43
+14:14:50:305 UR action: Add Event
+14:14:51:068 LeftClick  in window "MuLab : MuLab Project" : 503,46 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:14:51:980 LeftClick  in window "MuLab : MuLab Project" : 503,46 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:14:52:554 LeftClick  in window "MuLab : MuLab Project" : 317,331 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:52:596 Drag 000001F450F7A650 = evnt
+14:14:52:833 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:52:833 UR action: Move Notes
+14:14:53:443 LeftClick  in window "MuLab : MuLab Project" : 409,151 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:53:466 Drag 000001F450F7AB30 = evnt
+14:14:53:688 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:53:688 UR action: Move Notes
+14:14:54:303 LeftClick  in window "MuLab : MuLab Project" : 551,52 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:14:54:739 LeftClick  in window "MuLab : MuLab Project" : 498,42 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:14:56:450 LeftClick  in window "MuLab : MuLab Project" : 498,42 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:14:57:563 LeftClick  in window "MuLab : MuLab Project" : 236,286 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:57:776 Drag 000001F450F797B0 = evnt
+14:14:58:140 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:58:643 LeftClick  in window "MuLab : MuLab Project" : 280,333 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:58:700 Drag 000001F450F7A650 = evnt
+14:14:58:943 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:14:58:943 UR action: Move Notes
+14:14:59:481 LeftClick  in window "MuLab : MuLab Project" : 547,49 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:14:59:786 LeftClick  in window "MuLab : MuLab Project" : 512,44 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:04:188 LeftClick  in window "MuLab : MuLab Project" : 503,53 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:04:938 LeftClick  in window "MuLab : MuLab Project" : 174,546 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:05:993 LeftClick  in window "MuLab : MuLab Project" : 173,589 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:08:444 LeftClick  in window "MuLab : MuLab Project" : 231,288 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:08:476 Drag 000001F450F797B0 = evnt
+14:15:08:956 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:08:956 UR action: Move Notes
+14:15:09:595 LeftClick  in window "MuLab : MuLab Project" : 238,493 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:09:634 Drag 000001F450F797B0 = evnt
+14:15:10:099 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:10:099 UR action: Move Notes
+14:15:10:563 LeftClick  in window "MuLab : MuLab Project" : 198,418 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:11:993 LeftClick  in window "MuLab : MuLab Project" : 359,157 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:12:066 Drag 000001F450F7AB30 = evnt
+14:15:12:591 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:12:591 UR action: Move Notes
+14:15:13:581 LeftClick  in window "MuLab : MuLab Project" : 515,43 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:14:089 LeftClick  in window "MuLab : MuLab Project" : 497,43 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:14:467 LeftClick  in window "MuLab : MuLab Project" : 550,53 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:14:770 LeftClick  in window "MuLab : MuLab Project" : 554,53 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:15:268 LeftClick  in window "MuLab : MuLab Project" : 502,55 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:16:797 LeftClick  in window "MuLab : MuLab Project" : 502,55 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:17:403 LeftClick  in window "MuLab : MuLab Project" : 152,460 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:18:179 LeftClick  in window "MuLab : MuLab Project" : 189,487 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:18:898 LeftClick  in window "MuLab : MuLab Project" : 360,410 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:18:938 Drag 000001F450F7AB30 = evnt
+14:15:19:176 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:19:176 UR action: Move Notes
+14:15:19:844 LeftClick  in window "MuLab : MuLab Project" : 557,57 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:20:130 LeftClick  in window "MuLab : MuLab Project" : 505,48 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:23:101 LeftClick  in window "MuLab : MuLab Project" : 190,322 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:23:570 LeftClick  in window "MuLab : MuLab Project" : 193,264 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:24:035 LeftClick  in window "MuLab : MuLab Project" : 190,231 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:24:330 LeftClick  in window "MuLab : MuLab Project" : 188,196 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:25:059 LeftClick  in window "MuLab : MuLab Project" : 178,154 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:25:803 LeftClick  in window "MuLab : MuLab Project" : 180,489 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:26:138 LeftClick  in window "MuLab : MuLab Project" : 157,541 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:27:097 LeftClick  in window "MuLab : MuLab Project" : 172,496 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:27:435 LeftClick  in window "MuLab : MuLab Project" : 174,453 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:27:954 LeftClick  in window "MuLab : MuLab Project" : 174,493 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:28:130 LeftClick  in window "MuLab : MuLab Project" : 172,507 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:28:484 LeftClick  in window "MuLab : MuLab Project" : 173,536 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:29:883 LeftClick  in window "MuLab : MuLab Project" : 172,537 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:30:107 LeftClick  in window "MuLab : MuLab Project" : 171,500 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:30:779 LeftClick  in window "MuLab : MuLab Project" : 188,493 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:30:964 LeftClick  in window "MuLab : MuLab Project" : 183,536 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:31:589 LeftClick  in window "MuLab : MuLab Project" : 231,328 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:31:615 Drag 000001F450F797B0 = evnt
+14:15:31:994 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:31:994 UR action: Move Notes
+14:15:32:307 LeftClick  in window "MuLab : MuLab Project" : 296,353 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:32:331 Chk DblClk = 0
+14:15:32:474 Mouse Lasso 260,343,44,43
+14:15:32:475 UR action: Change Note Length
+14:15:32:706 LeftClick  in window "MuLab : MuLab Project" : 282,372 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:32:741 Drag 000001F450F7A650 = evnt
+14:15:33:067 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:33:067 UR action: Move Notes
+14:15:33:763 LeftClick  in window "MuLab : MuLab Project" : 556,53 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:34:167 LeftClick  in window "MuLab : MuLab Project" : 554,53 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:35:135 LeftClick  in window "MuLab : MuLab Project" : 489,53 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:36:162 LeftClick  in window "MuLab : MuLab Project" : 273,530 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:36:191 Drag 000001F450F7A650 = evnt
+14:15:36:371 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:36:371 UR action: Move Notes
+14:15:36:571 LeftClick  in window "MuLab : MuLab Project" : 231,506 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:36:627 Drag 000001F450F797B0 = evnt
+14:15:36:800 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:36:800 UR action: Move Notes
+14:15:37:450 LeftClick  in window "MuLab : MuLab Project" : 565,49 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:37:884 LeftClick  in window "MuLab : MuLab Project" : 509,51 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:39:315 LeftClick  in window "MuLab : MuLab Project" : 508,51 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:40:707 LeftClick  in window "MuLab : MuLab Project" : 372,455 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:40:755 Drag 000001F450F7AB30 = evnt
+14:15:41:506 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:41:506 UR action: Move Notes
+14:15:42:050 LeftClick  in window "MuLab : MuLab Project" : 552,51 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:42:330 LeftClick  in window "MuLab : MuLab Project" : 498,40 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:44:100 LeftClick  in window "MuLab : MuLab Project" : 373,186 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:44:134 Drag 000001F450F7AB30 = evnt
+14:15:44:428 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:44:428 UR action: Move Notes
+14:15:44:938 LeftClick  in window "MuLab : MuLab Project" : 549,51 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:45:444 LeftClick  in window "MuLab : MuLab Project" : 499,41 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:45:770 LeftClick  in window "MuLab : MuLab Project" : 553,46 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:45:930 LeftClick  in window "MuLab : MuLab Project" : 553,46 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:46:284 LeftClick  in window "MuLab : MuLab Project" : 512,46 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:48:987 LeftClick  in window "MuLab : MuLab Project" : 503,45 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:50:010 LeftClick  in window "MuLab : MuLab Project" : 162,571 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:50:858 LeftClick  in window "MuLab : MuLab Project" : 170,540 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:51:681 LeftClick  in window "MuLab : MuLab Project" : 162,496 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:15:52:363 LeftClick  in window "MuLab : MuLab Project" : 233,543 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:52:395 Drag 000001F450F797B0 = evnt
+14:15:52:601 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:52:602 UR action: Move Notes
+14:15:53:372 LeftClick  in window "MuLab : MuLab Project" : 563,57 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:53:690 LeftClick  in window "MuLab : MuLab Project" : 562,57 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:54:146 LeftClick  in window "MuLab : MuLab Project" : 503,52 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:56:354 LeftClick  in window "MuLab : MuLab Project" : 490,56 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:15:57:234 LeftClick  in window "MuLab : MuLab Project" : 227,569 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:57:260 Drag 000001F450F797B0 = evnt
+14:15:57:600 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:57:600 UR action: Move Notes
+14:15:57:867 LeftClick  in window "MuLab : MuLab Project" : 273,489 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:57:890 Drag 000001F450F7A650 = evnt
+14:15:58:159 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:15:58:159 UR action: Move Notes
+14:15:58:794 LeftClick  in window "MuLab : MuLab Project" : 556,52 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:59:267 LeftClick  in window "MuLab : MuLab Project" : 549,51 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:15:59:634 LeftClick  in window "MuLab : MuLab Project" : 503,46 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:00:683 LeftClick  in window "MuLab : MuLab Project" : 496,46 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:01:154 LeftClick  in window "MuLab : MuLab Project" : 151,639 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:16:01:684 LeftClick  in window "MuLab : MuLab Project" : 175,545 -> 000001F453637D60 = PKYB = [137,-2280,80,5504]
+14:16:02:389 LeftClick  in window "MuLab : MuLab Project" : 241,493 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:02:428 Drag 000001F450F797B0 = evnt
+14:16:03:712 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:03:714 UR action: Move Notes
+14:16:03:986 LeftClick  in window "MuLab : MuLab Project" : 280,575 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:04:068 Drag 000001F450F7A650 = evnt
+14:16:04:260 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:04:261 UR action: Move Notes
+14:16:04:939 LeftClick  in window "MuLab : MuLab Project" : 548,47 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:16:05:371 LeftClick  in window "MuLab : MuLab Project" : 504,42 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:06:538 LeftClick  in window "MuLab : MuLab Project" : 497,41 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:07:346 LeftClick  in window "MuLab : MuLab Project" : 227,613 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:07:415 Drag 000001F450F797B0 = evnt
+14:16:07:825 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:07:825 UR action: Move Notes
+14:16:08:058 LeftClick  in window "MuLab : MuLab Project" : 286,532 -> 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:08:096 Drag 000001F450F7A650 = evnt
+14:16:08:397 Drop on 000001F4536454E8 = TLED = [217,-2280,2810,5504]
+14:16:08:397 UR action: Move Notes
+14:16:08:398 Error MtOp[74]
+14:16:09:124 LeftClick  in window "MuLab : MuLab Project" : 550,55 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:16:09:489 LeftClick  in window "MuLab : MuLab Project" : 509,51 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:13:007 LeftClick  in window "MuLab : MuLab Project" : 515,41 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:13:267 LeftClick  in window "MuLab : MuLab Project" : 547,46 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:16:13:450 LeftClick  in window "MuLab : MuLab Project" : 547,46 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:16:13:915 LeftClick  in window "MuLab : MuLab Project" : 506,41 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:15:896 LeftClick  in window "Rock Kit Front Panel" : 983,7 -> 000001F4514A2BA8 = PSBT = [970,4,17,17] = CloseDelete
+14:16:15:974 CF: 000001F4514A0670 = MEWd -> cuwd-clos = Close
+14:16:17:901 LeftClick  in window "MuLab : MuLab Project" : 1612,87 -> 000001F45362BAC0 = TBAR = [217,76,2810,20]
+14:16:17:997 Empty drag
+14:16:18:813 UR action: Change Loop Length
+14:16:19:732 LeftClick  in window "MuLab : MuLab Project" : 201,52 -> 000001F44BD31C10 = TLBT = [168,33,71,30] = "COMPOSE"
+14:16:21:004 LeftClick  in window "MuLab : MuLab Project" : 217,109 -> 000001F44E16D0A0 = SPtC = [137,96,82,36]
+14:16:21:086 Chk DblClk = 0
+14:16:21:386 Mouse Lasso 137,96,83,36
+14:16:21:386 UR action: Change Part Length
+14:16:21:625 LeftClick  in window "MuLab : MuLab Project" : 210,109 -> 000001F44E16D0A0 = SPtC = [137,96,82,36]
+14:16:21:775 Chk DblClk = 0
+14:16:22:157 Mouse Lasso 137,96,42,36
+14:16:22:158 UR action: Change Part Length
+14:16:23:287 LeftClick  in window "MuLab : MuLab Project" : 552,47 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:16:23:659 LeftClick  in window "MuLab : MuLab Project" : 552,47 -> 000001F44BD396C8 = TGBT = rewd = [539,33,30,30] = Rewind
+14:16:26:530 LeftClick  in window "MuLab : MuLab Project" : 499,41 -> 000001F44BD36448 = TLBT = [473,33,60,30] = Play
+14:16:27:195 LeftClick  in window "MuLab : MuLab Project" : 150,120 -> 000001F44E16D0A0 = SPtC = [137,96,41,36]
+14:16:27:403 Chk DblClk = 0
+14:16:27:906 LeftClick  in window "MuLab : MuLab Project" : 56,39 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:16:28:890 LeftClick  in window "MuLab : MuLab Project" : 113,49 -> 000001F44BD306C0 = TGBT = [86,33,66,30] = "PROJECT"
+14:16:32:708 LeftClick  in window "" : 203,495 -> 000000DB32CD1160 = TREL = PULs = [0,0,225,928]
+14:16:32:708 Popup list choice = Render Selected Parts As New Sample
+14:16:32:714 CF: 000001F449BE0B90 = mlsn -> mcsn-RPNS = Render Selected Parts As New Sample
+14:16:34:386 LeftClick  in window "Render Sample" : 197,47 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:34:875 Chk DblClk = 0
+14:16:35:496 Key  in window "Render Sample" : Shift [B] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:35:822 Key  in window "Render Sample" : [U] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:36:701 Key  in window "Render Sample" : [H] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:36:910 Key  in window "Render Sample" : [Space] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:37:102 Key  in window "Render Sample" : Shift [D] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:37:214 Key  in window "Render Sample" : [U] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:37:429 Key  in window "Render Sample" : [M] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:37:757 Key  in window "Render Sample" : [Space] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:38:133 Key  in window "Render Sample" : Shift [T] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:38:311 Key  in window "Render Sample" : [I] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:38:399 Key  in window "Render Sample" : [S] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:38:568 Key  in window "Render Sample" : [S] XY = 0,0 -> 000001F449C7B838 = LABL = [176,31,112,18]
+14:16:42:706 LeftClick  in window "Render Sample" : 331,80 -> 000001F449C85C68 = PSBT = [312,68,22,22] = Loop
+14:16:47:595 LeftClick  in window "Render Sample" : 100,149 -> 000001F45219D010 = PSBT = O.K. = [79,135,56,31] = "OK"
+14:16:50:270 LeftClick  in window "MuLab : MuLab Project" : 1683,227 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:16:51:013 LeftClick  in window "MuLab : MuLab Project" : 1683,227 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:16:51:346 LeftClick  in window "MuLab : MuLab Project" : 1678,200 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:16:53:642 LeftClick  in window "MuLab : MuLab Project" : 1678,200 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:16:55:020 LeftClick  in window "MuLab : MuLab Project" : 1767,118 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:16:56:227 LeftClick  in window "" : 99,32 -> 000000DB32CC5030 = TREL = PULs = [0,0,315,148]
+14:16:56:227 Popup list choice = User Library
+14:16:59:561 LeftClick  in window "MuLab : MuLab Project" : 1757,117 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:17:01:443 LeftClick  in window "MuLab : MuLab Project" : 1773,86 -> 000001F449ECABC8 = LABL = [1713,81,112,18]
+14:17:03:092 LeftClick  in window "" : 56,54 -> 000001F449EC2A38 = TREL = PULs = [0,0,90,328]
+14:17:03:093 Popup list choice = Samples
+14:17:06:346 LeftClick  in window "MuLab : MuLab Project" : 1725,287 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:06:440 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:08:114 LeftClick  in window "MuLab : MuLab Project" : 1704,309 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:08:214 Project Browser Preview 000001F448FE66C0 = ssmp
+14:17:08:731 LeftClick  in window "MuLab : MuLab Project" : 1695,288 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:08:812 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:11:770 LeftClick  in window "MuLab : MuLab Project" : 1695,288 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:11:861 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:12:993 RightClick  in window "MuLab : MuLab Project" : 1695,288 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:20:241 LeftClick  in window "MuLab : MuLab Project" : 1720,284 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:20:283 Drag 000001F44CB7D200 = ssmp
+14:17:21:346 Drop on 000001F44BD755F8 = COPE = [137,96,1501,693]
+14:17:23:555 LeftClick  in window "" : 253,66 -> 000000DB32CDD020 = PSBT = [196,0,98,98]
+14:17:24:556 LeftClick  in window "MuLab : MuLab Project" : 1754,287 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:24:636 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:25:747 LeftClick  in window "MuLab : MuLab Project" : 1723,537 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:25:830 Project Browser Preview 000001F448FE31F0 = ssmp
+14:17:26:315 LeftClick  in window "MuLab : MuLab Project" : 1699,528 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:26:406 Project Browser Preview 000001F448FDB330 = ssmp
+14:17:26:659 LeftClick  in window "MuLab : MuLab Project" : 1714,480 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:26:738 Project Browser Preview 000001F450311440 = ssmp
+14:17:26:914 LeftClick  in window "MuLab : MuLab Project" : 1723,411 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:26:995 Project Browser Preview 000001F450316BF0 = ssmp
+14:17:27:635 LeftClick  in window "MuLab : MuLab Project" : 1719,307 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:27:725 Project Browser Preview 000001F448FE66C0 = ssmp
+14:17:28:138 LeftClick  in window "MuLab : MuLab Project" : 1722,328 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:28:229 Project Browser Preview 000001F44F631B20 = ssmp
+14:17:28:946 LeftClick  in window "MuLab : MuLab Project" : 1722,290 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:29:021 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:30:955 LeftClick  in window "MuLab : MuLab Project" : 1722,290 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:31:085 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:34:442 LeftClick  in window "MuLab : MuLab Project" : 1722,290 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:34:543 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:38:195 LeftClick  in window "MuLab : MuLab Project" : 1722,290 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:38:288 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:41:443 LeftClick  in window "MuLab : MuLab Project" : 1722,290 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:41:531 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:45:010 LeftClick  in window "MuLab : MuLab Project" : 1710,783 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:45:091 Project Browser Preview 000001F448FE9B90 = ssmp
+14:17:46:258 LeftClick  in window "MuLab : MuLab Project" : 1733,287 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:46:348 Project Browser Preview 000001F44CB7D200 = ssmp
+14:17:51:938 RightClick  in window "MuLab : MuLab Project" : 1816,209 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:17:54:076 LeftClick  in window "MuLab : MuLab Project" : 57,41 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:17:56:897 LeftClick  in window "MuLab : MuLab Project" : 70,44 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:17:58:289 LeftClick  in window "" : 80,105 -> 000000DB32CD7B30 = TREL = PULs = [0,0,172,508]
+14:17:58:290 Popup list choice = Edit Colors
+14:17:58:296 CF: 00007FF71FD2EAE0 = mlap -> appl-ChLx = Edit Colors
+14:18:01:658 LeftClick  in window "Edit Colors" : 51,63 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:02:666 LeftClick  in window "Edit Colors" : 46,90 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:03:651 LeftClick  in window "Edit Colors" : 57,101 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:04:522 LeftClick  in window "Edit Colors" : 39,59 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:04:980 LeftClick  in window "Edit Colors" : 41,87 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:05:353 LeftClick  in window "Edit Colors" : 46,69 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:06:330 LeftClick  in window "Edit Colors" : 40,117 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:07:388 LeftClick  in window "Edit Colors" : 48,138 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:07:737 LeftClick  in window "Edit Colors" : 48,168 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:08:090 LeftClick  in window "Edit Colors" : 48,186 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:08:642 LeftClick  in window "Edit Colors" : 32,42 -> 000000DB32CC4018 = TREL = [12,31,80,168]
+14:18:37:178 LeftClick  in window "Edit Colors" : 342,333 -> 000001F44C29A8E0 = ClrC = [320,322,36,18]
+14:18:38:979 LeftClick  in window "Choose Color" : 254,504 -> 000000DB32CC0580 = PSBT = CNCL = [234,489,56,31] = "Cancel"
+14:18:40:931 LeftClick  in window "Edit Colors" : 336,266 -> 000001F44C28F0A0 = ClrC = [320,258,36,18]
+14:18:42:394 LeftClick  in window "Choose Color" : 213,161 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:18:43:282 LeftClick  in window "Choose Color" : 113,500 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:18:45:027 LeftClick  in window "Edit Colors" : 216,7 -> 000001F4514A5E28 = LABL = [4,4,388,19]
+14:18:46:850 LeftClick  in window "Edit Colors" : 339,263 -> 000001F44C28F0A0 = ClrC = [320,258,36,18]
+14:18:48:249 LeftClick  in window "Choose Color" : 257,499 -> 000000DB32CC0580 = PSBT = CNCL = [234,489,56,31] = "Cancel"
+14:18:48:730 LeftClick  in window "Edit Colors" : 137,790 -> 000000DB32CD57C8 = PSBT = PRST = [93,783,60,31] = "Presets"
+14:18:51:314 LeftClick  in window "Edit Colors" : 333,263 -> 000001F44C28F0A0 = ClrC = [320,258,36,18]
+14:18:52:338 LeftClick  in window "Choose Color" : 209,175 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:18:54:785 LeftClick  in window "Choose Color" : 127,507 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:18:56:157 LeftClick  in window "Edit Colors" : 332,272 -> 000001F44C28F0A0 = ClrC = [320,258,36,18]
+14:18:57:289 LeftClick  in window "Choose Color" : 268,501 -> 000000DB32CC0580 = PSBT = CNCL = [234,489,56,31] = "Cancel"
+14:18:59:419 LeftClick  in window "Edit Colors" : 336,339 -> 000001F44C29A8E0 = ClrC = [320,322,36,18]
+14:18:59:922 LeftClick  in window "Choose Color" : 169,157 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:19:00:658 LeftClick  in window "Choose Color" : 129,508 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:02:027 LeftClick  in window "Edit Colors" : 346,333 -> 000001F44C29A8E0 = ClrC = [320,322,36,18]
+14:19:02:634 LeftClick  in window "Choose Color" : 217,171 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:19:03:554 LeftClick  in window "Choose Color" : 109,510 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:05:427 LeftClick  in window "Edit Colors" : 338,331 -> 000001F44C29A8E0 = ClrC = [320,322,36,18]
+14:19:06:498 LeftClick  in window "Choose Color" : 48,177 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:19:07:172 LeftClick  in window "Choose Color" : 171,75 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:19:08:538 LeftClick  in window "Choose Color" : 107,508 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:10:514 LeftClick  in window "Edit Colors" : 346,325 -> 000001F44C29A8E0 = ClrC = [320,322,36,18]
+14:19:11:146 LeftClick  in window "Choose Color" : 92,256 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:19:11:898 LeftClick  in window "Choose Color" : 123,499 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:13:313 LeftClick  in window "Edit Colors" : 343,326 -> 000001F44C29A8E0 = ClrC = [320,322,36,18]
+14:19:13:841 LeftClick  in window "Choose Color" : 179,264 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:19:14:650 LeftClick  in window "Choose Color" : 121,504 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:24:753 LeftClick  in window "Edit Colors" : 332,48 -> 000001F44C297AD0 = ClrC = [320,34,36,18]
+14:19:25:643 LeftClick  in window "Choose Color" : 162,165 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:19:26:300 LeftClick  in window "Choose Color" : 132,498 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:28:257 LeftClick  in window "Edit Colors" : 336,42 -> 000001F44C297AD0 = ClrC = [320,34,36,18]
+14:19:29:227 LeftClick  in window "Choose Color" : 232,80 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:19:29:850 LeftClick  in window "Choose Color" : 221,169 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:19:31:834 LeftClick  in window "Choose Color" : 74,248 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:19:32:219 LeftClick  in window "Choose Color" : 91,173 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:19:32:802 LeftClick  in window "Choose Color" : 79,251 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:19:33:803 LeftClick  in window "Choose Color" : 105,497 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:50:058 LeftClick  in window "Edit Colors" : 343,41 -> 000001F44C297AD0 = ClrC = [320,34,36,18]
+14:19:51:442 LeftClick  in window "Choose Color" : 220,79 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:19:53:042 LeftClick  in window "Choose Color" : 126,498 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:19:56:172 LeftClick  in window "Edit Colors" : 282,791 -> 000000DB32CD6468 = PSBT = Done = [242,783,60,31] = "Done"
+14:19:56:866 LeftClick  in window "MuLab : MuLab Project" : 1709,252 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:19:56:954 Project Browser Preview 000001F451D76020 = ssmp
+14:19:57:625 LeftClick  in window "MuLab : MuLab Project" : 1712,288 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:19:57:711 Project Browser Preview 000001F44CB7D200 = ssmp
+14:20:00:179 LeftClick  in window "MuLab : MuLab Project" : 1704,287 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:20:00:275 Project Browser Preview 000001F44CB7D200 = ssmp
+14:20:03:668 RightClick  in window "MuLab : MuLab Project" : 628,15 -> 000001F44C348298 = LABL = [4,4,1912,19]
+14:20:06:345 LeftClick  in window "MuLab : MuLab Project" : 63,48 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:20:07:498 LeftClick  in window "MuLab : MuLab Project" : 99,43 -> 000001F44BD306C0 = TGBT = [86,33,66,30] = "PROJECT"
+14:20:09:242 LeftClick  in window "MuLab : MuLab Project" : 53,39 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:20:10:758 LeftClick  in window "" : 84,107 -> 000000DB32CD7B30 = TREL = PULs = [0,0,172,508]
+14:20:10:758 Popup list choice = Edit Colors
+14:20:10:763 CF: 00007FF71FD2EAE0 = mlap -> appl-ChLx = Edit Colors
+14:20:32:779 LeftClick  in window "Edit Colors" : 349,138 -> 000001F44C291EB0 = ClrC = [320,130,36,18]
+14:20:35:426 LeftClick  in window "Choose Color" : 201,89 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:20:36:546 LeftClick  in window "Choose Color" : 169,167 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:20:37:698 LeftClick  in window "Choose Color" : 123,517 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:20:42:300 LeftClick  in window "Edit Colors" : 338,141 -> 000001F44C291EB0 = ClrC = [320,130,36,18]
+14:20:43:470 LeftClick  in window "Choose Color" : 109,252 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:20:44:660 LeftClick  in window "Choose Color" : 189,75 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:20:45:802 LeftClick  in window "Choose Color" : 135,507 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:20:49:130 LeftClick  in window "Edit Colors" : 336,136 -> 000001F44C291EB0 = ClrC = [320,130,36,18]
+14:20:50:129 LeftClick  in window "Choose Color" : 183,171 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:20:50:658 LeftClick  in window "Choose Color" : 190,161 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:20:51:274 LeftClick  in window "Choose Color" : 195,87 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:20:52:322 LeftClick  in window "Choose Color" : 110,499 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:20:54:698 LeftClick  in window "Edit Colors" : 344,138 -> 000001F44C291EB0 = ClrC = [320,130,36,18]
+14:20:55:676 LeftClick  in window "Choose Color" : 207,96 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:20:56:905 LeftClick  in window "Choose Color" : 203,92 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:20:57:761 LeftClick  in window "Choose Color" : 118,503 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:21:02:699 LeftClick  in window "Edit Colors" : 343,172 -> 000001F44C294CC0 = ClrC = [320,162,36,18]
+14:21:05:230 LeftClick  in window "Choose Color" : 202,85 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:21:06:021 LeftClick  in window "Choose Color" : 232,167 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:21:06:747 LeftClick  in window "Choose Color" : 239,261 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:21:08:178 LeftClick  in window "Choose Color" : 131,508 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:21:10:753 LeftClick  in window "Edit Colors" : 336,168 -> 000001F44C294CC0 = ClrC = [320,162,36,18]
+14:21:11:644 LeftClick  in window "Choose Color" : 172,248 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:21:12:740 LeftClick  in window "Choose Color" : 245,169 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:21:14:194 LeftClick  in window "Choose Color" : 115,262 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:21:14:850 LeftClick  in window "Choose Color" : 224,86 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:21:15:777 LeftClick  in window "Choose Color" : 110,508 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:21:18:451 LeftClick  in window "Edit Colors" : 336,176 -> 000001F44C294CC0 = ClrC = [320,162,36,18]
+14:21:19:172 LeftClick  in window "Choose Color" : 171,245 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:21:19:906 LeftClick  in window "Choose Color" : 179,261 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:21:21:714 LeftClick  in window "Choose Color" : 221,100 -> 000000DB32CA9FD8 = SLDR = [12,99,258,8]
+14:21:23:347 LeftClick  in window "Choose Color" : 122,504 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:22:07:330 LeftClick  in window "Edit Colors" : 345,621 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:22:09:332 LeftClick  in window "Choose Color" : 232,163 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:22:10:426 LeftClick  in window "Choose Color" : 129,493 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:22:12:582 LeftClick  in window "Edit Colors" : 344,621 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:22:13:986 LeftClick  in window "Choose Color" : 252,170 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:22:15:147 LeftClick  in window "Choose Color" : 118,491 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:22:33:515 LeftClick  in window "Edit Colors" : 344,392 -> 000001F4520DC480 = ClrC = [320,386,36,18]
+14:22:34:603 LeftClick  in window "Choose Color" : 153,250 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:22:34:987 LeftClick  in window "Choose Color" : 203,150 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:22:35:812 LeftClick  in window "Choose Color" : 180,512 -> 000000DB32CC0580 = PSBT = O.K. = [152,489,76,31] = "OK"
+14:22:39:794 LeftClick  in window "Edit Colors" : 346,397 -> 000001F4520DC480 = ClrC = [320,386,36,18]
+14:22:40:732 LeftClick  in window "Choose Color" : 185,232 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:22:41:961 LeftClick  in window "Choose Color" : 74,494 -> 000000DB32CBF8E0 = PSBT = NONE = [40,489,76,31] = "Auto Color"
+14:22:42:538 LeftClick  in window "Choose Color" : 207,509 -> 000000DB32CC0580 = PSBT = O.K. = [152,489,76,31] = "OK"
+14:22:55:821 LeftClick  in window "Edit Colors" : 335,656 -> 000001F4520F9120 = ClrC = [320,642,36,18]
+14:22:56:474 LeftClick  in window "Choose Color" : 201,156 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:22:57:105 LeftClick  in window "Choose Color" : 180,247 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:22:58:577 LeftClick  in window "Choose Color" : 202,245 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:22:59:186 LeftClick  in window "Choose Color" : 197,507 -> 000000DB32CC0580 = PSBT = O.K. = [152,489,76,31] = "OK"
+14:23:01:267 LeftClick  in window "Edit Colors" : 334,645 -> 000001F4520F9120 = ClrC = [320,642,36,18]
+14:23:01:945 LeftClick  in window "Choose Color" : 79,495 -> 000000DB32CBF8E0 = PSBT = NONE = [40,489,76,31] = "Auto Color"
+14:23:02:515 LeftClick  in window "Choose Color" : 190,503 -> 000000DB32CC0580 = PSBT = O.K. = [152,489,76,31] = "OK"
+14:23:17:747 LeftClick  in window "Edit Colors" : 323,617 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:23:18:859 LeftClick  in window "Choose Color" : 245,72 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:19:737 LeftClick  in window "Choose Color" : 117,508 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:23:24:853 LeftClick  in window "Edit Colors" : 347,612 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:23:25:699 LeftClick  in window "Choose Color" : 236,156 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:23:28:106 LeftClick  in window "Choose Color" : 245,77 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:29:794 LeftClick  in window "Choose Color" : 127,494 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:23:32:512 LeftClick  in window "Edit Colors" : 331,624 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:23:33:225 LeftClick  in window "Choose Color" : 220,84 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:34:483 LeftClick  in window "Choose Color" : 250,177 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:23:35:980 LeftClick  in window "Choose Color" : 132,488 -> 000000DB32C9E1E0 = COLP = [4,23,373,505]
+14:23:36:579 LeftClick  in window "Choose Color" : 122,502 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:23:39:234 LeftClick  in window "Edit Colors" : 331,617 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:23:39:946 LeftClick  in window "Choose Color" : 222,85 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:41:339 LeftClick  in window "Choose Color" : 226,96 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:42:283 LeftClick  in window "Choose Color" : 229,170 -> 000000DB32CA8850 = GUIC = [12,133,258,50]
+14:23:43:385 LeftClick  in window "Choose Color" : 218,94 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:44:634 LeftClick  in window "Choose Color" : 177,262 -> 000000DB32CA9028 = GUIC = [12,217,258,50]
+14:23:45:970 LeftClick  in window "Choose Color" : 131,507 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:23:48:514 LeftClick  in window "Edit Colors" : 336,615 -> 000001F4520E20A0 = ClrC = [320,610,36,18]
+14:23:49:306 LeftClick  in window "Choose Color" : 219,95 -> 000000DB32CA8078 = GUIC = [12,49,258,50]
+14:23:51:283 LeftClick  in window "Choose Color" : 120,493 -> 000000DB32CBF8E0 = PSBT = O.K. = [91,489,56,31] = "OK"
+14:24:03:894 LeftClick  in window "Edit Colors" : 274,793 -> 000000DB32CD6468 = PSBT = Done = [242,783,60,31] = "Done"
+14:24:04:587 LeftClick  in window "MuLab : MuLab Project" : 1709,326 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:04:675 Project Browser Preview 000001F44F631B20 = ssmp
+14:24:05:178 LeftClick  in window "MuLab : MuLab Project" : 1707,285 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:05:306 Project Browser Preview 000001F44CB7D200 = ssmp
+14:24:06:733 LeftClick  in window "MuLab : MuLab Project" : 1690,287 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:06:850 Project Browser Preview 000001F44CB7D200 = ssmp
+14:24:07:458 LeftClick  in window "MuLab : MuLab Project" : 1690,287 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:07:544 Project Browser Preview 000001F44CB7D200 = ssmp
+14:24:07:963 RightClick  in window "MuLab : MuLab Project" : 1713,288 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:14:178 LeftClick  in window "MuLab : MuLab Project" : 1747,168 -> 000001F449EF1E68 = PSBT = [1737,151,32,32] = Options
+14:24:16:540 LeftClick  in window "MuLab : MuLab Project" : 1766,111 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:24:20:187 LeftClick  in window "" : 106,80 -> 000000DB32CC5030 = TREL = PULs = [0,0,315,188]
+14:24:20:187 Popup list choice = User Library
+14:24:21:707 LeftClick  in window "MuLab : MuLab Project" : 1793,115 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:24:22:659 LeftClick  in window "" : 135,20 -> 000000DB32CC5030 = TREL = PULs = [0,0,315,188]
+14:24:22:659 Popup list choice = This Project
+14:24:24:450 LeftClick  in window "MuLab : MuLab Project" : 1723,284 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:24:560 Project Browser Preview 000001F44CB7D200 = ssmp
+14:24:24:946 RightClick  in window "MuLab : MuLab Project" : 1709,283 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:24:26:893 LeftClick  in window "" : 83,130 -> 000000DB32CD0B70 = TREL = PULs = [0,0,211,548]
+14:24:26:893 Popup list choice = Save As...
+14:24:26:897 CF: 000001F44CB7D200 = ssmp -> ssmp-svas = Save As...
+14:24:29:268 LeftClick  in window "Browse For Audio File" : 142,395 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:29:268 File[94] fn=Drums, ec=5
+14:24:29:268 File[94] fn=Drums, ec=5
+14:24:30:209 LeftClick  in window "Browse For Audio File" : 142,395 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:30:210 File[94] fn=Drums, ec=5
+14:24:30:210 File[94] fn=Drums, ec=5
+14:24:30:945 LeftClick  in window "Browse For Audio File" : 137,420 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:30:946 File[94] fn=Tones, ec=5
+14:24:30:946 File[94] fn=Tones, ec=5
+14:24:31:402 LeftClick  in window "Browse For Audio File" : 137,420 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:31:403 File[94] fn=Tones, ec=5
+14:24:31:403 File[94] fn=Tones, ec=5
+14:24:31:795 LeftClick  in window "Browse For Audio File" : 137,443 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:31:795 File[94] fn=WaveTables, ec=5
+14:24:31:795 File[94] fn=WaveTables, ec=5
+14:24:32:329 LeftClick  in window "Browse For Audio File" : 137,443 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:32:329 File[94] fn=WaveTables, ec=5
+14:24:32:329 File[94] fn=WaveTables, ec=5
+14:24:35:025 LeftClick  in window "Browse For Audio File" : 103,255 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:35:026 File[94] fn={AppLibrary}, ec=5
+14:24:35:026 File[94] fn={AppLibrary}, ec=5
+14:24:36:250 LeftClick  in window "Browse For Audio File" : 88,282 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:36:250 File[94] fn=User, ec=5
+14:24:36:250 File[94] fn=User, ec=5
+14:24:37:186 LeftClick  in window "Browse For Audio File" : 109,304 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:37:186 File[94] fn=Audio, ec=5
+14:24:37:187 File[94] fn=Audio, ec=5
+14:24:37:650 LeftClick  in window "Browse For Audio File" : 109,303 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:37:651 File[94] fn=Audio, ec=5
+14:24:37:651 File[94] fn=Audio, ec=5
+14:24:38:003 LeftClick  in window "Browse For Audio File" : 106,318 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:38:003 File[94] fn={UserLibrary}, ec=5
+14:24:38:003 File[94] fn={UserLibrary}, ec=5
+14:24:39:025 LeftClick  in window "Browse For Audio File" : 109,299 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:39:026 File[94] fn=Audio, ec=5
+14:24:39:026 File[94] fn=Audio, ec=5
+14:24:40:098 LeftClick  in window "Browse For Audio File" : 110,301 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:40:098 File[94] fn=Audio, ec=5
+14:24:40:098 File[94] fn=Audio, ec=5
+14:24:41:074 LeftClick  in window "Browse For Audio File" : 107,298 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:41:074 File[94] fn=Audio, ec=5
+14:24:41:074 File[94] fn=Audio, ec=5
+14:24:41:482 LeftClick  in window "Browse For Audio File" : 124,320 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:41:483 File[94] fn=Recordings, ec=5
+14:24:41:484 File[94] fn=Recordings, ec=5
+14:24:41:858 LeftClick  in window "Browse For Audio File" : 123,320 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:41:858 File[94] fn=Recordings, ec=5
+14:24:41:858 File[94] fn=Recordings, ec=5
+14:24:42:293 LeftClick  in window "Browse For Audio File" : 110,297 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:42:294 File[94] fn=Audio, ec=5
+14:24:42:294 File[94] fn=Audio, ec=5
+14:24:43:275 LeftClick  in window "Browse For Audio File" : 107,467 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:43:275 File[94] fn=Settings, ec=5
+14:24:43:275 File[94] fn=Settings, ec=5
+14:24:43:835 LeftClick  in window "Browse For Audio File" : 105,467 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:43:836 File[94] fn=Settings, ec=5
+14:24:43:836 File[94] fn=Settings, ec=5
+14:24:46:781 LeftClick  in window "Browse For Audio File" : 120,430 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:46:781 File[94] fn=Sample, ec=5
+14:24:46:781 File[94] fn=Sample, ec=5
+14:24:47:426 LeftClick  in window "Browse For Audio File" : 120,430 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:47:426 File[94] fn=Sample, ec=5
+14:24:47:426 File[94] fn=Sample, ec=5
+14:24:47:921 LeftClick  in window "Browse For Audio File" : 122,426 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:47:922 File[94] fn=Sample, ec=5
+14:24:47:923 File[94] fn=Sample, ec=5
+14:24:49:185 LeftClick  in window "Browse For Audio File" : 122,426 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:49:186 File[94] fn=Sample, ec=5
+14:24:49:186 File[94] fn=Sample, ec=5
+14:24:49:649 LeftClick  in window "Browse For Audio File" : 118,404 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:49:650 File[94] fn=Rack, ec=5
+14:24:49:650 File[94] fn=Rack, ec=5
+14:24:50:003 LeftClick  in window "Browse For Audio File" : 120,404 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:50:004 File[94] fn=Rack, ec=5
+14:24:50:004 File[94] fn=Rack, ec=5
+14:24:50:284 LeftClick  in window "Browse For Audio File" : 123,378 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:50:285 File[94] fn=Mux, ec=5
+14:24:50:285 File[94] fn=Mux, ec=5
+14:24:50:779 LeftClick  in window "Browse For Audio File" : 123,378 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:50:779 File[94] fn=Mux, ec=5
+14:24:50:780 File[94] fn=Mux, ec=5
+14:24:51:094 LeftClick  in window "Browse For Audio File" : 120,364 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:51:094 File[94] fn=MuProject, ec=5
+14:24:51:094 File[94] fn=MuProject, ec=5
+14:24:51:449 LeftClick  in window "Browse For Audio File" : 120,364 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:51:450 File[94] fn=MuProject, ec=5
+14:24:51:450 File[94] fn=MuProject, ec=5
+14:24:51:866 LeftClick  in window "Browse For Audio File" : 123,338 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:51:867 File[94] fn=MuClip, ec=5
+14:24:51:867 File[94] fn=MuClip, ec=5
+14:24:52:265 LeftClick  in window "Browse For Audio File" : 117,344 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:52:266 File[94] fn=MuClip, ec=5
+14:24:52:266 File[94] fn=MuClip, ec=5
+14:24:53:394 LeftClick  in window "Browse For Audio File" : 150,314 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:53:394 File[94] fn={UserLibrary}, ec=5
+14:24:53:394 File[94] fn={UserLibrary}, ec=5
+14:24:54:339 LeftClick  in window "Browse For Audio File" : 111,324 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:54:339 File[94] fn={UserLibrary}, ec=5
+14:24:54:339 File[94] fn={UserLibrary}, ec=5
+14:24:54:826 RightClick  in window "Browse For Audio File" : 168,324 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:24:55:665 RightClick  in window "Browse For Audio File" : 153,322 -> 000000DB32CBDAF8 = FLST = [12,77,600,600]
+14:25:00:252 LeftClick  in window "Browse For Audio File" : 330,49 -> 000000DB32CCEB08 = PSBT = newF = [327,31,38,38] = NewFolder
+14:25:08:101 Key  in window "New Folder" : Shift [S] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:08:278 Key  in window "New Folder" : [O] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:08:486 Key  in window "New Folder" : [U] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:08:687 Key  in window "New Folder" : [N] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:08:775 Key  in window "New Folder" : [D] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:09:021 Key  in window "New Folder" : [B] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:09:157 Key  in window "New Folder" : [O] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:09:544 Key  in window "New Folder" : [A] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:09:846 Key  in window "New Folder" : [R] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:10:166 Key  in window "New Folder" : [D] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:11:579 LeftClick  in window "New Folder" : 129,79 -> 000001F452196790 = PSBT = O.K. = [105,61,56,31] = "OK"
+14:25:13:062 LeftClick  in window "Browse For Audio File" : 155,705 -> 000000DB32CCABE8 = PSBT = NEWF = [109,685,66,31] = "New File"
+14:25:14:974 Key  in window "New File Name" : [1] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:15:142 Key  in window "New File Name" : [Space] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:15:350 Key  in window "New File Name" : [Minus] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:16:102 Key  in window "New File Name" : [Space] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:16:368 Key  in window "New File Name" : Shift [B] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:16:542 Key  in window "New File Name" : [U] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:16:998 Key  in window "New File Name" : [Back] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:17:182 Key  in window "New File Name" : [Back] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:17:350 Key  in window "New File Name" : [Back] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:17:526 Key  in window "New File Name" : [Back] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:17:702 Key  in window "New File Name" : [Back] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:17:869 Key  in window "New File Name" : [Back] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:19:125 Key  in window "New File Name" : Shift [B] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:19:422 Key  in window "New File Name" : [U] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:19:631 Key  in window "New File Name" : [H] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:19:829 Key  in window "New File Name" : [Space] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:20:245 Key  in window "New File Name" : Shift [D] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:20:365 Key  in window "New File Name" : [U] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:20:558 Key  in window "New File Name" : [M] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:20:726 Key  in window "New File Name" : [Space] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:21:174 Key  in window "New File Name" : Shift [T] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:21:310 Key  in window "New File Name" : [I] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:21:445 Key  in window "New File Name" : [S] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:21:607 Key  in window "New File Name" : [S] XY = 0,0 -> 000001F4537AD020 = STVL = [12,31,400,22]
+14:25:22:973 LeftClick  in window "New File Name" : 134,69 -> 000001F452194060 = PSBT = O.K. = [105,61,56,31] = "OK"
+14:25:27:434 LeftClick  in window "MuLab" : 195,133 -> 000000DB32CCB7B0 = PSBT = btn3 = [164,119,56,31] = "Wave"
+14:25:27:544 Save As Type... => Wave
+14:25:30:937 LeftClick  in window "MuLab : MuLab Project" : 1769,108 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:25:34:325 LeftClick  in window "MuLab : MuLab Project" : 1749,138 -> 000001F449EE9800 = LABL = [1713,125,112,18]
+14:25:34:535 Chk DblClk = 0
+14:25:34:842 LeftClick  in window "MuLab : MuLab Project" : 1769,114 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:25:36:555 LeftClick  in window "" : 98,78 -> 000000DB32CC5030 = TREL = PULs = [0,0,315,188]
+14:25:36:555 Popup list choice = User Library
+14:25:38:051 LeftClick  in window "MuLab : MuLab Project" : 1838,111 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:25:39:387 LeftClick  in window "MuLab : MuLab Project" : 1780,88 -> 000001F449ECABC8 = LABL = [1713,81,112,18]
+14:25:40:785 LeftClick  in window "" : 60,34 -> 000001F449EC2A38 = TREL = PULs = [0,0,90,328]
+14:25:40:786 Popup list choice = Audio Files
+14:25:41:517 LeftClick  in window "MuLab : MuLab Project" : 1786,117 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:25:42:789 LeftClick  in window "" : 142,68 -> 000000DB32CC5030 = TREL = PULs = [0,0,315,188]
+14:25:42:789 Popup list choice = User Library
+14:25:44:882 LeftClick  in window "MuLab : MuLab Project" : 1807,115 -> 000001F449EE7408 = LABL = [1713,103,194,18]
+14:25:47:787 LeftClick  in window "" : 153,113 -> 000000DB32CC5030 = TREL = PULs = [0,0,315,188]
+14:25:47:787 Popup list choice = Browse For Folder...
+14:25:52:619 LeftClick  in window "Folder Browser" : 174,500 -> 000000DB32CCBF08 = FLST = [12,77,600,600]
+14:25:53:705 LeftClick  in window "Folder Browser" : 123,503 -> 000000DB32CCBF08 = FLST = [12,77,600,600]
+14:25:54:547 LeftClick  in window "Folder Browser" : 193,700 -> 000000DB32CD8FF8 = PSBT = O.K. = [172,685,56,31] = "OK"
+14:25:56:459 LeftClick  in window "MuLab : MuLab Project" : 1732,205 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:25:56:548 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:25:57:763 LeftClick  in window "MuLab : MuLab Project" : 1732,205 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:25:57:853 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:25:58:498 LeftClick  in window "MuLab : MuLab Project" : 1727,279 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:25:59:418 LeftClick  in window "MuLab : MuLab Project" : 1703,204 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:25:59:510 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:26:05:863 LeftClick  in window "MuLab : MuLab Project" : 1711,206 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:26:05:947 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:26:10:565 LeftClick  in window "MuLab : MuLab Project" : 50,47 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:26:12:250 LeftClick  in window "" : 53,18 -> 000000DB32CD7B30 = TREL = PULs = [0,0,172,508]
+14:26:12:250 Popup list choice = Audio Setup
+14:26:12:259 CF: 00007FF71FD2EAE0 = mlap -> msap-AoSu = Audio Setup
+14:26:13:381 LeftClick  in window "MuLab" : 99,125 -> 000000DB32CD0DC0 = PSBT = btn1 = [81,119,39,31] = "Yes"
+14:26:13:471 This will stop the audio engine, OK? => Yes
+14:26:13:522 Gonna shutdown MME engine
+14:26:15:473 LeftClick  in window "Audio Setup" : 390,38 -> 000001F452196790 = PSBT = list = [381,31,18,18] = ArrowDown
+14:26:16:745 LeftClick  in window "" : 63,56 -> 000000DB32C98C00 = TREL = PULs = [0,0,110,68]
+14:26:16:745 Popup list choice = MME Audio Output
+14:26:17:226 LeftClick  in window "Audio Setup" : 392,67 -> 000001F45219A8E0 = PSBT = list = [381,57,18,18] = ArrowDown
+14:26:18:859 LeftClick  in window "" : 124,76 -> 000000DB32CAB9D0 = TREL = PULs = [0,0,176,88]
+14:26:18:859 Popup list choice = CABLE Input (VB-Audio Virtual C
+14:26:20:188 LeftClick  in window "Audio Setup" : 195,237 -> 000000DB32CD5B50 = PSBT = O.K. = [188,221,35,31] = "OK"
+14:26:20:281 Gonna startup audio engine
+14:26:20:285 Gonna startup MME engine
+14:26:20:304 Started MME audio engine:
+14:26:20:304   num headers=8
+14:26:20:304   header size=2048
+14:26:20:304   samplerate=44100
+14:26:21:612 LeftClick  in window "MuLab : MuLab Project" : 1717,202 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:26:21:708 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:26:21:711 File[94] fn=Buh Dum Tiss.Xml, ec=2
+14:26:21:716 File[94] fn=Buh Dum Tiss.Xml, ec=2
+14:26:26:011 LeftClick  in window "MuLab : MuLab Project" : 1703,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:26:26:114 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:27:31:430 LeftClick  in window "MuLab : MuLab Project" : 1698,203 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:27:31:499 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:27:34:180 LeftClick  in window "MuLab : MuLab Project" : 1698,203 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:27:34:278 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:26:769 LeftClick  in window "MuLab : MuLab Project" : 1616,53 -> 000001F44BD4F6A0 = PKYB = [890,33,1280,30]
+14:28:27:450 LeftClick  in window "MuLab : MuLab Project" : 1717,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:27:558 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:27:817 LeftClick  in window "MuLab : MuLab Project" : 1717,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:27:903 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:28:130 LeftClick  in window "MuLab : MuLab Project" : 1717,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:28:212 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:28:364 LeftClick  in window "MuLab : MuLab Project" : 1717,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:28:454 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:28:817 LeftClick  in window "MuLab : MuLab Project" : 1717,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:28:913 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:29:585 LeftClick  in window "MuLab : MuLab Project" : 1717,208 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:29:675 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:32:819 LeftClick  in window "MuLab : MuLab Project" : 1726,211 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:32:903 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:34:171 LeftClick  in window "MuLab : MuLab Project" : 1725,210 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:34:299 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:35:554 LeftClick  in window "MuLab : MuLab Project" : 1718,210 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:35:656 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:39:035 LeftClick  in window "MuLab : MuLab Project" : 1742,203 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:39:134 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:28:41:724 LeftClick  in window "MuLab : MuLab Project" : 1738,203 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:28:41:804 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:29:19:231 LeftClick  in window "MuLab : MuLab Project" : 1702,209 -> 000001F449EEA2D0 = TREL = [1665,191,242,607]
+14:29:19:355 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+14:29:20:721 LeftClick  in window "MuLab : MuLab Project" : 99,33 -> 000001F44BD306C0 = TGBT = [86,33,66,30] = "PROJECT"
+14:29:21:553 LeftClick  in window "MuLab : MuLab Project" : 46,46 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:29:22:315 LeftClick  in window "" : 60,16 -> 000000DB32CD7B30 = TREL = PULs = [0,0,172,508]
+14:29:22:315 Popup list choice = Audio Setup
+14:29:22:322 CF: 00007FF71FD2EAE0 = mlap -> msap-AoSu = Audio Setup
+14:29:23:466 LeftClick  in window "MuLab" : 104,130 -> 000000DB32CD0DC0 = PSBT = btn1 = [81,119,39,31] = "Yes"
+14:29:23:558 This will stop the audio engine, OK? => Yes
+14:29:23:618 Gonna shutdown MME engine
+14:29:27:235 LeftClick  in window "Audio Setup" : 251,17 -> 000001F4514A5E28 = LABL = [4,4,403,19]
+14:29:31:913 LeftClick  in window "Audio Setup" : 386,69 -> 000001F4521981B0 = PSBT = list = [381,57,18,18] = ArrowDown
+14:29:52:980 LeftClick  in window "Audio Setup" : 207,237 -> 000000DB32CD5B50 = PSBT = O.K. = [188,221,35,31] = "OK"
+14:29:53:091 Gonna startup audio engine
+14:29:53:096 Gonna startup MME engine
+14:29:53:116 Started MME audio engine:
+14:29:53:116   num headers=8
+14:29:53:116   header size=2048
+14:29:53:116   samplerate=44100
+14:30:53:289 LeftClick  in window "MuLab : MuLab Project" : 58,49 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:30:54:289 LeftClick  in window "" : 56,17 -> 000000DB32CD7B30 = TREL = PULs = [0,0,172,508]
+14:30:54:290 Popup list choice = Audio Setup
+14:30:54:296 CF: 00007FF71FD2EAE0 = mlap -> msap-AoSu = Audio Setup
+14:30:55:370 LeftClick  in window "MuLab" : 99,134 -> 000000DB32CD0DC0 = PSBT = btn1 = [81,119,39,31] = "Yes"
+14:30:55:467 This will stop the audio engine, OK? => Yes
+14:30:55:526 Gonna shutdown MME engine
+14:30:56:610 LeftClick  in window "Audio Setup" : 297,7 -> 000001F4514A5E28 = LABL = [4,4,403,19]
+14:30:57:489 LeftClick  in window "Audio Setup" : 387,48 -> 000001F4521981B0 = PSBT = list = [381,31,18,18] = ArrowDown
+14:31:03:964 LeftClick  in window "Audio Setup" : 386,43 -> 000001F4521981B0 = PSBT = list = [381,31,18,18] = ArrowDown
+14:31:04:713 LeftClick  in window "" : 50,37 -> 000000DB32C98C00 = TREL = PULs = [0,0,110,68]
+14:31:04:713 Popup list choice = ASIO
+14:31:07:474 LeftClick  in window "Audio Setup" : 391,64 -> 000001F45219B5F0 = PSBT = list = [381,57,18,18] = ArrowDown
+14:31:10:585 LeftClick  in window "Audio Setup" : 90,126 -> 000000DB32CC9EB0 = PSBT =  ins = [12,109,99,31] = "Select Inputs"
+14:31:11:714 No Inputs
+14:31:11:993 LeftClick  in window "Audio Setup" : 191,133 -> 000000DB32CCAB50 = PSBT = outs = [127,109,99,31] = "Select Outputs"
+14:31:13:099 No Outputs
+14:31:14:090 LeftClick  in window "Audio Setup" : 391,35 -> 000001F45219A8E0 = PSBT = list = [381,31,18,18] = ArrowDown
+14:31:15:490 LeftClick  in window "" : 31,14 -> 000000DB32C98C00 = TREL = PULs = [0,0,110,68]
+14:31:15:490 Popup list choice = None
+14:31:17:469 LeftClick  in window "Audio Setup" : 397,38 -> 000001F45219B5F0 = PSBT = list = [381,31,18,18] = ArrowDown
+14:31:18:244 LeftClick  in window "" : 36,49 -> 000000DB32C98C00 = TREL = PULs = [0,0,110,68]
+14:31:18:244 Popup list choice = MME Audio Output
+14:31:20:713 LeftClick  in window "Audio Setup" : 393,64 -> 000001F45219A8E0 = PSBT = list = [381,57,18,18] = ArrowDown
+14:31:22:034 LeftClick  in window "" : 112,74 -> 000000DB32CAB9D0 = TREL = PULs = [0,0,176,88]
+14:31:22:034 Popup list choice = CABLE Input (VB-Audio Virtual C
+14:31:24:986 LeftClick  in window "Audio Setup" : 206,234 -> 000000DB32CD5B50 = PSBT = O.K. = [188,221,35,31] = "OK"
+14:31:25:106 Gonna startup audio engine
+14:31:25:108 Gonna startup MME engine
+14:31:25:127 Started MME audio engine:
+14:31:25:127   num headers=8
+14:31:25:127   header size=2048
+14:31:25:127   samplerate=44100
+14:32:42:025 LeftClick  in window "MuLab : MuLab Project" : 353,48 -> 000001F44BD33550 = TLBT = [318,33,71,30] = "MODULAR"
+14:32:42:923 RightClick  in window "MuLab : MuLab Project" : 535,546 -> 000001F45123EA28 = MSTE = [12,196,4096,2048]
+14:32:43:714 LeftClick  in window "" : 26,16 -> 000000DB32CD7510 = TREL = PULs = [0,0,81,68]
+14:32:43:714 Popup list choice = Add Module
+14:32:43:720 CF: 000001F45123EA28 = MSTE = [12,196,4096,2048] -> MSTE-+Mpu = Add Module
+14:32:43:811 RwrMpu[60] RWMOpen error=100
+14:32:44:809 LeftClick  in window "" : 36,113 -> 000000DB32CD0B40 = TREL = PULs = [0,20,285,944]
+14:32:46:938 LeftClick  in window "" : 49,273 -> 000000DB32CD0B40 = TREL = PULs = [0,20,285,944]
+14:32:49:458 LeftClick  in window "" : 213,314 -> 000000DB32CD0B40 = TREL = PULs = [0,20,285,944]
+14:32:49:458 Popup list choice = Project Audio Output
+14:32:52:690 LeftClick  in window "MuLab : MuLab Project" : 610,553 -> 000001F44C3963D0 = MEMC = [535,546,101,20]
+14:32:52:861 Chk DblClk = 1
+14:32:55:210 LeftClick  in window "Select Audio Outputs" : 220,63 -> 000001F45219A8E0 = PSBT = list = [207,57,18,18] = ArrowDown
+14:32:56:703 LeftClick  in window "Select Audio Outputs" : 211,34 -> 000001F452194060 = PSBT = list = [207,31,18,18] = ArrowDown
+14:32:59:105 LeftClick  in window "Select Audio Outputs" : 111,9 -> 000001F4514A5E28 = LABL = [4,4,229,19]
+14:33:01:705 LeftClick  in window "Select Audio Outputs" : 67,96 -> 000001F452194D70 = PSBT = O.K. = [43,83,56,31] = "OK"
+14:33:02:643 LeftClick  in window "MuLab : MuLab Project" : 342,460 -> 000001F45123EA28 = MSTE = [12,196,4096,2048]
+14:33:03:657 LeftClick  in window "MuLab : MuLab Project" : 357,473 -> 000001F45123EA28 = MSTE = [12,196,4096,2048]
+14:33:07:698 LeftClick  in window "MuLab : MuLab Project" : 553,521 -> 000001F45123EA28 = MSTE = [12,196,4096,2048]
+14:33:09:082 LeftClick  in window "MuLab : MuLab Project" : 397,504 -> 000001F44E943570 = MEMC = [332,496,101,20]
+14:33:09:257 Chk DblClk = 1
+14:33:10:858 LeftClick  in window "Select Audio Outputs" : 223,67 -> 000001F452194060 = PSBT = list = [207,57,18,18] = ArrowDown
+14:33:13:745 LeftClick  in window "Select Audio Outputs" : 219,39 -> 000001F452198EC0 = PSBT = list = [207,31,18,18] = ArrowDown
+14:33:18:585 LeftClick  in window "Select Audio Outputs" : 58,90 -> 000001F452199BD0 = PSBT = O.K. = [43,83,56,31] = "OK"
+14:33:21:201 LeftClick  in window "MuLab : MuLab Project" : 35,50 -> 000001F44BD2FA20 = TGBT = [14,33,66,30] = "MULAB"
+14:33:24:834 LeftClick  in window "" : 56,11 -> 000000DB32CD7B30 = TREL = PULs = [0,0,172,508]
+14:33:24:834 Popup list choice = Audio Setup
+14:33:24:838 CF: 00007FF71FD2EAE0 = mlap -> msap-AoSu = Audio Setup
+14:33:25:889 LeftClick  in window "MuLab" : 114,132 -> 000000DB32CD0DC0 = PSBT = btn1 = [81,119,39,31] = "Yes"
+14:33:25:979 This will stop the audio engine, OK? => Yes
+14:33:26:058 Gonna shutdown MME engine
+14:35:36:913 LeftClick  in window "Audio Setup" : 390,34 -> 000001F452194060 = PSBT = list = [381,31,18,18] = ArrowDown
+14:35:37:610 LeftClick  in window "" : 56,35 -> 000000DB32C98C00 = TREL = PULs = [0,0,110,68]
+14:35:37:610 Popup list choice = ASIO
+14:35:38:650 LeftClick  in window "Audio Setup" : 46,131 -> 000000DB32CC9EB0 = PSBT =  ins = [12,109,99,31] = "Select Inputs"
+14:35:39:401 LeftClick  in window "Audio Setup" : 209,124 -> 000000DB32CCAB50 = PSBT = outs = [127,109,99,31] = "Select Outputs"
+14:35:40:535 No Outputs
+14:35:42:020 LeftClick  in window "Audio Setup" : 389,64 -> 000001F452198EC0 = PSBT = list = [381,57,18,18] = ArrowDown
+14:38:16:937 LeftClick  in window "Audio Setup" : 203,222 -> 000000DB32CD5B50 = PSBT = O.K. = [188,216,35,31] = "OK"
+14:38:17:040 Gonna startup audio engine
+14:38:17:044 Gonna startup ASIO engine
+14:38:17:045 No Driver
+14:38:22:746 LeftClick  in window "MuLab" : 81,136 -> 000000DB32CD6A50 = PSBT = btn1 = [20,119,115,31] = "Quit without Save"
+14:38:23:585 Are you sure to close MuLab Project and quit? => Quit without Save
+14:38:23:693 IWindow[414]

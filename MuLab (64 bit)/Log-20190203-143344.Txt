@@ -1,0 +1,477 @@
+14:33:42:748 OpSys=Windows
+14:33:42:748 MuLab 7.7.4 64 bit
+14:33:42:748 Delta UTC = -13
+14:33:42:748 BStf[81] Application=/C:/Personal/Music-Production/MuLab (64 bit)
+14:33:42:748 BStf[92] Desktop=/C:/Users/isaac/Desktop
+14:33:42:816 BStf[124] Graphics={Application}/App/Graphics
+14:33:42:833 Num screens = 2
+14:33:42:833 Screen 1 = 0,0,1920,1040
+14:33:42:833 Screen 2 = -1920,0,1920,1080
+14:33:42:844 File[94] fn=MidiControllerNames.Txt, ec=2
+14:33:42:846 File[94] fn=UKD.Txt, ec=2
+14:33:43:068 Gonna startup audio engine
+14:33:43:092 Gonna startup ASIO engine
+14:33:43:094 ASIO4ALL v2
+14:33:43:647 ASIOGetChannels OK. inputs: 2, outputs: 16
+14:33:43:647 ASIOGetBufferSize OK. min: 64, max: 2048, preferred: 512, granularity: 8
+14:33:43:647 ASIOGetSampleRate = 44100.000000
+14:33:43:647 ASIOOutputReady() - Not supported
+14:33:43:647 input chan 0 data type = 18
+14:33:43:647 input chan 1 data type = 18
+14:33:43:647 output chan 0 data type = 18
+14:33:43:647 output chan 1 data type = 18
+14:33:43:647 CreateAsioBuffers done. NumIns=2, NumOuts=2. Gonna AllocateBuffers with size 512
+14:33:43:647 ASIOGetLatencies OK: InLat=764, OutLat=544
+14:33:43:647 ASIOStart OK
+14:33:44:116 Started the audio engine
+14:33:44:116 MIE[32] 0 Midi Input Ports:
+14:33:44:116 MOE[31] 1 Midi Output Ports:
+14:33:44:116 MOE[41] 0=Microsoft GS Wavetable Synth
+14:33:44:127 Started the MIDI engine
+14:33:44:206 App[669]
+14:33:46:207 LeftClick  in window "Open Project" : 73,134 -> 0000017A9B028CC0 = PSBT = RCNT = [20,117,88,31] = "Recent"
+14:33:47:317 LeftClick  in window "" : 40,176 -> 00000027EE2CCEA0 = TREL = PULs = [0,0,135,208]
+14:33:47:317 Popup list choice = Voice.MuProject
+14:34:06:938 LeftClick  in window "MuLab : Voice" : 110,7 -> 0000017A9E093B18 = LABL = [4,4,268,19]
+14:34:07:115 Chk DblClk = 0
+14:34:08:903 LeftClick  in window "MuLab : Voice" : 1,324 -> 0000017A9E08EA00 = IWCC = [0,0,276,1040]
+14:34:12:078 LeftClick  in window "MuLab : Voice" : 3,423 -> 0000017A9E08EA00 = IWCC = [0,0,873,1040]
+14:34:13:406 LeftClick  in window "MuLab : Voice" : 248,567 -> 0000017A9A11A200 = MEMC = [202,556,101,20]
+14:34:13:566 Chk DblClk = 1
+14:34:16:125 LeftClick  in window "Select Audio Outputs" : 211,96 -> 0000017A9D8BF1A0 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+14:34:16:951 LeftClick  in window "MuLab : Voice" : 564,593 -> 0000017A9A119060 = MEMC = [522,576,101,20]
+14:34:17:111 Chk DblClk = 1
+14:34:18:150 LeftClick  in window "Select Audio Outputs" : 191,103 -> 0000017A9EB39400 = PSBT = CNCL = [164,83,56,31] = "Cancel"
+14:34:18:766 LeftClick  in window "MuLab : Voice" : 882,281 -> 0000017A9B3852B0 = TREL = [831,191,242,607]
+14:34:18:863 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+14:34:19:711 LeftClick  in window "MuLab : Voice" : 890,236 -> 0000017A9B3852B0 = TREL = [831,191,242,607]
+14:34:19:811 Project Browser Preview {UserLibrary}/Soundboard/Drumroll.Wav
+14:34:20:653 LeftClick  in window "MuLab : Voice" : 891,268 -> 0000017A9B3852B0 = TREL = [831,191,242,607]
+14:34:20:720 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+14:34:27:531 LeftClick  in window "MuLab : Voice" : 959,490 -> 0000017A9B3852B0 = TREL = [831,191,242,607]
+14:34:29:770 LeftClick  in window "MuLab : Voice" : 887,284 -> 0000017A9B3852B0 = TREL = [831,191,242,607]
+14:34:29:872 Project Browser Preview {UserLibrary}/Soundboard/Good Yard.Wav
+14:34:32:942 LeftClick  in window "MuLab : Voice" : 0,271 -> 0000017A9E08EA00 = IWCC = [0,0,1086,1040]
+14:51:58:077 LeftClick  in window "MuLab : Voice" : 88,303 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+14:51:58:162 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+16:48:26:058 LeftClick  in window "MuLab : Voice" : 78,302 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+16:48:26:255 Project Browser Preview {UserLibrary}/Soundboard/Hello.Wav
+17:31:31:657 LeftClick  in window "MuLab : Voice" : 121,506 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:31:33:509 LeftClick  in window "MuLab : Voice" : 140,329 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:31:33:593 Project Browser Preview {UserLibrary}/Soundboard/Nawhh Sheeeit.Wav
+17:31:46:725 LeftClick  in window "MuLab : Voice" : 89,385 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:31:46:831 Project Browser Preview {UserLibrary}/Soundboard/Yes.Wav
+17:31:54:477 LeftClick  in window "MuLab : Voice" : 89,350 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:31:54:596 Project Browser Preview {UserLibrary}/Soundboard/No.Wav
+17:32:04:862 LeftClick  in window "MuLab : Voice" : 90,323 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:32:04:971 Project Browser Preview {UserLibrary}/Soundboard/Nawhh Sheeeit.Wav
+17:32:21:982 LeftClick  in window "MuLab : Voice" : 111,226 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:32:22:072 Project Browser Preview {UserLibrary}/Soundboard/Discord Disconect.wav
+17:32:22:091 File[94] fn=Discord Disconect.Xml, ec=2
+17:32:22:091 File[94] fn=Discord Disconect.Xml, ec=2
+17:32:48:869 LeftClick  in window "MuLab : Voice" : 87,222 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:32:48:983 Project Browser Preview {UserLibrary}/Soundboard/Discord Disconect.wav
+17:33:06:002 LeftClick  in window "MuLab : Voice" : 114,203 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:33:06:074 Project Browser Preview {UserLibrary}/Soundboard/Buh Dum Tiss.Wav
+17:55:01:346 LeftClick  in window "MuLab : Voice" : 74,263 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+17:55:01:437 Project Browser Preview {UserLibrary}/Soundboard/Fuk U.Wav
+18:06:51:330 LeftClick  in window "MuLab : Voice" : 123,221 -> 0000017A9B3852B0 = TREL = [32,191,242,607]
+18:06:51:410 Project Browser Preview {UserLibrary}/Soundboard/Discord Disconect.wav
+19:30:56:984 LeftClick  in window "MuLab : Voice" : 167,8 -> 0000017A9E093B18 = LABL = [4,4,279,19]
+19:30:58:370 LeftClick  in window "MuLab : Voice" : 252,10 -> 0000017A9E092E78 = PSBT = [241,4,17,17] = ArrowUp
+19:30:58:484 CF: 0000017A9E08E360 = MSEW -> cuwd-maxz = Maximize
+19:30:59:833 LeftClick  in window "MuLab : Voice" : 179,49 -> 0000017A9D6D4BF0 = TLBT = [168,33,71,30] = "COMPOSE"
+19:32:11:374 LeftClick  in window "MuLab : Voice" : 907,133 -> 0000017A9D7185D8 = COPE = [137,96,1876,693]
+19:32:11:495 Chk DblClk = 0
+19:32:11:673 RightClick  in window "MuLab : Voice" : 874,162 -> 0000017A9D7185D8 = COPE = [137,96,1876,693]
+19:32:17:222 LeftClick  in window "MuLab : Voice" : 922,239 -> 0000017A9D7185D8 = COPE = [137,96,1876,693]
+19:32:17:406 Chk DblClk = 0
+19:32:21:478 LeftClick  in window "MuLab : Voice" : 70,183 -> 0000017A9DB5A300 = PSBT = +TRK = [4,168,126,21] = "+"
+19:32:23:162 LeftClick  in window "" : 72,70 -> 00000027EE2D7180 = TREL = PULs = [0,0,125,88]
+19:32:23:162 Popup list choice = Add Track
+19:32:23:167 CF: 0000017A9B0D8020 = comp -> comp-adnt = Add Track
+19:32:24:075 LeftClick  in window "MuLab : Voice" : 82,194 -> 0000017A9DD5F030 = TRHD = [4,168,126,36]
+19:32:24:385 RightClick  in window "MuLab : Voice" : 94,185 -> 0000017A9DD5F940 = LABL = [72,180,50,12]
+19:32:25:009 LeftClick  in window "" : 36,28 -> 00000027EE2D0F40 = TREL = PULs = [0,0,168,288]
+19:32:25:009 Popup list choice = Delete
+19:32:25:014 CF: 0000017A9EA28C90 = trac -> wobj-delt = Delete
+19:32:25:016 UR action: Delete Track "Track 3"
+19:32:25:577 LeftClick  in window "MuLab : Voice" : 58,49 -> 0000017A9D6D2A00 = TGBT = [14,33,66,30] = "MULAB"
+19:32:26:658 LeftClick  in window "MuLab : Voice" : 101,51 -> 0000017A9D6D36A0 = TGBT = [86,33,66,30] = "PROJECT"
+19:32:28:721 LeftClick  in window "" : 144,317 -> 00000027EE2D11C0 = TREL = PULs = [0,0,237,944]
+19:32:28:721 Popup list choice = Import Audio File
+19:32:28:726 CF: 0000017A9AECB010 = mlsn -> mcsn-imaf = Import Audio File
+19:32:32:443 LeftClick  in window "Browse For Audio File" : 42,216 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:32:445 File[94] fn=Personal, ec=5
+19:32:32:445 File[94] fn=Personal, ec=5
+19:32:42:657 LeftClick  in window "Browse For Audio File" : 29,88 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:42:658 File[94] fn=(null), ec=3
+19:32:42:658 File[94] fn=(null), ec=3
+19:32:43:265 LeftClick  in window "Browse For Audio File" : 29,110 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:43:266 File[94] fn=(null), ec=3
+19:32:43:266 File[94] fn=(null), ec=3
+19:32:44:306 LeftClick  in window "Browse For Audio File" : 45,300 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:44:306 File[94] fn=Users, ec=5
+19:32:44:306 File[94] fn=Users, ec=5
+19:32:44:929 LeftClick  in window "Browse For Audio File" : 56,339 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:44:929 File[94] fn=Isaac, ec=5
+19:32:44:929 File[94] fn=Isaac, ec=5
+19:32:46:410 LeftClick  in window "Browse For Audio File" : 77,485 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:46:410 File[94] fn=Personal, ec=5
+19:32:46:411 File[94] fn=Personal, ec=5
+19:32:49:081 LeftClick  in window "Browse For Audio File" : 90,387 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:49:081 File[94] fn=Music, ec=5
+19:32:49:081 File[94] fn=Music, ec=5
+19:32:52:722 LeftClick  in window "Browse For Audio File" : 102,279 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:52:722 File[94] fn=Nickelback, ec=5
+19:32:52:722 File[94] fn=Nickelback, ec=5
+19:32:53:305 LeftClick  in window "Browse For Audio File" : 126,300 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:53:306 File[94] fn=All the Right Reasons [Australian Bonus Track], ec=5
+19:32:53:306 File[94] fn=All the Right Reasons [Australian Bonus Track], ec=5
+19:32:54:306 LeftClick  in window "Browse For Audio File" : 118,295 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:54:306 File[94] fn=All the Right Reasons [Australian Bonus Track], ec=5
+19:32:54:306 File[94] fn=All the Right Reasons [Australian Bonus Track], ec=5
+19:32:54:865 LeftClick  in window "Browse For Audio File" : 126,326 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:54:866 File[94] fn=Dark Horse, ec=5
+19:32:54:866 File[94] fn=Dark Horse, ec=5
+19:32:55:307 LeftClick  in window "Browse For Audio File" : 126,326 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:55:307 File[94] fn=Dark Horse, ec=5
+19:32:55:307 File[94] fn=Dark Horse, ec=5
+19:32:55:649 LeftClick  in window "Browse For Audio File" : 122,344 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:55:650 File[94] fn=Here and Now, ec=5
+19:32:55:650 File[94] fn=Here and Now, ec=5
+19:32:55:897 LeftClick  in window "Browse For Audio File" : 122,344 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:55:897 File[94] fn=Here and Now, ec=5
+19:32:55:897 File[94] fn=Here and Now, ec=5
+19:32:56:177 LeftClick  in window "Browse For Audio File" : 122,365 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:56:177 File[94] fn=Silver Side Up, ec=5
+19:32:56:178 File[94] fn=Silver Side Up, ec=5
+19:32:56:474 LeftClick  in window "Browse For Audio File" : 122,365 -> 00000027EE2B7878 = FLST = [12,77,600,600]
+19:32:56:474 File[94] fn=Silver Side Up, ec=5
+19:32:56:474 File[94] fn=Silver Side Up, ec=5
+19:32:58:834 LeftClick  in window "Browse For Audio File" : 428,693 -> 00000027EE2C5608 = PSBT = CNCL = [396,685,56,31] = "Cancel"
+19:33:53:230 LeftClick  in window "MuLab : Voice" : 1259,9 -> 0000017A9E093B18 = LABL = [4,4,1912,19]
+19:33:55:497 LeftClick  in window "MuLab : Voice" : 696,15 -> 0000017A9E093B18 = LABL = [4,4,1912,19]
+19:34:00:434 LeftClick  in window "" : 31,62 -> 00000027EE2D2360 = PSBT = aufl = [0,0,98,98]
+19:34:00:544 UR action: Dropped Audio File
+19:34:01:914 LeftClick  in window "MuLab : Voice" : 801,13 -> 0000017A9E093B18 = LABL = [4,4,1912,19]
+19:34:02:836 LeftClick  in window "MuLab : Voice" : 1725,12 -> 0000017A9E093B18 = LABL = [4,4,1912,19]
+19:34:03:922 LeftClick  in window "MuLab : Voice" : 1409,12 -> 0000017A9E093B18 = LABL = [4,4,1912,19]
+19:34:04:754 LeftClick  in window "MuLab : Voice" : 759,76 -> 0000017A9D70BAF0 = TBAR = [137,76,17004,20]
+19:34:04:836 Mouse Lasso 759,76,0,20
+19:34:05:076 Chk DblClk = 0
+19:34:05:689 LeftClick  in window "MuLab : Voice" : 514,44 -> 0000017A9D6D9428 = TLBT = [473,33,60,30] = Play
+19:34:15:142 LeftClick  in window "MuLab : Voice" : 849,115 -> 0000017A9A1759C0 = APtC = [770,96,12970,36]
+19:34:15:196 Drag 0000017A9EEDB270 = afpt
+19:34:15:423 Drop on 0000017A9D7185D8 = COPE = [137,96,17004,693]
+19:34:15:425 UR action: Move Part(s)
+19:34:15:922 LeftClick  in window "MuLab : Voice" : 766,81 -> 0000017A9D70BAF0 = TBAR = [137,76,17004,20]
+19:34:16:003 Mouse Lasso 766,76,0,20
+19:34:16:420 Chk DblClk = 0
+19:34:21:431 LeftClick  in window "MuLab : Voice" : 1036,493 -> 0000017A9D7185D8 = COPE = [137,96,17004,693]
+19:34:21:563 Chk DblClk = 0
+19:34:23:594 LeftClick  in window "MuLab : Voice" : 496,54 -> 0000017A9D6D9428 = TLBT = [473,33,60,30] = Play
+19:34:34:369 LeftClick  in window "MuLab : Voice" : 110,49 -> 0000017A9D6D36A0 = TGBT = [86,33,66,30] = "PROJECT"
+19:34:35:234 LeftClick  in window "MuLab : Voice" : 46,44 -> 0000017A9D6D2A00 = TGBT = [14,33,66,30] = "MULAB"
+19:34:36:313 LeftClick  in window "MuLab : Voice" : 358,52 -> 0000017A9D6D6530 = TLBT = [318,33,71,30] = "MODULAR"
+19:34:37:154 LeftClick  in window "MuLab : Voice" : 380,466 -> 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:34:37:303 Chk DblClk = 0
+19:34:38:097 LeftClick  in window "MuLab : Voice" : 312,342 -> 0000017A9E812B80 = MEMC = [282,326,101,20]
+19:34:38:591 Chk DblClk = 0
+19:34:45:234 LeftClick  in window "MuLab : Voice" : 353,359 -> 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:34:45:638 Chk DblClk = 0
+19:34:45:794 LeftClick  in window "MuLab : Voice" : 371,385 -> 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:34:46:281 Chk DblClk = 0
+19:34:46:794 RightClick  in window "MuLab : Voice" : 363,382 -> 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:34:49:073 RightClick  in window "MuLab : Voice" : 426,367 -> 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:34:49:929 LeftClick  in window "" : 21,12 -> 00000027EE2D7570 = TREL = PULs = [0,0,81,68]
+19:34:49:929 Popup list choice = Add Module
+19:34:49:933 CF: 0000017A9EC05A48 = MSTE = [12,196,4096,2048] -> MSTE-+Mpu = Add Module
+19:34:50:373 RwrMpu[60] RWMOpen error=100
+19:34:51:203 LeftClick  in window "" : 50,110 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:34:57:881 LeftClick  in window "" : 155,152 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:34:58:570 LeftClick  in window "" : 155,152 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:34:58:874 LeftClick  in window "" : 152,128 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:35:00:258 LeftClick  in window "" : 147,218 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:35:00:258 Popup list choice = Noise Generator
+19:35:01:250 LeftClick  in window "MuLab : Voice" : 438,392 -> 0000017A9F3FA260 = JakC = [431,387,12,9]
+19:35:02:914 LeftClick  in window "MuLab : Voice" : 477,381 -> 0000017A9EC0A370 = MEMC = [426,367,101,20]
+19:35:02:956 Drag 0000017A9EC0A370 = MEMC = [426,367,101,20]
+19:35:03:131 Drop on 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:35:03:562 LeftClick  in window "MuLab : Voice" : 440,384 -> 0000017A9E7F8CE0 = MEMC = [392,366,101,20]
+19:35:03:716 Chk DblClk = 1
+19:35:04:849 LeftClick  in window "Noise Generator" : 137,11 -> 0000017A9DDBF968 = PSBT = [123,4,17,17] = CloseDelete
+19:35:04:919 CF: 0000017A9DDBD430 = MEWd -> cuwd-clos = Close
+19:35:05:769 RightClick  in window "MuLab : Voice" : 782,240 -> 0000017A9EC05A48 = MSTE = [12,196,4096,2048]
+19:35:06:618 LeftClick  in window "MuLab : Voice" : 428,366 -> 0000017A9E7F8CE0 = MEMC = [387,363,101,20]
+19:35:06:792 Chk DblClk = 1
+19:35:11:225 LeftClick  in window "Noise Generator" : 135,16 -> 0000017A9DDBF968 = PSBT = [123,4,17,17] = CloseDelete
+19:35:11:297 CF: 0000017A9DDBD430 = MEWd -> cuwd-clos = Close
+19:35:12:587 LeftClick  in window "MuLab : Voice" : 398,375 -> 0000017A9E7F9620 = MPBt = prcs = [392,367,12,12]
+19:35:19:057 RightClick  in window "MuLab : Voice" : 389,403 -> 0000017A9EC05A48 = MSTE = [7,193,4096,2048]
+19:35:19:633 LeftClick  in window "" : 21,13 -> 00000027EE2D7570 = TREL = PULs = [0,0,48,48]
+19:35:19:634 Popup list choice = Delete
+19:35:19:641 CF: 0000017A9D607820 = ajcn -> wobj-delt = Delete
+19:35:19:645 UR action: Delete Audio Connection "Audio Connection"
+19:35:44:522 LeftClick  in window "MuLab : Voice" : 423,371 -> 0000017A9E7FD520 = MEMC = [387,363,101,20]
+19:35:44:684 Chk DblClk = 1
+19:35:45:971 LeftClick  in window "Noise Generator" : 28,101 -> 0000017A9DA6D070 = SLDR = [16,82,32,32]
+19:35:47:058 UR action: Changed Noise Generator -> Volume
+19:35:48:180 LeftClick  in window "MuLab : Voice" : 403,388 -> 0000017A9F3F6F00 = JakC = [392,383,12,9]
+19:35:50:585 LeftClick  in window "MuLab : Voice" : 403,388 -> 0000017A9F3F7790 = JakC = [392,383,12,9]
+19:35:52:123 LeftClick  in window "MuLab : Voice" : 395,376 -> 0000017A9E7FF070 = MPBt = prcs = [392,367,12,12]
+19:35:53:101 LeftClick  in window "Noise Generator" : 38,104 -> 0000017A9DA6D070 = SLDR = [16,82,32,32]
+19:35:55:701 UR action: Changed Noise Generator -> Volume
+19:35:57:602 LeftClick  in window "Noise Generator" : 34,45 -> 0000017A9F3F6670 = MPBt = [12,32,28,28]
+19:36:01:255 LeftClick  in window "MuLab : Voice" : 435,369 -> 0000017A9E7FE730 = MEMC = [387,363,101,20]
+19:36:01:354 Drag 0000017A9E7FE730 = MEMC = [387,363,101,20]
+19:36:01:609 Drop on 0000017A9EC05A48 = MSTE = [7,193,4096,2048]
+19:36:03:329 RightClick  in window "MuLab : Voice" : 432,412 -> 0000017A9EC05A48 = MSTE = [7,193,4096,2048]
+19:36:03:850 LeftClick  in window "" : 21,5 -> 00000027EE2D7570 = TREL = PULs = [0,0,81,68]
+19:36:03:850 Popup list choice = Add Module
+19:36:03:856 CF: 0000017A9EC05A48 = MSTE = [7,193,4096,2048] -> MSTE-+Mpu = Add Module
+19:36:03:937 RwrMpu[65] Not retrying failed rewire startup
+19:36:05:873 LeftClick  in window "" : 118,118 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:36:07:634 LeftClick  in window "" : 145,148 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:36:09:137 LeftClick  in window "" : 154,216 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:36:09:137 Popup list choice = Amp. Distortion
+19:36:10:163 LeftClick  in window "MuLab : Voice" : 386,372 -> 0000017A9EC05A48 = MSTE = [7,193,4096,2048]
+19:36:11:833 LeftClick  in window "MuLab : Voice" : 436,380 -> 0000017A9EC05A48 = MSTE = [7,193,4096,2048]
+19:36:13:057 LeftClick  in window "MuLab : Voice" : 444,410 -> 0000017A9FE55920 = JakC = [437,403,12,9]
+19:36:14:673 LeftClick  in window "MuLab : Voice" : 443,407 -> 0000017A9FE55920 = JakC = [437,403,12,9]
+19:36:16:193 LeftClick  in window "MuLab : Voice" : 479,421 -> 0000017A9E7FF940 = MEMC = [432,412,101,20]
+19:36:16:283 Drag 0000017A9E7FF940 = MEMC = [432,412,101,20]
+19:36:16:511 Drop on 0000017A9EC05A48 = MSTE = [7,193,4096,2048]
+19:36:21:073 LeftClick  in window "MuLab : Voice" : 487,404 -> 0000017A9F36C920 = MEMC = [407,393,101,20]
+19:36:21:233 Chk DblClk = 1
+19:36:22:042 LeftClick  in window "Amp. Distortion" : 337,26 -> 0000017A9DEB40B0 = mebc = [4,23,558,47]
+19:36:22:059 Drag 0000017A9F4F1020 = MPED = [4,23,558,240]
+19:36:23:058 LeftClick  in window "Amp. Distortion" : 269,10 -> 0000017A9F04F7E8 = LABL = [4,4,558,19]
+19:36:23:841 LeftClick  in window "Amp. Distortion" : 29,102 -> 0000017A9DA728F0 = SLDR = [16,82,32,32]
+19:36:24:403 UR action: Changed Amp. Distortion -> Input Gain
+19:36:24:841 LeftClick  in window "Amp. Distortion" : 41,143 -> 0000017A9DA73400 = SLDR = [16,130,32,32]
+19:36:25:380 UR action: Changed Amp. Distortion -> Output Gain
+19:36:26:460 LeftClick  in window "Noise Generator" : 29,106 -> 0000017A9DA6D070 = SLDR = [16,82,32,32]
+19:36:26:787 UR action: Changed Noise Generator -> Volume
+19:36:27:153 LeftClick  in window "Noise Generator" : 29,43 -> 0000017A9F3F6670 = MPBt = [12,32,28,28]
+19:36:27:705 LeftClick  in window "Noise Generator" : 30,109 -> 0000017A9DA6D070 = SLDR = [16,82,32,32]
+19:36:28:133 UR action: Changed Noise Generator -> Volume
+19:36:29:802 LeftClick  in window "Noise Generator" : 26,95 -> 0000017A9DA6D070 = SLDR = [16,82,32,32]
+19:36:30:027 UR action: Changed Noise Generator -> Volume
+19:36:32:012 LeftClick  in window "Amp. Distortion" : 332,95 -> 0000017A9DD5C010 = PSBT = list = [327,86,18,18] = ArrowDown
+19:36:34:169 LeftClick  in window "Amp. Distortion" : 252,122 -> 0000017A9F512AD0 = LABL = [230,112,34,18]
+19:36:35:289 LeftClick  in window "Amp. Distortion" : 25,98 -> 0000017A9DA728F0 = SLDR = [16,82,32,32]
+19:36:35:586 UR action: Changed Amp. Distortion -> Input Gain
+19:36:35:850 LeftClick  in window "Amp. Distortion" : 30,143 -> 0000017A9DA73400 = SLDR = [16,130,32,32]
+19:36:36:411 UR action: Changed Amp. Distortion -> Output Gain
+19:36:36:722 LeftClick  in window "Amp. Distortion" : 24,152 -> 0000017A9DA73400 = SLDR = [16,130,32,32]
+19:36:36:988 UR action: Changed Amp. Distortion -> Output Gain
+19:36:37:242 LeftClick  in window "Amp. Distortion" : 31,106 -> 0000017A9DA728F0 = SLDR = [16,82,32,32]
+19:36:37:860 UR action: Changed Amp. Distortion -> Input Gain
+19:36:38:322 LeftClick  in window "Amp. Distortion" : 34,140 -> 0000017A9DA73400 = SLDR = [16,130,32,32]
+19:36:39:324 UR action: Changed Amp. Distortion -> Output Gain
+19:36:39:634 LeftClick  in window "Amp. Distortion" : 38,137 -> 0000017A9DA73400 = SLDR = [16,130,32,32]
+19:36:39:932 UR action: Changed Amp. Distortion -> Output Gain
+19:36:40:713 LeftClick  in window "Amp. Distortion" : 45,57 -> 0000017A9DEB40B0 = mebc = [4,23,558,47]
+19:36:42:170 LeftClick  in window "Amp. Distortion" : 548,15 -> 0000017A9F04C568 = PSBT = [541,4,17,17] = CloseDelete
+19:36:42:253 CF: 0000017A9F04A030 = MEWd -> cuwd-clos = Close
+19:36:44:028 LeftClick  in window "Noise Generator" : 20,40 -> 0000017A9F3F6670 = MPBt = [12,32,28,28]
+19:36:45:350 LeftClick  in window "MuLab : Voice" : 478,403 -> 0000017A9F36C920 = MEMC = [407,393,101,20]
+19:36:45:511 Chk DblClk = 1
+19:36:46:938 LeftClick  in window "Amp. Distortion" : 550,8 -> 0000017A9F04C568 = PSBT = [541,4,17,17] = CloseDelete
+19:36:47:014 CF: 0000017A9F04A030 = MEWd -> cuwd-clos = Close
+19:36:47:853 LeftClick  in window "Noise Generator" : 130,9 -> 0000017A9DDBF968 = PSBT = [123,4,17,17] = CloseDelete
+19:36:47:929 CF: 0000017A9DDBD430 = MEWd -> cuwd-clos = Close
+19:36:48:634 RightClick  in window "MuLab : Voice" : 459,403 -> 0000017A9F36C920 = MEMC = [407,393,101,20]
+19:36:51:257 LeftClick  in window "" : 64,73 -> 00000027EE2D7640 = TREL = PULs = [0,0,168,368]
+19:36:51:257 Popup list choice = Delete
+19:36:51:261 CF: 0000017A9E0A3280 = tnhd -> wobj-delt = Delete
+19:36:51:270 UR action: Delete Amp. Distortion "Amp. Distortion"
+19:36:51:714 LeftClick  in window "MuLab : Voice" : 457,340 -> 0000017A9F36B710 = MEMC = [397,323,101,20]
+19:36:52:187 Chk DblClk = 0
+19:36:52:187 RightClick  in window "MuLab : Voice" : 461,339 -> 0000017A9F36B710 = MEMC = [397,323,101,20]
+19:36:52:737 LeftClick  in window "" : 59,68 -> 00000027EE2D7640 = TREL = PULs = [0,0,168,408]
+19:36:52:737 Popup list choice = Delete
+19:36:52:742 CF: 0000017A9DD0D880 = nsgn -> wobj-delt = Delete
+19:36:52:746 UR action: Delete Noise Generator "Noise Generator"
+19:37:03:042 LeftClick  in window "MuLab : Voice" : 290,60 -> 0000017A9D6D5890 = TLBT = [243,33,71,30] = "EDIT"
+19:37:03:746 LeftClick  in window "MuLab : Voice" : 197,39 -> 0000017A9D6D4BF0 = TLBT = [168,33,71,30] = "COMPOSE"
+19:37:04:657 LeftClick  in window "MuLab : Voice" : 824,161 -> 0000017A9A1759C0 = APtC = [770,132,12970,36]
+19:37:05:155 Chk DblClk = 0
+19:37:05:384 Key  in window "MuLab : Voice" : [Delete] XY = 0,0 -> 0000017A9D7185D8 = COPE = [137,96,17004,693]
+19:37:05:387 UR action: Delete Part(s)
+19:37:13:466 LeftClick  in window "MuLab : Voice" : 600,159 -> 0000017A9ADAA300 = APtC = [559,132,113,36]
+19:37:13:630 Drag 0000017A9B06B010 = afpt
+19:37:14:486 Drop on 0000017A9D7185D8 = COPE = [137,96,1501,693]
+19:38:32:183 LeftClick  in window "MuLab : Voice" : 352,43 -> 0000017A9D6D6530 = TLBT = [318,33,71,30] = "MODULAR"
+19:39:01:538 RightClick  in window "MuLab : Voice" : 403,395 -> 0000017A9E808A38 = MSTE = [12,196,4096,2048]
+19:39:02:474 LeftClick  in window "" : 25,7 -> 00000027EE2D7570 = TREL = PULs = [0,0,81,68]
+19:39:02:474 Popup list choice = Add Module
+19:39:02:479 CF: 0000017A9E808A38 = MSTE = [12,196,4096,2048] -> MSTE-+Mpu = Add Module
+19:39:02:554 RwrMpu[65] Not retrying failed rewire startup
+19:39:03:524 LeftClick  in window "" : 107,98 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:04:114 LeftClick  in window "" : 107,98 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:04:586 LeftClick  in window "" : 112,106 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:06:138 LeftClick  in window "" : 116,115 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:06:570 LeftClick  in window "" : 121,77 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:07:386 LeftClick  in window "" : 123,105 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:09:716 LeftClick  in window "" : 117,257 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:11:050 LeftClick  in window "" : 117,257 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:12:074 LeftClick  in window "" : 120,301 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:12:451 LeftClick  in window "" : 120,302 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:12:834 LeftClick  in window "" : 119,316 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:13:212 LeftClick  in window "" : 124,317 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:13:794 LeftClick  in window "" : 139,354 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:15:010 LeftClick  in window "" : 140,355 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:16:276 LeftClick  in window "" : 147,219 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:40:442 LeftClick  in window "" : 49,208 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:40:826 LeftClick  in window "" : 61,232 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:42:082 LeftClick  in window "" : 61,232 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:42:433 LeftClick  in window "" : 57,248 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:42:897 LeftClick  in window "" : 57,248 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:43:762 LeftClick  in window "" : 60,255 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:46:089 LeftClick  in window "" : 124,499 -> 00000027EE2D0BA0 = TREL = PULs = [0,20,285,944]
+19:39:46:089 Popup list choice = Drunken Synth
+19:39:46:099 Load preset for 0000017A9EFD19D0 = mufx : {AppLibrary}/Mux/Instruments/Misc/Drunken Synth.Mux
+19:39:47:236 LeftClick  in window "MuLab : Voice" : 410,420 -> 0000017A9E827D40 = JakC = [408,415,12,9]
+19:39:50:426 LeftClick  in window "MuLab : Voice" : 1319,61 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:51:643 LeftClick  in window "MuLab : Voice" : 411,422 -> 0000017A9E826C20 = JakC = [408,415,12,9]
+19:39:52:977 LeftClick  in window "MuLab : Voice" : 1317,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:53:563 LeftClick  in window "MuLab : Voice" : 1368,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:53:852 LeftClick  in window "MuLab : Voice" : 1368,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:54:067 LeftClick  in window "MuLab : Voice" : 1368,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:54:290 LeftClick  in window "MuLab : Voice" : 1368,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:54:732 LeftClick  in window "MuLab : Voice" : 1368,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:39:57:682 LeftClick  in window "MuLab : Voice" : 454,404 -> 0000017A9FFA30D0 = MEMC = [403,395,101,20]
+19:39:57:740 Drag 0000017A9FFA30D0 = MEMC = [403,395,101,20]
+19:39:58:903 Drop on 0000017A9EEEC3C8 = MpuC = [248,884,112,18]
+19:40:00:026 LeftClick  in window "MuLab : Voice" : 1260,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:00:698 LeftClick  in window "MuLab : Voice" : 1256,52 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:01:603 LeftClick  in window "MuLab : Voice" : 297,893 -> 0000017A9EEEC3C8 = MpuC = [248,884,112,18]
+19:40:01:641 Drag 0000017A9EEEC3C8 = MpuC = [248,884,112,18]
+19:40:02:497 Drop on 0000017A9D8C82A0 = MpuC = [466,862,112,18]
+19:40:03:386 LeftClick  in window "MuLab : Voice" : 1366,49 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:04:218 LeftClick  in window "MuLab : Voice" : 532,849 -> 0000017A9D8F5698 = LABL = [440,834,218,20]
+19:40:04:374 Chk DblClk = 0
+19:40:04:978 LeftClick  in window "MuLab : Voice" : 1418,56 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:09:722 LeftClick  in window "MuLab : Voice" : 541,873 -> 0000017A9D8C82A0 = MpuC = [466,862,112,18]
+19:40:09:886 Chk DblClk = 1
+19:40:15:204 LeftClick  in window "Drunken Synth Front Panel" : 475,9 -> 0000017A9EB41BC8 = PSBT = [469,4,17,17] = CloseDelete
+19:40:15:268 CF: 0000017A9EB3F690 = MEWd -> cuwd-clos = Close
+19:40:16:362 LeftClick  in window "MuLab : Voice" : 516,874 -> 0000017A9D8C82A0 = MpuC = [466,862,112,18]
+19:40:16:519 Chk DblClk = 1
+19:40:18:819 LeftClick  in window "Drunken Synth Front Panel" : 46,282 -> 0000017A9D9CE8F0 = SLDR = [29,269,32,32]
+19:40:19:282 UR action: Changed Drunken Synth -> Main Volume
+19:40:19:904 LeftClick  in window "MuLab : Voice" : 1415,58 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:20:410 LeftClick  in window "MuLab : Voice" : 1468,53 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:20:842 LeftClick  in window "MuLab : Voice" : 1310,53 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:21:741 LeftClick  in window "Drunken Synth Front Panel" : 50,281 -> 0000017A9D9CE8F0 = SLDR = [29,269,32,32]
+19:40:22:135 UR action: Changed Drunken Synth -> Main Volume
+19:40:22:702 LeftClick  in window "MuLab : Voice" : 1251,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:22:874 LeftClick  in window "MuLab : Voice" : 1251,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:23:058 LeftClick  in window "MuLab : Voice" : 1251,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:23:546 LeftClick  in window "MuLab : Voice" : 1356,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:23:907 LeftClick  in window "MuLab : Voice" : 1413,55 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:24:106 LeftClick  in window "MuLab : Voice" : 1467,54 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:24:267 LeftClick  in window "MuLab : Voice" : 1483,50 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:24:739 LeftClick  in window "MuLab : Voice" : 1403,50 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:24:955 LeftClick  in window "MuLab : Voice" : 1274,47 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:25:148 LeftClick  in window "MuLab : Voice" : 1217,43 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:40:28:685 LeftClick  in window "Drunken Synth Front Panel" : 197,44 -> 0000017A9EB3F340 = PSBT = NxtP = [191,37,18,18] = ArrowRight
+19:40:28:787 Load preset for 0000017A9EFD19D0 = mufx : {AppLibrary}/Mux/Instruments/Misc/En Garde.Mux
+19:40:30:306 LeftClick  in window "En Garde Front Panel" : 58,43 -> 0000017A9F426B70 = PSBT = PrvP = [48,37,18,18] = ArrowLeft
+19:40:30:371 Load preset for 0000017A9EFD19D0 = mufx : {AppLibrary}/Mux/Instruments/Misc/Drunken Synth.Mux
+19:40:30:722 LeftClick  in window "Drunken Synth Front Panel" : 120,43 -> 0000017A9F31C670 = LABL = PNam = [66,37,125,18]
+19:40:35:483 LeftClick  in window "" : 39,107 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:35:970 LeftClick  in window "" : 52,131 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:36:666 LeftClick  in window "" : 52,131 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:37:058 LeftClick  in window "" : 45,156 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:38:642 LeftClick  in window "" : 46,155 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:39:147 LeftClick  in window "" : 46,175 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:39:617 LeftClick  in window "" : 46,175 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:40:114 LeftClick  in window "" : 46,192 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:40:514 LeftClick  in window "" : 46,192 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:41:018 LeftClick  in window "" : 56,220 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:41:810 LeftClick  in window "" : 51,221 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:42:362 LeftClick  in window "" : 45,242 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:44:458 LeftClick  in window "" : 41,327 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:45:418 LeftClick  in window "" : 35,370 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:46:938 LeftClick  in window "" : 36,370 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:47:370 LeftClick  in window "" : 40,357 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:47:859 LeftClick  in window "" : 41,356 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:48:626 LeftClick  in window "" : 47,415 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:49:066 LeftClick  in window "" : 47,415 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:50:762 LeftClick  in window "" : 45,420 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:51:586 LeftClick  in window "" : 45,413 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:52:787 LeftClick  in window "" : 37,97 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:53:674 LeftClick  in window "" : 39,96 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:54:115 LeftClick  in window "" : 39,99 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:40:57:548 LeftClick  in window "" : 39,99 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:41:00:346 LeftClick  in window "Drunken Synth Front Panel" : 169,45 -> 0000017A9F31C670 = LABL = PNam = [66,37,125,18]
+19:41:02:354 LeftClick  in window "" : 82,206 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:41:02:762 LeftClick  in window "" : 94,137 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:41:04:626 LeftClick  in window "" : 117,242 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:41:04:626 Popup list choice = Random Choir
+19:41:04:634 Load preset for 0000017A9EFD19D0 = mufx : {AppLibrary}/Mux/Instruments/Choir/Random Choir.Mux
+19:41:09:489 LeftClick  in window "MuLab : Voice" : 1461,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:09:497 LeftClick  in window "Random Choir Front Panel" : 113,43 -> 0000017A9F31C670 = LABL = PNam = [66,37,125,18]
+19:41:09:572 LeftClick  in window "" : 245,281 -> 00000027EE2D1110 = TREL = PULs = [0,0,270,944]
+19:41:10:466 LeftClick  in window "Random Choir Front Panel" : 487,10 -> 0000017A9F058588 = PSBT = [475,4,17,17] = CloseDelete
+19:41:10:557 CF: 0000017A9F056050 = MEWd -> cuwd-clos = Close
+19:41:12:666 LeftClick  in window "MuLab : Voice" : 1467,57 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:27:026 LeftClick  in window "MuLab : Voice" : 608,370 -> 0000017A9F2E1CC0 = MEMC = [522,366,101,20]
+19:41:27:170 Chk DblClk = 1
+19:41:28:532 LeftClick  in window "Random Choir Rack" : 112,57 -> 0000017AA8BFED20 = MpuC = [30,51,112,18]
+19:41:28:709 Chk DblClk = 1
+19:41:32:847 LeftClick  in window "MuLab : Voice" : 1365,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:36:395 LeftClick  in window "MuLab : Voice" : 1365,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:37:460 LeftClick  in window "MuLab : Voice" : 1365,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:37:642 LeftClick  in window "MuLab : Voice" : 1365,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:37:811 LeftClick  in window "MuLab : Voice" : 1365,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:37:955 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:38:130 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:38:299 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:38:482 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:38:649 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:38:817 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:38:985 LeftClick  in window "MuLab : Voice" : 1364,59 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:47:754 LeftClick  in window "MuLab : Voice" : 1473,50 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:47:954 LeftClick  in window "MuLab : Voice" : 1473,50 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:48:140 LeftClick  in window "MuLab : Voice" : 1473,50 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:48:418 LeftClick  in window "MuLab : Voice" : 1533,53 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:48:594 LeftClick  in window "MuLab : Voice" : 1626,54 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:48:858 LeftClick  in window "MuLab : Voice" : 1407,47 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:49:058 LeftClick  in window "MuLab : Voice" : 1245,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:49:331 LeftClick  in window "MuLab : Voice" : 1169,51 -> 0000017A9D6F2680 = PKYB = [617,33,1280,30]
+19:41:50:821 LeftClick  in window "Random Choir Front Panel" : 244,3 -> 0000017A9EFC3A10 = IWCC = [0,0,500,501]
+19:41:51:603 LeftClick  in window "Random Choir Front Panel" : 158,21 -> 0000017A9EFC8B28 = LABL = [4,4,492,19]
+19:41:52:323 LeftClick  in window "Random Choir Front Panel" : 205,19 -> 0000017A9EFC8B28 = LABL = [4,4,492,19]
+19:41:59:642 LeftClick  in window "Random Choir Front Panel" : 482,16 -> 0000017A9EFC58A8 = PSBT = [475,4,17,17] = CloseDelete
+19:41:59:734 CF: 0000017A9EFC3370 = MEWd -> cuwd-clos = Close
+19:42:00:762 RightClick  in window "MuLab : Voice" : 591,377 -> 0000017A9F2E1CC0 = MEMC = [522,366,101,20]
+19:42:01:635 LeftClick  in window "" : 65,73 -> 00000027EE2D7640 = TREL = PULs = [0,0,178,688]
+19:42:01:635 Popup list choice = Delete
+19:42:01:639 CF: 0000017A9D571860 = rack -> wobj-delt = Delete
+19:42:01:661 UR action: Delete Rack "Random Choir Rack"
+19:42:04:410 LeftClick  in window "MuLab : Voice" : 653,310 -> 0000017AA0F62690 = MEMC = [602,296,101,20]
+19:42:04:570 Chk DblClk = 1
+19:42:05:986 LeftClick  in window "Track 2 Recorder" : 314,13 -> 0000017A9F058588 = PSBT = [300,4,17,17] = CloseDelete
+19:42:06:092 CF: 0000017A9F056050 = MEWd -> cuwd-clos = Close
+19:42:07:751 Key  in window "MuLab : Voice" : Ctrl [Z] XY = 0,0 -> 0000017A9E808A38 = MSTE = [12,196,4096,2048]
+19:42:07:769 CF: 0000017A9AECB1D8 = urmr -> urmr-undo = Undo
+19:42:07:769 Undo: Delete Rack "Random Choir Rack"
+19:42:09:083 LeftClick  in window "MuLab : Voice" : 671,340 -> 0000017A9E808A38 = MSTE = [12,196,4096,2048]
+19:42:09:189 Chk DblClk = 0
+19:42:09:539 LeftClick  in window "MuLab : Voice" : 601,366 -> 0000017AA0F638A0 = MEMC = [522,366,101,20]
+19:42:10:034 Chk DblClk = 0
+19:42:10:313 Key  in window "MuLab : Voice" : [Delete] XY = 0,0 -> 0000017A9E808A38 = MSTE = [12,196,4096,2048]
+19:42:10:330 UR action: Delete Rack "Random Choir Rack"
+19:42:11:682 LeftClick  in window "MuLab : Voice" : 205,60 -> 0000017A9D6D4BF0 = TLBT = [168,33,71,30] = "COMPOSE"
+19:42:13:307 LeftClick  in window "MuLab : Voice" : 172,7 -> 0000017A9E093B18 = LABL = [4,4,1912,19]
+19:42:15:490 LeftClick  in window "MuLab : Voice" : 0,217 -> 0000017A9E08EA00 = IWCC = [0,0,1920,1040]
+19:42:18:970 LeftClick  in window "MuLab : Voice" : 103,9 -> 0000017A9E093B18 = LABL = [4,4,263,19]
+19:42:20:963 LeftClick  in window "MuLab : Voice" : 98,16 -> 0000017A9E093B18 = LABL = [4,4,263,19]
+01:09:14:021 LeftClick  in window "MuLab : Voice" : 92,229 -> 0000017A9B3852B0 = TREL = [16,191,242,607]
+01:09:14:106 Project Browser Preview {UserLibrary}/Soundboard/Discord Disconect.wav
+01:09:14:108 File[94] fn=Discord Disconect.Xml, ec=2
+01:09:14:111 File[94] fn=Discord Disconect.Xml, ec=2
